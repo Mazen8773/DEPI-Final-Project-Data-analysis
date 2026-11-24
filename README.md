@@ -112,9 +112,9 @@ Islam atef
 
 The project files and deliverables will be organized and linked here as they become available.
 
-- **Dataset:**
-- **Data Preprocessing Notebook:** 
-- **Analysis Questions and Results:** 
+- **Dataset:*https://github.com/Mazen8773/DEPI-Final-Project-Data-analysis/tree/main/HR*
+- **Data Preprocessing Notebook:*https://github.com/Mazen8773/DEPI-Final-Project-Data-analysis/tree/main/DEPI%20Project%20-%20HR%20-%20Week%201/DEPI%20Project%20-%20HR%20-%20Week%201*
+- **Analysis Questions and Results:*https://github.com/Mazen8773/DEPI-Final-Project-Data-analysis/tree/main/week%202%20final%20project* 
 - **Forecasting Visualizations:** 
 - **Tableau Dashboard:** 
 - **Final Report and Presentation:** 
