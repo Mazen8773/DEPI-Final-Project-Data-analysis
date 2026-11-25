@@ -1,0 +1,1471 @@
+employeeid,firstname,lastname,department,jobrole,age,yearsatcompany,yearssincelastpromotion,overtime,jobsatisfaction,attrition,salary,Predicted_Attrition,Attrition_Risk_Probability,Risk_Level,Predicted_Salary,Salary_Difference
+001A-8F88,Christy,Jumel,Technology,Software Engineer,22,1,1,No,3.0,No,27763,No,0.2861,Low Risk,38625.23,10862.23
+005C-E0FB,Fin,O'Halleghane,Sales,Sales Executive,24,5,2,No,4.0,No,56155,No,0.2135,Low Risk,85343.12,29188.12
+00A3-2445,Wyatt,Ziehm,Technology,Machine Learning Engineer,30,10,6,No,5.0,No,126238,No,0.0578,Low Risk,146448.9,20210.9
+00B0-F199,Trueman,Jirasek,Sales,Sales Executive,23,1,1,Yes,3.0,Yes,97824,Yes,0.805,High Risk,82197.7,-15626.3
+00D4-DD53,Joyce,Goor,Technology,Software Engineer,30,5,4,Yes,4.0,Yes,68508,No,0.315,Low Risk,75497.06,6989.06
+00E4-3D60,Sherilyn,Girke,Technology,Data Scientist,30,0,0,No,2.0,Yes,109778,Yes,0.8456,High Risk,99965.62,-9812.38
+0145-DBFC,Keelia,Studde,Technology,Data Scientist,34,8,7,No,5.0,No,104268,No,0.0272,Low Risk,71678.85,-32589.15
+0172-B5D2,Ketti,Keighley,Technology,Machine Learning Engineer,27,2,2,No,2.0,No,93291,No,0.2062,Low Risk,91884.56,-1406.44
+017D-0B97,Maison,Werndley,Sales,Sales Representative,20,2,1,Yes,4.0,No,22558,No,0.4653,Medium Risk,30286.84,7728.84
+018B-DF1E,Otha,Sopper,Sales,Sales Representative,19,0,0,Yes,3.0,No,24499,No,0.496,Medium Risk,32168.27,7669.27
+0210-E0D8,Yankee,Charteris,Sales,Sales Executive,36,1,1,Yes,3.0,Yes,243989,Yes,0.5312,Medium Risk,266675.02,22686.02
+022A-0219,Francine,Fernez,Technology,Software Engineer,32,10,9,No,3.0,No,86639,No,0.0366,Low Risk,70820.06,-15818.94
+0240-4D29,Kaylil,Blenkiron,Technology,Software Engineer,35,8,8,No,4.0,No,77269,No,0.0193,Low Risk,72013.97,-5255.03
+02DA-7A72,Tadeas,Lackney,Sales,Sales Representative,29,6,1,No,2.0,Yes,78726,No,0.3669,Medium Risk,71583.18,-7142.82
+0317-B7BC,Ronni,Beechcraft,Sales,Sales Executive,23,2,2,Yes,5.0,No,72622,No,0.3886,Medium Risk,67629.49,-4992.51
+0322-D46B,Nikolas,Leslie,Sales,Sales Executive,32,10,1,No,4.0,No,105748,No,0.1185,Low Risk,126887.46,21139.46
+0375-2F04,Lani,Raddenbury,Sales,Sales Executive,19,1,1,No,3.0,No,51673,No,0.1607,Low Risk,50212.56,-1460.44
+03C5-51AD,Maxie,Banker,Technology,Data Scientist,25,7,6,Yes,4.0,Yes,32354,Yes,0.6458,Medium Risk,37286.07,4932.07
+03D3-AA88,Mycah,Brolechan,Technology,Software Engineer,23,4,2,No,5.0,No,42250,No,0.084,Low Risk,40199.45,-2050.55
+03D5-622D,Aurora,Whate,Sales,Sales Executive,21,1,1,Yes,3.0,No,54355,No,0.4572,Medium Risk,54246.81,-108.19
+03D9-FF08,Lynnette,Portinari,Technology,Software Engineer,22,2,1,No,5.0,No,44135,Yes,0.5407,Medium Risk,40991.22,-3143.78
+03EF-5904,Shepperd,Brittain,Technology,Machine Learning Engineer,31,9,4,No,5.0,No,195261,No,0.0388,Low Risk,152055.35,-43205.65
+040C-EDED,Lonnie,Braxton,Technology,Software Engineer,22,3,2,Yes,3.0,Yes,26782,Yes,0.8274,High Risk,37411.18,10629.18
+041A-31B0,Gerri,Fullerlove,Technology,Software Engineer,34,10,9,No,2.0,No,50386,No,0.0128,Low Risk,69913.14,19527.14
+04D3-B8D3,Ann,Sivorn,Technology,Senior Software Engineer,24,0,0,No,3.0,No,158437,No,0.3338,Low Risk,100801.51,-57635.49
+04D7-C8F3,Scarlett,Elstob,Technology,Data Scientist,26,7,7,No,1.0,No,42052,No,0.0846,Low Risk,37744.61,-4307.39
+04E6-6B61,Rodd,Haddow,Sales,Sales Executive,29,1,1,No,2.0,No,140158,No,0.4064,Medium Risk,155399.33,15241.33
+054A-0B94,Temp,Weyland,Technology,Data Scientist,20,1,1,No,3.0,No,26702,No,0.1805,Low Risk,38110.36,11408.36
+0592-D909,Jamill,Woolger,Technology,Analytics Manager,39,2,2,No,4.0,No,495977,No,0.1509,Low Risk,458586.64,-37390.36
+05B0-755F,Sollie,Arnke,Technology,Data Scientist,44,9,8,No,3.0,No,57890,No,0.0244,Low Risk,69239.52,11349.52
+05CD-292D,Buddie,Desforges,Technology,Software Engineer,24,4,4,No,3.0,No,54501,No,0.1827,Low Risk,39553.72,-14947.28
+05DA-5423,Moira,Forsey,Technology,Software Engineer,26,6,6,No,5.0,No,34630,No,0.1039,Low Risk,38348.34,3718.34
+05ED-92F1,Justus,MacCall,Sales,Sales Representative,27,3,1,Yes,5.0,Yes,28984,Yes,0.8643,High Risk,36937.85,7953.85
+05F0-6F7B,Ashlee,Mc Combe,Technology,Data Scientist,24,5,3,No,3.0,No,100818,No,0.2711,Low Risk,53779.9,-47038.1
+0602-02AB,Lynnet,Foord,Sales,Manager,35,0,0,No,3.0,No,487746,No,0.2906,Low Risk,400640.47,-87105.53
+0626-7020,Ketti,Carney,Technology,Senior Software Engineer,24,5,5,Yes,5.0,No,126527,No,0.0986,Low Risk,96573.31,-29953.69
+0678-748A,Maurits,Farmery,Sales,Sales Executive,25,6,6,Yes,2.0,Yes,57698,No,0.2398,Low Risk,83321.04,25623.04
+0697-ADC3,Robert,Muffitt,Technology,Software Engineer,38,8,5,Yes,5.0,No,45942,No,0.1327,Low Risk,67773.55,21831.55
+06B1-2653,Montgomery,Galliford,Technology,Software Engineer,19,0,0,No,3.0,No,27474,No,0.2786,Low Risk,37301.09,9827.09
+06B9-B79D,Roseanne,Thrustle,Sales,Sales Executive,21,1,0,No,4.0,Yes,76057,Yes,0.7598,High Risk,61058.65,-14998.35
+06DE-E772,Zechariah,Sturridge,Sales,Sales Executive,34,1,0,No,3.0,Yes,341971,No,0.4451,Medium Risk,261962.45,-80008.55
+06E8-4FD4,Emilee,Wenham,Sales,Sales Representative,20,0,0,Yes,3.0,Yes,38532,Yes,0.7126,High Risk,32284.23,-6247.77
+0742-C802,Glennis,Miquelet,Technology,Senior Software Engineer,24,3,2,Yes,4.0,No,66110,No,0.1984,Low Risk,85310.34,19200.34
+076F-8AA3,Reese,Dibbert,Technology,Data Scientist,39,9,6,No,4.0,Yes,58685,Yes,0.5399,Medium Risk,65019.43,6334.43
+078A-E0F5,Antonino,Gillcrist,Sales,Sales Executive,18,0,0,No,3.0,No,52198,No,0.2324,Low Risk,58870.47,6672.47
+078D-B654,Cob,Cruikshank,Technology,Senior Software Engineer,24,0,0,No,3.0,No,113262,No,0.294,Low Risk,99359.47,-13902.53
+07AF-3631,Ignazio,Bendixen,Sales,Sales Executive,25,6,4,Yes,3.0,No,149519,No,0.11,Low Risk,97030.87,-52488.13
+07B2-D67A,Rossie,Everleigh,Sales,Manager,44,10,8,No,4.0,No,285620,No,0.0248,Low Risk,313782.03,28162.03
+07C3-7429,Hendrik,Blenkharn,Technology,Machine Learning Engineer,26,6,6,No,3.0,No,54470,No,0.0777,Low Risk,89263.45,34793.45
+07F1-62C3,Bertrand,Davidsen,Technology,Software Engineer,27,7,7,Yes,4.0,No,39001,No,0.2772,Low Risk,40849.77,1848.77
+07F5-A45D,Willdon,Spurgin,Sales,Sales Representative,24,4,3,Yes,1.0,Yes,38448,Yes,0.5905,Medium Risk,35268.09,-3179.91
+07F6-D61B,Jodee,Vala,Technology,Software Engineer,23,4,4,No,4.0,No,23995,No,0.1374,Low Risk,40308.76,16313.76
+0846-2064,Hedvige,De Wolfe,Technology,Analytics Manager,33,3,2,No,4.0,No,230945,No,0.1541,Low Risk,282535.96,51590.96
+085C-7FC2,Emmerich,Wallicker,Sales,Sales Executive,47,10,10,No,4.0,No,176158,No,0.02,Low Risk,145501.81,-30656.19
+0868-097F,Modesty,Kingescot,Technology,Engineering Manager,33,9,1,No,1.0,No,267009,No,0.133,Low Risk,298939.62,31930.62
+08AC-30AB,Wolf,Sainsbury,Technology,Analytics Manager,51,1,1,No,3.0,No,232658,No,0.1836,Low Risk,295416.78,62758.78
+08E4-D3D5,Olvan,Coatham,Technology,Data Scientist,21,1,1,No,4.0,Yes,34634,Yes,0.6687,High Risk,38394.29,3760.29
+08FC-817E,Milka,Vinas,Technology,Software Engineer,26,7,4,No,4.0,No,30217,No,0.0927,Low Risk,37905.86,7688.86
+097B-A688,Hillard,Hulson,Technology,Data Scientist,23,5,4,Yes,3.0,No,26198,No,0.3307,Low Risk,39498.11,13300.11
+09D2-46BD,Karyl,Ponten,Sales,Sales Executive,26,6,5,Yes,5.0,No,92364,No,0.1457,Low Risk,105092.65,12728.65
+0A05-3943,Sherie,Pattington,Technology,Software Engineer,26,2,1,Yes,4.0,Yes,33273,Yes,0.865,High Risk,37760.88,4487.88
+0A4E-1A4A,Aloysius,Holdren,Sales,Sales Executive,22,3,3,Yes,4.0,No,53014,Yes,0.6062,Medium Risk,58849.75,5835.75
+0AA2-881A,Jeffrey,Mildmott,Technology,Software Engineer,25,6,2,No,2.0,No,29126,No,0.1076,Low Risk,41594.98,12468.98
+0AE7-DDE2,Martyn,Rathke,Technology,Machine Learning Engineer,23,4,4,No,4.0,No,46850,No,0.0991,Low Risk,70711.32,23861.32
+0AF4-EC15,Gwenore,Bernucci,Sales,Sales Executive,24,4,4,No,3.0,No,91915,No,0.1934,Low Risk,87587.59,-4327.41
+0B19-EFB2,Ada,Bynold,Technology,Engineering Manager,39,4,4,Yes,4.0,No,300594,No,0.1668,Low Risk,378358.17,77764.17
+0B49-32CD,Nettle,Manwaring,Technology,Data Scientist,20,2,0,No,4.0,No,41179,No,0.4522,Medium Risk,37903.56,-3275.44
+0B72-0EE6,Noll,Antoniottii,Technology,Senior Software Engineer,24,6,1,No,2.0,No,70849,No,0.1486,Low Risk,87771.78,16922.78
+0B9A-B6DE,Mikol,Ortner,Technology,Machine Learning Engineer,19,1,1,No,3.0,No,60077,No,0.1904,Low Risk,57748.09,-2328.91
+0BAF-7454,Ninnette,Braganza,Technology,Software Engineer,26,5,5,No,3.0,No,37530,No,0.1012,Low Risk,40052.59,2522.59
+0BEE-FC20,Sherill,Covotti,Sales,Manager,49,1,1,No,3.0,No,413946,No,0.1433,Low Risk,309761.62,-104184.38
+0C23-26DD,Bathsheba,Ablewhite,Sales,Sales Representative,35,9,7,No,2.0,No,81389,No,0.0153,Low Risk,67162.52,-14226.48
+0C37-B7CF,Maximilien,Bodimeade,Technology,Senior Software Engineer,22,3,3,No,4.0,No,68743,No,0.1209,Low Risk,63571.48,-5171.52
+0C54-705D,Grata,Yannoni,Sales,Manager,50,1,0,No,3.0,No,291477,No,0.2328,Low Risk,321453.09,29976.09
+0C5B-2EF4,Amery,Theunissen,Technology,Software Engineer,20,1,1,No,3.0,No,28506,No,0.2781,Low Risk,37066.16,8560.16
+0C6D-2825,Tann,Lettley,Technology,Software Engineer,21,3,3,Yes,5.0,No,37164,No,0.1912,Low Risk,37303.58,139.58
+0C7B-2EA6,Oswell,McCloid,Technology,Data Scientist,34,9,6,No,3.0,No,39015,No,0.1081,Low Risk,65020.37,26005.37
+0CED-EE28,Ruthy,Pena,Technology,Data Scientist,48,10,8,No,3.0,No,47464,No,0.0329,Low Risk,68052.78,20588.78
+0CF8-1EBD,Franciska,Cubbin,Technology,Data Scientist,28,7,3,No,3.0,No,87704,No,0.1019,Low Risk,67818.23,-19885.77
+0CFA-28A3,Duff,Rioch,Human Resources,HR Executive,21,3,2,Yes,4.0,No,42303,No,0.3064,Low Risk,56584.76,14281.76
+0D1B-DEC2,Celestine,Kyngdon,Technology,Data Scientist,24,4,4,No,4.0,Yes,100586,No,0.4646,Medium Risk,56076.21,-44509.79
+0D60-C312,Erica,Delany,Technology,Machine Learning Engineer,32,1,1,Yes,2.0,No,228427,No,0.409,Medium Risk,214894.66,-13532.34
+0D8F-C0F3,Cathrine,Lankford,Technology,Data Scientist,29,1,0,No,2.0,Yes,67578,Yes,0.7575,High Risk,77285.88,9707.88
+0D92-C1D0,Shandeigh,McCaster,Technology,Machine Learning Engineer,26,0,0,No,3.0,No,125232,No,0.274,Low Risk,92865.21,-32366.79
+0DBC-596E,Dita,Perch,Technology,Data Scientist,44,9,9,Yes,2.0,No,92634,No,0.0677,Low Risk,73349.37,-19284.63
+0DC1-7EE4,Juliette,Nissle,Technology,Senior Software Engineer,25,5,5,Yes,5.0,No,68762,No,0.1076,Low Risk,81930.19,13168.19
+0E79-8257,Noby,Lifton,Technology,Data Scientist,25,6,1,No,3.0,No,28139,No,0.265,Low Risk,40906.01,12767.01
+0E85-1FC5,Pet,Dow,Technology,Senior Software Engineer,31,2,0,No,5.0,No,127182,No,0.2955,Low Risk,143528.26,16346.26
+0EA5-3A95,Brooks,Lackeye,Technology,Software Engineer,25,5,5,No,2.0,No,53271,No,0.1066,Low Risk,41043.39,-12227.61
+0F2B-3457,Steven,Bucktrout,Sales,Sales Executive,19,1,0,Yes,3.0,No,74458,Yes,0.5805,Medium Risk,63271.13,-11186.87
+0F53-9877,Verina,Bottrell,Technology,Data Scientist,24,3,0,No,4.0,No,100576,No,0.3925,Medium Risk,59104.22,-41471.78
+0F83-39C1,Samantha,Beames,Technology,Software Engineer,30,9,9,No,3.0,No,55485,No,0.0551,Low Risk,72784.81,17299.81
+0FBB-4ABE,Heywood,Westnage,Technology,Senior Software Engineer,24,3,2,No,4.0,No,82174,No,0.0808,Low Risk,85566.66,3392.66
+0FC3-2572,Bertie,Tarling,Sales,Sales Representative,24,3,1,No,2.0,No,28898,No,0.2421,Low Risk,33625.94,4727.94
+0FC8-561B,Caryl,Loving,Technology,Senior Software Engineer,29,10,10,No,5.0,No,93591,No,0.044,Low Risk,130659.16,37068.16
+0FE8-B881,Rockie,Iseton,Sales,Sales Executive,25,4,4,No,2.0,No,118048,No,0.147,Low Risk,90983.61,-27064.39
+0FEB-B474,Morten,Ridgley,Sales,Sales Executive,44,2,2,No,5.0,No,223619,No,0.1296,Low Risk,250002.13,26383.13
+1053-41B1,Andy,Lingwood,Technology,Data Scientist,19,1,1,No,5.0,No,31014,No,0.4168,Medium Risk,39077.68,8063.68
+1054-9C3B,Elizabeth,Babbe,Technology,Data Scientist,30,1,1,Yes,3.0,Yes,40285,Yes,0.7985,High Risk,73070.36,32785.36
+106F-F7C7,Amelia,Izard,Technology,Analytics Manager,25,4,3,Yes,3.0,No,168483,No,0.2709,Low Risk,199706.44,31223.44
+10C9-925C,Mechelle,Kyte,Technology,Senior Software Engineer,22,1,1,No,4.0,No,66266,No,0.3337,Low Risk,62349.44,-3916.56
+10CE-8403,Timmy,Reek,Technology,Senior Software Engineer,27,7,5,No,4.0,No,120225,No,0.0429,Low Risk,84710.41,-35514.59
+10E9-4C86,Ignacius,Dockrill,Technology,Data Scientist,34,8,7,Yes,3.0,No,44057,No,0.268,Low Risk,63695.48,19638.48
+111D-E5EF,Edna,Alison,Technology,Software Engineer,37,10,2,No,4.0,No,48395,No,0.1013,Low Risk,69924.98,21529.98
+1147-7E2F,Timotheus,Antowski,Technology,Data Scientist,22,3,1,No,2.0,Yes,37021,No,0.4801,Medium Risk,37902.32,881.32
+1158-9E23,Delly,Costerd,Technology,Machine Learning Engineer,41,3,2,No,3.0,No,235812,No,0.1788,Low Risk,255033.58,19221.58
+116F-33F1,Iain,MacNeilly,Sales,Sales Executive,19,0,0,No,3.0,No,65010,No,0.2208,Low Risk,57128.55,-7881.45
+1180-BEC9,Edgardo,McGeouch,Technology,Software Engineer,43,8,7,Yes,2.0,Yes,50946,Yes,0.5069,Medium Risk,68209.62,17263.62
+11AE-3E4D,Sheffie,Tonkin,Sales,Manager,39,10,7,Yes,3.0,No,300299,No,0.0725,Low Risk,318721.29,18422.29
+11C2-2B5B,Aurlie,Demeza,Technology,Machine Learning Engineer,26,6,6,No,3.0,No,92778,No,0.1065,Low Risk,81825.68,-10952.32
+11F9-3526,Carolan,Pigny,Technology,Senior Software Engineer,30,1,1,No,3.0,No,264407,No,0.2549,Low Risk,203736.91,-60670.09
+1217-CE30,Marchelle,Duffield,Sales,Sales Executive,45,9,9,No,2.0,No,173037,No,0.0576,Low Risk,176370.32,3333.32
+1243-8B63,Jourdain,Kither,Technology,Senior Software Engineer,26,5,5,No,3.0,No,110761,No,0.129,Low Risk,95004.95,-15756.05
+1268-3038,Christen,Hawtry,Technology,Data Scientist,21,0,0,No,3.0,No,32456,No,0.3839,Medium Risk,39078.11,6622.11
+12A7-AFD6,Garrek,Riditch,Sales,Sales Executive,24,4,3,Yes,3.0,No,53530,No,0.3541,Medium Risk,83318.75,29788.75
+12B5-11CC,Vitoria,MacVaugh,Technology,Software Engineer,30,10,9,No,4.0,No,70771,No,0.0388,Low Risk,75971.54,5200.54
+12E5-9BD1,Kessiah,Tallet,Technology,Senior Software Engineer,36,2,2,No,3.0,No,297181,No,0.0681,Low Risk,263782.5,-33398.5
+12F7-BCBB,Clea,MacCartan,Sales,Sales Representative,48,9,8,No,2.0,Yes,37124,No,0.0762,Low Risk,63513.79,26389.79
+130F-32AB,Lucretia,Leebeter,Technology,Software Engineer,20,2,1,Yes,3.0,Yes,30714,Yes,0.835,High Risk,36330.47,5616.47
+132B-F2B2,Erica,Dracksford,Technology,Software Engineer,35,10,8,Yes,4.0,No,59086,No,0.1045,Low Risk,70442.83,11356.83
+134B-4157,Stearne,Axelbee,Technology,Analytics Manager,37,9,7,No,3.0,No,513608,No,0.0138,Low Risk,470599.16,-43008.84
+1359-BEE3,Fawn,Pyke,Technology,Data Scientist,41,9,8,No,3.0,No,52581,No,0.0233,Low Risk,67349.17,14768.17
+135D-DF79,Lew,Muzzall,Sales,Sales Executive,18,0,0,No,3.0,No,72639,No,0.1986,Low Risk,58870.47,-13768.53
+1363-6BF9,Mikel,Worrall,Technology,Senior Software Engineer,36,9,6,No,5.0,No,189405,No,0.0305,Low Risk,159381.43,-30023.57
+1368-8327,Nataniel,Garrattley,Technology,Data Scientist,22,1,1,Yes,5.0,No,78467,Yes,0.5837,Medium Risk,43196.74,-35270.26
+138C-2AEA,Susannah,Gorioli,Sales,Sales Representative,22,2,2,No,4.0,No,27053,No,0.1334,Low Risk,30204.76,3151.76
+13E5-2F17,Vin,Wandless,Technology,Senior Software Engineer,24,5,4,No,2.0,Yes,139627,No,0.1602,Low Risk,92270.91,-47356.09
+13E5-8466,Cody,Tipple,Sales,Manager,47,8,5,No,3.0,No,410970,No,0.0462,Low Risk,403621.08,-7348.92
+13FA-3559,Fionna,Wilkison,Sales,Sales Executive,38,8,8,Yes,4.0,No,240248,No,0.1903,Low Risk,186928.91,-53319.09
+141B-D354,Ezmeralda,Harbach,Technology,Software Engineer,21,0,0,No,3.0,No,33306,No,0.324,Low Risk,37471.79,4165.79
+1424-0B0C,Annmaria,Keeler,Technology,Senior Software Engineer,36,4,4,Yes,5.0,No,356378,No,0.0577,Low Risk,300837.05,-55540.95
+1453-D3D8,Magnum,Dublin,Technology,Machine Learning Engineer,27,7,7,No,2.0,No,60967,No,0.0496,Low Risk,81015.43,20048.43
+1472-9F69,Algernon,Harder,Sales,Sales Representative,27,3,2,No,4.0,Yes,30870,No,0.3466,Low Risk,35558.26,4688.26
+1480-131D,Marabel,Horney,Sales,Sales Representative,21,0,0,No,3.0,No,35770,No,0.261,Low Risk,32033.49,-3736.51
+14CF-051D,Prent,Salkeld,Human Resources,Recruiter,19,0,0,No,3.0,No,20778,No,0.2488,Low Risk,32186.57,11408.57
+151D-1FF2,Kai,Lush,Sales,Sales Executive,34,9,7,Yes,4.0,Yes,173246,Yes,0.5945,Medium Risk,155166.38,-18079.62
+152E-8DB1,Beth,Kunz,Technology,Software Engineer,31,1,1,No,2.0,Yes,63482,Yes,0.6782,High Risk,120401.05,56919.05
+155B-42BE,Tommi,Lapish,Sales,Sales Executive,25,1,0,No,3.0,Yes,57018,Yes,0.6889,High Risk,80335.15,23317.15
+15B3-F392,Anthiathia,Streeting,Sales,Sales Representative,39,8,8,No,1.0,No,65612,No,0.0317,Low Risk,65957.43,345.43
+15D4-53C2,Bella,Stearn,Sales,Sales Executive,33,8,5,No,1.0,No,90726,No,0.0774,Low Risk,130525.49,39799.49
+1609-65E1,Vita,Cicchelli,Technology,Machine Learning Engineer,33,9,9,No,2.0,No,91407,No,0.0214,Low Risk,130450.44,39043.44
+16B6-9C29,Claribel,Hebron,Sales,Sales Executive,26,5,4,No,5.0,No,62868,No,0.1937,Low Risk,82568.51,19700.51
+16FB-8835,Albina,Baston,Technology,Engineering Manager,46,9,7,Yes,5.0,No,514945,No,0.0926,Low Risk,420394.67,-94550.33
+1705-0DE5,Lita,Bicker,Technology,Engineering Manager,38,0,0,No,3.0,Yes,303360,No,0.3801,Medium Risk,334927.85,31567.85
+1749-81A2,Elora,Bentjens,Technology,Software Engineer,48,10,7,No,3.0,No,65860,No,0.0546,Low Risk,71523.38,5663.38
+1787-DF90,Michail,Pimblotte,Sales,Sales Representative,26,1,1,Yes,5.0,No,70455,Yes,0.5343,Medium Risk,42339.63,-28115.37
+1799-5B3F,Howey,Woolis,Sales,Sales Executive,24,0,0,No,3.0,Yes,85118,Yes,0.8023,High Risk,92802.33,7684.33
+17AD-99F5,Ursa,O'Deegan,Technology,Software Engineer,26,5,2,Yes,5.0,Yes,26296,Yes,0.7134,High Risk,39977.1,13681.1
+17AE-E715,Norbie,Mosdill,Technology,Analytics Manager,31,8,8,Yes,5.0,No,547204,No,0.0524,Low Risk,506808.81,-40395.19
+184D-06FF,Waly,McCoish,Technology,Data Scientist,26,5,4,No,3.0,No,35757,No,0.1501,Low Risk,37362.75,1605.75
+18CE-8F30,Wendy,Bootman,Sales,Manager,31,3,3,No,4.0,No,330940,No,0.1525,Low Risk,295121.29,-35818.71
+1914-B934,Kinna,Gaythor,Sales,Sales Representative,22,3,2,Yes,5.0,Yes,22122,Yes,0.8158,High Risk,30170.29,8048.29
+19C3-DAE4,Cristiano,Brugger,Technology,Data Scientist,30,8,3,No,3.0,No,53336,No,0.1193,Low Risk,69795.17,16459.17
+1A2D-52EC,Mag,Groves,Technology,Software Engineer,25,6,5,Yes,3.0,No,39636,No,0.4271,Medium Risk,42156.25,2520.25
+1A38-1D62,Maurise,Shaxby,Technology,Data Scientist,24,4,4,Yes,5.0,No,36862,No,0.3758,Medium Risk,44481.4,7619.4
+1A6D-AF5D,Clair,Muldownie,Technology,Engineering Manager,25,5,4,No,4.0,No,243908,No,0.1293,Low Risk,239857.75,-4050.25
+1A7C-19DB,Randi,Oswick,Technology,Engineering Manager,39,1,0,Yes,2.0,Yes,539998,Yes,0.7045,High Risk,432427.26,-107570.74
+1A82-AF2C,Keriann,Umbers,Technology,Senior Software Engineer,40,1,1,Yes,3.0,No,380248,No,0.315,Low Risk,311653.51,-68594.49
+1A9A-17A3,Fifi,Stabler,Sales,Sales Executive,22,1,1,No,3.0,No,46546,No,0.1952,Low Risk,49983.31,3437.31
+1AC8-361F,Selig,Draysey,Sales,Sales Executive,26,2,1,No,2.0,Yes,87142,Yes,0.695,High Risk,85253.28,-1888.72
+1B4A-5D80,April,Carstairs,Technology,Analytics Manager,26,6,6,Yes,5.0,No,107863,No,0.1787,Low Risk,139605.9,31742.9
+1B7F-73A9,Jacques,Verne,Technology,Software Engineer,34,8,3,No,4.0,No,42721,No,0.0661,Low Risk,68154.1,25433.1
+1BAE-4DA1,Jessalin,Macrow,Technology,Software Engineer,25,5,5,No,4.0,No,28288,No,0.0792,Low Risk,37333.15,9045.15
+1BCC-100B,Virgil,Howat,Technology,Machine Learning Engineer,49,3,3,No,4.0,No,248115,No,0.0735,Low Risk,300960.87,52845.87
+1BEA-3835,Hymie,Aseef,Technology,Software Engineer,21,2,1,Yes,5.0,No,21158,Yes,0.5685,Medium Risk,36926.14,15768.14
+1C24-233B,Mendy,Beran,Technology,Machine Learning Engineer,40,9,9,No,5.0,No,145328,No,0.0225,Low Risk,143689.15,-1638.85
+1C57-5F2A,Persis,Vineall,Technology,Software Engineer,27,7,0,No,4.0,No,33606,No,0.2324,Low Risk,41881.11,8275.11
+1C6C-3B67,Emilie,Panter,Technology,Software Engineer,41,8,8,No,4.0,No,96632,No,0.0572,Low Risk,74311.44,-22320.56
+1C6F-87AA,Jolene,Stenet,Sales,Sales Executive,26,6,6,No,4.0,No,107966,No,0.0462,Low Risk,94319.77,-13646.23
+1C86-C072,Janifer,Ancliffe,Technology,Engineering Manager,38,1,1,No,3.0,No,301332,No,0.1689,Low Risk,335974.05,34642.05
+1C87-44CB,Darlene,Mansbridge,Technology,Software Engineer,28,7,6,Yes,3.0,Yes,48930,Yes,0.7079,High Risk,69264.67,20334.67
+1CB3-F7D7,Janot,Cicchillo,Sales,Sales Executive,21,0,0,No,2.0,Yes,43259,No,0.359,Medium Risk,50168.24,6909.24
+1D32-9620,Eldredge,Probyn,Human Resources,HR Executive,23,5,3,No,1.0,No,55805,No,0.1334,Low Risk,63632.72,7827.72
+1D35-190A,Carena,Devita,Human Resources,HR Executive,35,9,6,Yes,2.0,No,132563,No,0.1006,Low Risk,95817.62,-36745.38
+1D74-2661,Renaud,Gigg,Technology,Software Engineer,23,3,2,No,2.0,No,43009,No,0.1488,Low Risk,40237.07,-2771.93
+1D87-3372,Cynthea,Manilove,Technology,Engineering Manager,34,5,1,No,4.0,No,323488,No,0.1501,Low Risk,317463.95,-6024.05
+1DC4-97CF,Karee,Cristofvao,Sales,Sales Executive,25,4,4,No,5.0,No,167051,No,0.1491,Low Risk,102716.29,-64334.71
+1E20-2FFF,Addison,McCormack,Sales,Sales Executive,28,2,2,No,5.0,No,327674,No,0.1964,Low Risk,211832.95,-115841.05
+1E2C-A267,Gerick,Archibould,Sales,Sales Executive,23,2,1,No,5.0,No,65489,No,0.359,Medium Risk,67572.22,2083.22
+1E4A-5810,Eryn,Fern,Technology,Machine Learning Engineer,35,3,2,No,4.0,No,222303,No,0.2108,Low Risk,274777.0,52474.0
+1E61-70EC,Addison,Elfe,Technology,Software Engineer,46,10,5,Yes,3.0,No,56608,No,0.095,Low Risk,71708.63,15100.63
+1E61-B76A,Wilie,Northfield,Technology,Data Scientist,24,6,4,No,2.0,No,39048,No,0.2211,Low Risk,44201.49,5153.49
+1EA5-85A8,Lovell,Clee,Technology,Machine Learning Engineer,21,0,0,No,3.0,No,71821,No,0.2612,Low Risk,64667.9,-7153.1
+1EEB-ABF7,Stephenie,Cronkshaw,Technology,Software Engineer,22,3,3,No,2.0,No,43588,No,0.1121,Low Risk,38928.99,-4659.01
+1F0F-458C,Carrie,Scroyton,Technology,Data Scientist,29,5,3,Yes,3.0,Yes,60388,Yes,0.5802,Medium Risk,66237.26,5849.26
+1F12-DDDA,Farly,Drinan,Technology,Software Engineer,32,9,9,No,2.0,No,111294,No,0.0127,Low Risk,74653.05,-36640.95
+1FAC-768D,Elton,Hyrons,Technology,Software Engineer,24,3,3,No,1.0,No,61230,No,0.1233,Low Risk,42364.75,-18865.25
+1FE3-22BF,Jinny,Vannet,Technology,Machine Learning Engineer,25,4,4,No,2.0,No,65642,No,0.1169,Low Risk,79928.09,14286.09
+200B-1979,Jamie,Sarll,Technology,Engineering Manager,50,3,0,No,4.0,No,339245,No,0.1616,Low Risk,348617.39,9372.39
+205B-4D34,Cris,Jeram,Human Resources,HR Executive,41,8,5,No,3.0,No,79990,No,0.0789,Low Risk,93886.67,13896.67
+20BA-5868,Mallissa,Buzine,Sales,Sales Representative,19,0,0,No,3.0,Yes,29673,Yes,0.7719,High Risk,33729.25,4056.25
+20CA-404E,Kali,Jeppe,Technology,Analytics Manager,25,6,1,No,4.0,No,211401,No,0.2215,Low Risk,208526.46,-2874.54
+2114-EC1F,Elliott,Franciskiewicz,Sales,Sales Executive,32,0,0,No,3.0,No,106476,No,0.3062,Low Risk,181033.78,74557.78
+211E-BC82,Britt,Ritchley,Technology,Software Engineer,28,9,8,No,3.0,No,47148,No,0.0632,Low Risk,70759.28,23611.28
+217C-7180,Hale,Patty,Technology,Data Scientist,20,1,1,No,2.0,No,27141,No,0.4481,Medium Risk,38333.82,11192.82
+218E-AB6F,Mickie,D'Abbot-Doyle,Technology,Engineering Manager,42,1,1,No,5.0,No,380905,No,0.2732,Low Risk,363673.09,-17231.91
+21B3-8491,Nicky,Janssens,Technology,Analytics Manager,42,9,7,No,3.0,No,244114,No,0.0174,Low Risk,418776.84,174662.84
+21C8-00EC,Geoff,Veschambre,Technology,Senior Software Engineer,22,4,3,No,5.0,No,52314,No,0.1022,Low Risk,63616.1,11302.1
+21CB-EF3E,Eleanora,Thornbarrow,Technology,Senior Software Engineer,36,10,10,No,3.0,No,208338,No,0.0294,Low Risk,163550.93,-44787.07
+2219-56CA,Sloane,Shera,Sales,Sales Executive,28,5,5,No,3.0,Yes,185380,No,0.3969,Medium Risk,159947.97,-25432.03
+2250-86C5,Desmond,O'Fallone,Sales,Sales Executive,41,8,8,Yes,1.0,No,119592,No,0.1481,Low Risk,141193.61,21601.61
+22C9-83A6,Chick,Ballach,Technology,Software Engineer,20,0,0,No,3.0,No,38717,No,0.2439,Low Risk,39775.61,1058.61
+22FF-9076,Eleanore,Attenbrough,Sales,Sales Executive,27,6,5,No,3.0,No,173994,No,0.1189,Low Risk,108042.69,-65951.31
+2374-7581,Brian,Josskovitz,Technology,Senior Software Engineer,25,7,6,No,5.0,No,72840,No,0.0498,Low Risk,116226.08,43386.08
+23B5-93C9,Carlita,Ivanenko,Technology,Software Engineer,31,0,0,No,3.0,No,103429,No,0.232,Low Risk,163460.84,60031.84
+23E6-A67A,Faun,Gosson,Technology,Machine Learning Engineer,19,1,1,Yes,5.0,No,50352,No,0.4583,Medium Risk,55201.31,4849.31
+23FC-93A5,Marinna,Snalham,Technology,Software Engineer,26,6,6,No,5.0,No,55565,No,0.0755,Low Risk,41420.66,-14144.34
+2407-5A4E,Butch,Quinby,Technology,Data Scientist,40,8,6,No,2.0,No,38849,No,0.082,Low Risk,63260.92,24411.92
+242A-4FA0,Nowell,Prettyjohns,Technology,Software Engineer,25,6,4,Yes,3.0,No,73825,No,0.1534,Low Risk,43160.85,-30664.15
+246E-3383,Jamesy,Barnardo,Sales,Sales Executive,26,7,7,No,5.0,No,113512,No,0.087,Low Risk,92086.67,-21425.33
+24DD-6D7C,Leshia,Jenking,Technology,Machine Learning Engineer,24,3,3,No,2.0,No,78242,No,0.149,Low Risk,88152.21,9910.21
+24FA-A637,Giordano,Baum,Technology,Data Scientist,22,3,1,No,3.0,No,28953,No,0.3335,Low Risk,39246.2,10293.2
+2523-EFD4,Vanny,Ruggen,Technology,Senior Software Engineer,34,9,7,No,3.0,No,154405,No,0.0384,Low Risk,143331.33,-11073.67
+2546-1312,Carlos,Galia,Technology,Data Scientist,25,5,1,No,5.0,No,61054,No,0.4758,Medium Risk,42905.28,-18148.72
+2551-DD9B,Quintana,Di Franceshci,Technology,Senior Software Engineer,33,8,8,No,2.0,No,181244,No,0.0175,Low Risk,146474.39,-34769.61
+257B-8130,Erastus,Pennings,Technology,Senior Software Engineer,26,7,6,No,4.0,No,47676,No,0.0665,Low Risk,85582.7,37906.7
+259B-6C50,Raddie,Ballance,Sales,Sales Executive,27,6,4,Yes,3.0,No,45880,No,0.228,Low Risk,84038.88,38158.88
+25F5-0EAF,Amargo,Briddock,Sales,Sales Executive,26,6,5,No,5.0,No,104898,No,0.0907,Low Risk,87662.42,-17235.58
+2637-BDCD,Davin,Nutley,Technology,Data Scientist,21,3,3,No,5.0,No,51682,No,0.1432,Low Risk,40243.99,-11438.01
+267F-F71D,Liuka,Attenbrough,Technology,Senior Software Engineer,27,7,6,No,2.0,No,112728,No,0.0345,Low Risk,95382.23,-17345.77
+2698-A448,Linoel,Rambadt,Technology,Software Engineer,43,8,7,No,3.0,No,63511,No,0.034,Low Risk,67701.87,4190.87
+26A0-5791,Hayden,Yokelman,Sales,Sales Representative,21,0,0,Yes,3.0,No,22696,Yes,0.577,Medium Risk,32927.86,10231.86
+26DF-1241,Hebert,Drewes,Sales,Sales Representative,23,4,3,No,2.0,No,30477,No,0.12,Low Risk,31771.38,1294.38
+277A-A6FA,Annabela,Pablos,Technology,Machine Learning Engineer,35,10,8,No,3.0,No,272175,No,0.0176,Low Risk,162814.91,-109360.09
+278C-D482,Flora,Flounders,Technology,Software Engineer,26,7,6,No,2.0,No,28751,No,0.0383,Low Risk,38367.61,9616.61
+2796-828F,Bar,Dunphy,Sales,Sales Executive,22,3,1,No,5.0,No,58270,No,0.2702,Low Risk,59525.78,1255.78
+279C-7342,Amelita,Liveley,Sales,Sales Executive,29,3,1,Yes,2.0,Yes,100925,Yes,0.6249,Medium Risk,129382.47,28457.47
+27CD-A6BF,Fabiano,Edkins,Technology,Software Engineer,27,7,6,Yes,4.0,No,45276,No,0.373,Medium Risk,40121.93,-5154.07
+284C-8CB0,Dennison,Mouncey,Technology,Software Engineer,22,3,3,No,5.0,No,40115,No,0.1856,Low Risk,38396.01,-1718.99
+2857-A950,Chauncey,Golt,Sales,Sales Executive,24,5,5,No,4.0,No,64852,No,0.1808,Low Risk,82960.42,18108.42
+28CA-379D,Adorne,Beatens,Sales,Sales Representative,19,0,0,No,3.0,No,21506,No,0.35,Low Risk,31734.4,10228.4
+28EA-A010,Meara,Mahony,Sales,Sales Executive,26,3,1,Yes,3.0,Yes,149390,Yes,0.8144,High Risk,82341.42,-67048.58
+28F4-8367,Conny,Iveans,Technology,Machine Learning Engineer,25,5,5,No,5.0,No,39456,No,0.0943,Low Risk,79675.34,40219.34
+291F-B604,Sebastien,Lanmeid,Technology,Data Scientist,26,0,0,Yes,4.0,Yes,28952,Yes,0.8993,High Risk,40568.02,11616.02
+2926-D386,Son,Crowther,Technology,Machine Learning Engineer,24,3,2,Yes,3.0,No,93015,No,0.3463,Low Risk,93972.35,957.35
+2937-EB65,Jarred,Stoddard,Sales,Sales Executive,24,4,4,No,4.0,No,116132,No,0.2036,Low Risk,86196.44,-29935.56
+2962-039F,Darice,Excell,Technology,Data Scientist,47,10,9,Yes,4.0,No,133616,No,0.1362,Low Risk,67724.58,-65891.42
+296A-A685,Dina,Paice,Technology,Data Scientist,27,7,7,No,1.0,No,30783,No,0.0716,Low Risk,37976.04,7193.04
+29AC-099C,Boy,Greenall,Technology,Engineering Manager,24,3,3,No,2.0,No,115110,No,0.0967,Low Risk,157941.54,42831.54
+29C2-1A3F,Wilone,Vautrey,Technology,Senior Software Engineer,30,2,1,No,1.0,Yes,158656,Yes,0.6334,Medium Risk,127849.97,-30806.03
+29F6-C6CA,Micky,Beville,Sales,Sales Representative,35,8,7,No,4.0,No,46112,No,0.0697,Low Risk,64916.78,18804.78
+2A04-49D1,Tallie,Le Pine,Technology,Engineering Manager,41,9,2,No,4.0,No,372980,No,0.0781,Low Risk,346714.66,-26265.34
+2A20-28CD,Dody,Stiggles,Technology,Data Scientist,38,8,8,No,4.0,No,58828,No,0.0943,Low Risk,66144.55,7316.55
+2A89-93B6,Lissy,Schimek,Technology,Data Scientist,24,3,1,No,4.0,Yes,30117,Yes,0.6352,Medium Risk,47467.07,17350.07
+2A9F-6BD2,Murdock,Shayes,Sales,Sales Executive,29,3,3,Yes,2.0,No,183768,No,0.3087,Low Risk,153841.28,-29926.72
+2B08-7D3D,Roderic,Daddow,Sales,Sales Representative,45,10,10,No,4.0,No,47326,No,0.0143,Low Risk,67292.21,19966.21
+2B5B-7A52,Matti,Liversley,Sales,Sales Executive,23,3,3,Yes,5.0,No,45518,No,0.2508,Low Risk,65231.83,19713.83
+2B70-5A31,Justinian,Ladell,Technology,Software Engineer,25,5,3,No,5.0,No,44082,No,0.1536,Low Risk,39185.67,-4896.33
+2B7A-9C73,Bryanty,Wickersley,Technology,Machine Learning Engineer,45,9,9,Yes,3.0,No,123619,No,0.066,Low Risk,152472.15,28853.15
+2BCE-F73C,Mort,Alliston,Sales,Sales Executive,23,4,4,No,5.0,No,68046,No,0.1419,Low Risk,67238.58,-807.42
+2BD8-20A6,Berna,Patnelli,Technology,Engineering Manager,35,5,4,Yes,2.0,No,310285,No,0.1577,Low Risk,327198.5,16913.5
+2BE9-93DB,Walden,Hartigan,Sales,Sales Executive,19,1,1,No,3.0,No,53387,No,0.2479,Low Risk,56378.32,2991.32
+2BEA-43B2,Clay,Carabine,Technology,Software Engineer,48,9,9,No,3.0,No,103198,No,0.0217,Low Risk,71964.05,-31233.95
+2BF6-ACD3,Kimmy,Waples,Technology,Software Engineer,19,0,0,No,3.0,No,47707,No,0.2422,Low Risk,37490.52,-10216.48
+2C0F-AAE2,Norton,Rigolle,Technology,Senior Software Engineer,35,3,1,Yes,4.0,No,187372,No,0.2333,Low Risk,305605.92,118233.92
+2C7D-F9F1,Jaye,Coxhell,Technology,Machine Learning Engineer,30,9,9,No,2.0,No,262409,No,0.0214,Low Risk,166549.6,-95859.4
+2CA8-4E1B,Nicoline,Pote,Technology,Software Engineer,23,2,1,No,3.0,Yes,28753,Yes,0.6137,Medium Risk,38870.58,10117.58
+2D04-D0A5,Rosaline,Ferrieri,Sales,Sales Executive,29,2,2,No,3.0,No,126008,No,0.2948,Low Risk,149696.23,23688.23
+2D25-CAE8,Marcos,Bowkett,Sales,Sales Executive,22,3,3,Yes,3.0,No,58992,No,0.2345,Low Risk,58967.4,-24.6
+2D85-ABDD,Myrtie,Tythe,Sales,Sales Executive,33,8,8,No,2.0,No,65094,No,0.0226,Low Risk,163153.74,98059.74
+2DD1-FD7F,Godart,Burgwin,Technology,Data Scientist,22,1,0,Yes,3.0,Yes,34753,Yes,0.9089,High Risk,38407.2,3654.2
+2E25-987F,Roseann,Blueman,Technology,Software Engineer,24,3,2,No,4.0,No,30390,No,0.1515,Low Risk,40496.58,10106.58
+2E72-4BF1,Grace,Gohier,Sales,Manager,44,10,5,No,4.0,No,426142,No,0.0216,Low Risk,409612.39,-16529.61
+2E7B-43F0,Arnaldo,Balling,Technology,Engineering Manager,26,7,6,Yes,4.0,No,148211,No,0.1734,Low Risk,173089.93,24878.93
+2E9A-BD2E,Blake,Metheringham,Sales,Manager,36,9,8,No,2.0,No,432191,No,0.0413,Low Risk,417846.7,-14344.3
+2EB9-9D31,Cybill,Mitkin,Human Resources,HR Executive,27,1,1,No,3.0,No,78265,No,0.2428,Low Risk,73853.42,-4411.58
+2EC6-E2E0,Ferne,Humbell,Technology,Software Engineer,36,0,0,No,3.0,No,144071,No,0.253,Low Risk,231793.52,87722.52
+2ED2-2CEC,Kendricks,Durtnell,Technology,Senior Software Engineer,44,8,4,Yes,4.0,No,102708,No,0.1196,Low Risk,146309.68,43601.68
+2EF6-8D96,Lelia,Giles,Technology,Software Engineer,24,4,4,No,2.0,No,22965,No,0.0829,Low Risk,37788.33,14823.33
+2F04-931F,Carlyle,Catt,Technology,Data Scientist,23,1,0,Yes,5.0,Yes,37121,Yes,0.8607,High Risk,38758.54,1637.54
+2F85-AF81,Cassandre,Joubert,Technology,Senior Software Engineer,42,10,9,No,3.0,No,167089,No,0.0121,Low Risk,147492.84,-19596.16
+2F98-E645,Monah,Fivey,Technology,Data Scientist,29,5,5,Yes,2.0,Yes,105554,Yes,0.7011,High Risk,65637.65,-39916.35
+2FAE-9278,Ettore,Gorusso,Technology,Senior Software Engineer,24,6,4,Yes,4.0,No,92798,No,0.2024,Low Risk,89854.27,-2943.73
+2FC6-7ED5,Deena,Deegan,Technology,Machine Learning Engineer,44,4,0,No,5.0,No,303779,No,0.3109,Low Risk,267964.86,-35814.14
+2FC8-999D,Terrie,Barnish,Technology,Analytics Manager,27,7,6,No,3.0,No,240633,No,0.0277,Low Risk,248434.62,7801.62
+3012-1A41,Leonelle,Simco,Sales,Sales Executive,30,10,9,No,2.0,No,102059,No,0.0363,Low Risk,141042.57,38983.57
+3044-EB49,Rolando,Pioch,Sales,Sales Executive,23,3,3,Yes,2.0,No,100314,No,0.2376,Low Risk,78837.7,-21476.3
+3051-927B,Gisella,McRannell,Human Resources,HR Business Partner,39,0,0,No,3.0,No,443218,No,0.2575,Low Risk,307195.95,-136022.05
+307F-9BFA,Elly,Kennan,Technology,Software Engineer,43,9,1,No,3.0,No,94499,No,0.1402,Low Risk,72205.22,-22293.78
+30CB-BCD0,Saraann,Justice,Technology,Data Scientist,38,8,5,Yes,2.0,No,90187,No,0.2667,Low Risk,67886.03,-22300.97
+30CC-0FDE,Ilyssa,Jacks,Sales,Sales Representative,19,0,0,No,3.0,No,44782,No,0.2614,Low Risk,32308.89,-12473.11
+30CC-9AD8,Maximo,Poundford,Technology,Senior Software Engineer,22,2,1,Yes,5.0,No,54899,No,0.4059,Medium Risk,61303.42,6404.42
+3120-B11F,Allister,Noads,Technology,Senior Software Engineer,28,7,5,No,5.0,No,140538,No,0.0947,Low Risk,145662.79,5124.79
+3182-7F44,Bethany,Dawks,Technology,Software Engineer,21,1,1,No,3.0,No,25114,No,0.412,Medium Risk,37412.68,12298.68
+31E1-001F,Stevy,McArthur,Technology,Software Engineer,21,1,0,Yes,5.0,No,37954,Yes,0.5689,Medium Risk,37151.11,-802.89
+31FB-D496,Rakel,Ruston,Technology,Software Engineer,25,7,6,No,4.0,No,51454,No,0.084,Low Risk,46818.94,-4635.06
+324B-F4DF,Hestia,Fishlee,Technology,Software Engineer,20,0,0,No,3.0,No,42097,No,0.1951,Low Risk,39079.13,-3017.87
+3261-373A,Dorey,Arpur,Technology,Senior Software Engineer,26,6,3,Yes,2.0,No,99203,No,0.1426,Low Risk,84468.0,-14735.0
+327B-F6D3,Codee,Jean,Technology,Data Scientist,37,8,5,No,5.0,Yes,42188,No,0.4665,Medium Risk,65507.94,23319.94
+32AE-C02F,Hilly,Giocannoni,Sales,Sales Executive,24,5,4,Yes,1.0,Yes,82405,Yes,0.7123,High Risk,86820.06,4415.06
+32F1-6903,Mariya,Mattheus,Technology,Software Engineer,18,0,0,No,3.0,No,26960,No,0.2409,Low Risk,37563.08,10603.08
+3412-9077,Grenville,Freckleton,Technology,Data Scientist,21,1,0,No,3.0,No,38749,No,0.3519,Medium Risk,38653.49,-95.51
+342B-0932,Giorgio,Ginger,Technology,Software Engineer,21,3,3,Yes,5.0,No,29558,No,0.3244,Low Risk,36773.67,7215.67
+3476-CA56,Minette,Florey,Sales,Sales Representative,24,1,0,No,2.0,Yes,25102,Yes,0.8181,High Risk,31415.27,6313.27
+34FB-D8F3,Sheffie,McCrum,Technology,Engineering Manager,25,4,3,No,2.0,No,285138,No,0.0793,Low Risk,248498.63,-36639.37
+354B-3BC6,Luci,Penburton,Technology,Software Engineer,21,3,3,No,3.0,No,67900,No,0.1594,Low Risk,42402.76,-25497.24
+3560-C117,Allyson,Kordas,Technology,Data Scientist,28,2,0,Yes,5.0,Yes,65659,Yes,0.8435,High Risk,69691.09,4032.09
+35D2-818A,Sonja,Crone,Technology,Software Engineer,26,5,3,Yes,1.0,No,62602,No,0.3071,Low Risk,42924.87,-19677.13
+3642-EEAE,Eleanore,Gundrey,Technology,Data Scientist,48,8,8,No,5.0,No,56053,No,0.0375,Low Risk,66093.83,10040.83
+3653-D544,Adria,Smurfit,Sales,Sales Executive,25,4,3,No,3.0,No,91332,No,0.1228,Low Risk,84804.26,-6527.74
+36A3-F0A5,Hirsch,Broadnicke,Technology,Senior Software Engineer,23,2,2,No,5.0,No,79724,No,0.1905,Low Risk,71687.36,-8036.64
+36E1-3DDF,Connie,Widocks,Technology,Software Engineer,24,5,5,No,5.0,No,34657,No,0.1195,Low Risk,38486.63,3829.63
+372C-E204,Doralia,Vassie,Technology,Data Scientist,35,0,0,Yes,3.0,No,455643,No,0.4312,Medium Risk,398748.03,-56894.97
+3747-3110,Sarge,Antowski,Technology,Software Engineer,23,5,3,Yes,4.0,No,35776,No,0.296,Low Risk,40157.85,4381.85
+37D7-54B9,Kimberli,Porritt,Sales,Sales Executive,37,3,3,Yes,4.0,No,195447,No,0.2751,Low Risk,235891.82,40444.82
+37DA-C03F,Wanids,Riggert,Technology,Software Engineer,19,1,1,No,3.0,No,54502,No,0.1803,Low Risk,37720.04,-16781.96
+37EE-004B,Dyan,Boud,Technology,Data Scientist,22,3,1,No,5.0,Yes,28790,No,0.2533,Low Risk,38416.96,9626.96
+380E-44B4,Esdras,Hallitt,Technology,Data Scientist,21,0,0,No,4.0,Yes,25255,Yes,0.8217,High Risk,38516.08,13261.08
+380F-A08A,Evvy,Labbez,Sales,Sales Executive,32,8,6,No,3.0,No,142488,No,0.0348,Low Risk,163050.12,20562.12
+388D-DB68,Maybelle,Hurler,Human Resources,Recruiter,27,7,6,No,5.0,No,34320,No,0.1314,Low Risk,47009.92,12689.92
+38D7-6BB9,Amory,Gaskall,Technology,Analytics Manager,49,0,0,No,3.0,No,368010,No,0.1531,Low Risk,319932.9,-48077.1
+38EB-ADBD,Berton,Jorissen,Technology,Software Engineer,48,9,6,No,3.0,No,56546,No,0.037,Low Risk,69310.26,12764.26
+3992-22AD,Kristal,le Keux,Sales,Sales Executive,25,5,4,No,2.0,No,48917,No,0.1922,Low Risk,85639.18,36722.18
+3994-472A,Rolf,Cunah,Technology,Software Engineer,29,10,10,No,2.0,No,153909,No,0.0406,Low Risk,92408.56,-61500.44
+39A2-9B0A,Leesa,Wittke,Sales,Sales Representative,19,0,0,No,4.0,Yes,24959,Yes,0.9015,High Risk,31670.53,6711.53
+39FC-7149,Kathye,Balden,Technology,Software Engineer,27,7,5,No,3.0,No,31450,No,0.0878,Low Risk,42880.72,11430.72
+3A0A-B70A,Matteo,Bonallack,Technology,Software Engineer,18,0,0,No,3.0,No,32191,No,0.1823,Low Risk,37600.09,5409.09
+3A20-7C3E,Jerrie,Carlos,Technology,Software Engineer,25,6,1,No,5.0,No,52210,No,0.3061,Low Risk,41281.96,-10928.04
+3A2C-ABB8,Gawain,Dewdney,Technology,Software Engineer,25,7,6,No,4.0,No,28646,No,0.0428,Low Risk,37373.69,8727.69
+3A36-DA50,Leia,Jackes,Technology,Senior Software Engineer,24,5,4,No,4.0,No,80374,No,0.0719,Low Risk,82851.27,2477.27
+3A96-07A5,Teena,Nassey,Sales,Sales Executive,24,3,3,Yes,5.0,No,52975,No,0.2129,Low Risk,83767.24,30792.24
+3B11-DF28,Helge,Exley,Technology,Data Scientist,23,3,0,No,1.0,Yes,57133,Yes,0.6568,High Risk,39336.9,-17796.1
+3B2D-9E60,Flora,Kowalski,Technology,Senior Software Engineer,37,2,2,No,5.0,No,236732,No,0.0598,Low Risk,260026.88,23294.88
+3B90-B998,Giffy,Rofe,Technology,Data Scientist,33,8,7,No,4.0,No,43998,No,0.0476,Low Risk,64303.81,20305.81
+3BAB-C57E,Hashim,Payn,Technology,Data Scientist,19,1,1,Yes,3.0,No,26062,No,0.4995,Medium Risk,38854.67,12792.67
+3C31-30CB,Roxy,Firpi,Technology,Software Engineer,24,6,4,No,2.0,No,41664,No,0.1362,Low Risk,39644.3,-2019.7
+3C73-12A0,Andee,Kenen,Technology,Senior Software Engineer,22,2,2,No,2.0,No,70766,No,0.1808,Low Risk,65325.32,-5440.68
+3C78-06E7,Konstantin,Muldownie,Technology,Software Engineer,24,4,2,No,5.0,No,85074,No,0.1057,Low Risk,49594.62,-35479.38
+3C7D-86ED,Joyan,Brason,Sales,Sales Executive,40,10,4,No,3.0,No,104426,No,0.0767,Low Risk,133987.27,29561.27
+3CCD-CF5F,Stesha,McCay,Sales,Sales Executive,31,1,1,No,3.0,No,183057,No,0.2339,Low Risk,176407.27,-6649.73
+3CD6-5587,Dorise,Klishin,Technology,Software Engineer,31,7,6,Yes,4.0,Yes,59697,Yes,0.6893,High Risk,79867.64,20170.64
+3CFD-6622,Adelina,Bittlestone,Technology,Analytics Manager,40,3,0,No,4.0,No,513325,No,0.2411,Low Risk,428299.18,-85025.82
+3D47-6A75,Burch,Albers,Sales,Manager,45,1,1,No,2.0,No,374781,No,0.2292,Low Risk,304965.4,-69815.6
+3D71-8DC2,Alix,Blazejewski,Sales,Sales Executive,38,10,8,No,3.0,No,147098,No,0.0261,Low Risk,138858.79,-8239.21
+3D9E-FB05,Raynor,Deane,Sales,Sales Executive,25,6,6,No,4.0,No,75555,No,0.054,Low Risk,85761.56,10206.56
+3DB7-2942,Cordula,Upjohn,Technology,Engineering Manager,27,7,7,No,5.0,No,137012,No,0.0318,Low Risk,158596.52,21584.52
+3DBF-E552,Stavro,Aird,Human Resources,HR Manager,49,1,1,No,3.0,No,509261,No,0.1508,Low Risk,465166.04,-44094.96
+3DCC-7FA4,Sherrie,Chantler,Sales,Manager,34,3,2,Yes,2.0,No,311448,No,0.1955,Low Risk,327712.64,16264.64
+3E3B-681D,Franz,Brighouse,Technology,Data Scientist,23,3,2,No,4.0,No,24518,No,0.2164,Low Risk,37110.21,12592.21
+3E42-57C8,Quinton,McAllister,Sales,Sales Executive,23,1,0,No,4.0,Yes,84985,Yes,0.8256,High Risk,77595.22,-7389.78
+3E4A-F28F,Rubi,Hawkwood,Technology,Senior Software Engineer,20,0,0,No,2.0,Yes,41877,No,0.4953,Medium Risk,53687.26,11810.26
+3E50-011E,Carol,Burgill,Technology,Machine Learning Engineer,24,5,3,Yes,4.0,No,158330,No,0.2589,Low Risk,102870.99,-55459.01
+3EAA-95E5,Beatrix,Epelett,Technology,Machine Learning Engineer,40,4,3,No,3.0,No,265523,No,0.1202,Low Risk,263139.42,-2383.58
+3EB2-9111,Ginger,Blinde,Technology,Data Scientist,48,10,7,No,2.0,No,35749,No,0.0186,Low Risk,64860.0,29111.0
+3EDA-3BDE,Raynard,Revie,Technology,Engineering Manager,31,3,3,No,3.0,No,371727,No,0.1367,Low Risk,284521.05,-87205.95
+3F0C-41A7,Mendie,Readie,Sales,Sales Executive,24,6,3,No,5.0,No,79828,No,0.1651,Low Risk,87575.23,7747.23
+3F19-FC5A,Hy,Trevance,Sales,Sales Executive,35,10,9,Yes,2.0,No,182764,No,0.0409,Low Risk,143521.83,-39242.17
+3F25-EF5E,Tybalt,Horlick,Sales,Sales Representative,23,2,2,No,5.0,No,33750,No,0.3645,Medium Risk,31733.43,-2016.57
+3F3F-E438,Kathleen,Wanjek,Technology,Software Engineer,21,1,1,Yes,5.0,No,53912,No,0.4268,Medium Risk,39734.97,-14177.03
+3F5B-6277,Katerine,Fredi,Technology,Software Engineer,19,1,1,No,2.0,No,23385,No,0.3343,Low Risk,37473.07,14088.07
+3F9D-8094,Denys,Ponten,Sales,Sales Executive,19,1,1,No,3.0,No,65960,No,0.2139,Low Risk,55646.08,-10313.92
+401F-CC71,Ezekiel,Phipps,Sales,Sales Executive,31,0,0,No,3.0,No,139882,No,0.2957,Low Risk,184694.63,44812.63
+4044-F6D4,Erny,Waywell,Technology,Senior Software Engineer,40,0,0,Yes,3.0,No,271683,No,0.3322,Low Risk,265825.73,-5857.27
+4049-CF88,Jose,Davydzenko,Technology,Data Scientist,20,2,1,Yes,4.0,No,40341,No,0.4014,Medium Risk,37537.16,-2803.84
+40A9-8EB0,Joannes,McFadden,Technology,Software Engineer,39,10,7,Yes,3.0,No,90017,No,0.1702,Low Risk,68307.71,-21709.29
+40BE-EEAF,Adriano,Purselowe,Technology,Data Scientist,24,1,0,Yes,2.0,Yes,85422,Yes,0.849,High Risk,53989.34,-31432.66
+40CC-6231,Rodi,McGerraghty,Technology,Software Engineer,25,6,6,No,3.0,No,54566,No,0.0959,Low Risk,41491.08,-13074.92
+411F-6325,Fabio,Metham,Technology,Data Scientist,27,6,4,No,3.0,No,34579,No,0.1842,Low Risk,36988.6,2409.6
+4188-C61D,Fanny,Yoell,Technology,Data Scientist,22,0,0,No,5.0,Yes,23039,Yes,0.685,High Risk,39861.42,16822.42
+41A7-9C19,Ginevra,Edson,Sales,Sales Executive,23,4,3,No,2.0,No,78937,No,0.1431,Low Risk,67975.34,-10961.66
+41DC-E8B5,Ware,Casbon,Sales,Sales Executive,47,8,4,No,5.0,No,106840,No,0.0658,Low Risk,127493.71,20653.71
+41EC-F2AA,Antoinette,Dreamer,Technology,Data Scientist,26,7,5,No,3.0,No,56966,No,0.1458,Low Risk,38067.69,-18898.31
+41FE-D257,Murdock,Heinsius,Sales,Sales Representative,23,1,0,No,5.0,Yes,23505,Yes,0.9076,High Risk,30077.92,6572.92
+422B-53AC,Otis,Liquorish,Sales,Sales Executive,29,0,0,Yes,3.0,No,134537,Yes,0.6411,Medium Risk,178516.82,43979.82
+4236-4F51,Nico,Playden,Technology,Data Scientist,21,3,3,No,4.0,No,57118,No,0.1681,Low Risk,41220.53,-15897.47
+425F-4D2D,Kimberlyn,Preston,Sales,Sales Executive,25,4,4,Yes,3.0,No,57742,No,0.196,Low Risk,104667.79,46925.79
+4268-9EAD,Hymie,Jedryka,Technology,Machine Learning Engineer,24,0,0,Yes,3.0,No,108352,No,0.4071,Medium Risk,93951.65,-14400.35
+427A-8C69,Pasquale,Abreheart,Technology,Analytics Manager,32,10,2,No,3.0,No,393294,No,0.0461,Low Risk,434015.72,40721.72
+4294-03D1,Lettie,D'Emanuele,Sales,Manager,43,6,3,No,4.0,No,513262,No,0.0706,Low Risk,464417.88,-48844.12
+42CC-040A,Stace,Savege,Human Resources,Recruiter,29,6,1,No,4.0,Yes,49606,Yes,0.5944,Medium Risk,85570.42,35964.42
+42F5-707F,Wilburt,Feldhuhn,Technology,Senior Software Engineer,23,4,1,Yes,3.0,No,81034,No,0.2793,Low Risk,70726.8,-10307.2
+4304-4B4E,Lonni,McConnel,Sales,Sales Executive,29,3,3,No,5.0,No,163950,No,0.1768,Low Risk,157861.16,-6088.84
+4316-C080,Padraig,Carnell,Technology,Senior Software Engineer,34,9,3,No,4.0,No,238630,No,0.0357,Low Risk,195327.66,-43302.34
+437C-4AD0,Cosmo,Viney,Technology,Analytics Manager,40,2,2,No,2.0,No,260835,No,0.1502,Low Risk,316697.67,55862.67
+43DD-6998,Angelia,Letrange,Technology,Analytics Manager,48,3,2,No,3.0,No,517695,No,0.0604,Low Risk,379428.62,-138266.38
+4404-DE5A,Karina,Weddup,Technology,Software Engineer,32,10,9,No,5.0,No,68256,No,0.0256,Low Risk,71034.75,2778.75
+4467-6B8F,Shandeigh,Plott,Technology,Machine Learning Engineer,26,5,3,Yes,4.0,No,79324,No,0.1128,Low Risk,89018.29,9694.29
+449E-0EB7,Dniren,Muddiman,Sales,Sales Executive,23,3,2,No,2.0,No,44646,No,0.1503,Low Risk,63197.66,18551.66
+4500-37EB,Haydon,Bastable,Sales,Sales Representative,30,1,0,No,4.0,Yes,44632,Yes,0.7778,High Risk,90277.3,45645.3
+450D-13A9,Arlene,Warstall,Sales,Sales Representative,26,7,7,No,2.0,No,28024,No,0.1157,Low Risk,31351.03,3327.03
+4563-8637,Vernor,Farrell,Sales,Sales Executive,25,5,2,No,3.0,No,75635,No,0.1334,Low Risk,84585.54,8950.54
+4565-62DE,Travis,Janota,Technology,Machine Learning Engineer,37,8,8,No,2.0,No,155506,No,0.0166,Low Risk,136838.8,-18667.2
+45A4-C1D0,Baxy,Goodliff,Technology,Software Engineer,22,4,1,No,5.0,No,74314,No,0.1884,Low Risk,38012.33,-36301.67
+45BA-6683,Hort,Rawstron,Technology,Data Scientist,23,5,4,Yes,2.0,No,47648,No,0.2021,Low Risk,40024.93,-7623.07
+45D2-369E,Melvin,McGeneay,Technology,Data Scientist,30,9,9,No,5.0,No,70182,No,0.0306,Low Risk,71077.72,895.72
+45D7-5C8A,Artemus,Boyet,Sales,Sales Representative,26,2,0,No,4.0,Yes,20650,Yes,0.7485,High Risk,30920.25,10270.25
+45F9-3A37,Talbot,Sturgess,Technology,Software Engineer,21,0,0,No,4.0,Yes,61758,Yes,0.8504,High Risk,39512.36,-22245.64
+45FF-ACE6,Korrie,Plampin,Sales,Sales Executive,28,1,0,No,4.0,Yes,207479,Yes,0.781,High Risk,199698.05,-7780.95
+4626-5168,Tades,Haggith,Sales,Sales Representative,18,0,0,No,3.0,No,32480,No,0.2599,Low Risk,34883.08,2403.08
+462E-03DF,Muffin,Ellcome,Technology,Software Engineer,45,10,4,Yes,3.0,No,90264,No,0.1062,Low Risk,70859.98,-19404.02
+4657-FE18,Staford,Perrins,Technology,Senior Software Engineer,29,1,1,No,5.0,Yes,145716,Yes,0.6385,Medium Risk,150928.76,5212.76
+465A-91D1,Ranna,Crosbie,Sales,Sales Representative,42,9,1,No,4.0,No,43753,No,0.2317,Low Risk,65037.35,21284.35
+4673-EBEC,Ollie,Chellam,Sales,Sales Executive,28,7,2,No,3.0,No,78735,No,0.0986,Low Risk,119491.52,40756.52
+467E-977A,Jud,Melanaphy,Technology,Software Engineer,20,0,0,No,3.0,No,38508,No,0.3102,Low Risk,37448.71,-1059.29
+468A-E249,Ninon,Leathwood,Technology,Engineering Manager,26,7,1,No,5.0,No,206137,No,0.178,Low Risk,212249.36,6112.36
+469A-8121,Baxie,Rising,Technology,Engineering Manager,30,10,10,No,5.0,No,328415,No,0.0475,Low Risk,322265.95,-6149.05
+46C8-1E24,Anjela,Berns,Technology,Machine Learning Engineer,47,2,1,No,3.0,No,243869,No,0.1724,Low Risk,257989.72,14120.72
+46D6-CA7A,Vanya,Gittoes,Technology,Senior Software Engineer,27,6,5,No,3.0,No,75275,No,0.1194,Low Risk,83377.86,8102.86
+46E1-5086,Herculie,Wasielewicz,Sales,Sales Executive,18,0,0,Yes,3.0,No,74515,No,0.4943,Medium Risk,52734.29,-21780.71
+46ED-4007,Ulysses,Wathan,Sales,Sales Executive,34,9,8,No,5.0,No,140097,No,0.0358,Low Risk,138031.92,-2065.08
+473C-EA4E,Myron,Millard,Technology,Engineering Manager,26,5,3,No,5.0,No,246505,No,0.1275,Low Risk,233948.13,-12556.87
+4795-4D3F,Tammy,Flaws,Technology,Data Scientist,20,0,0,Yes,3.0,No,28544,Yes,0.5568,Medium Risk,38375.48,9831.48
+47A0-559B,Ermentrude,Berrie,Technology,Engineering Manager,39,10,10,No,4.0,No,293132,No,0.0133,Low Risk,305787.36,12655.36
+47C9-BD11,Conrad,Soule,Technology,Senior Software Engineer,43,2,2,No,2.0,No,199718,No,0.1358,Low Risk,253220.34,53502.34
+4846-2EC2,Luise,Ornillos,Technology,Software Engineer,26,2,2,No,5.0,No,56187,No,0.1589,Low Risk,44149.37,-12037.63
+4862-E40F,Cob,Stewart,Technology,Analytics Manager,46,4,4,No,4.0,No,381759,No,0.0847,Low Risk,376290.88,-5468.12
+4875-109B,Molly,Lawdham,Sales,Sales Executive,23,4,1,Yes,5.0,No,52039,No,0.4262,Medium Risk,62629.59,10590.59
+4886-62DF,Gabey,Trethowan,Technology,Senior Software Engineer,48,9,6,No,2.0,No,207456,No,0.0197,Low Risk,163169.51,-44286.49
+489B-14EC,Harley,Angelini,Technology,Machine Learning Engineer,21,0,0,Yes,5.0,Yes,62882,Yes,0.7739,High Risk,62776.6,-105.4
+48B9-8A61,Clarita,Chetter,Technology,Machine Learning Engineer,19,1,1,Yes,1.0,No,42900,No,0.414,Medium Risk,55731.94,12831.94
+4938-402A,Gherardo,Stratiff,Sales,Manager,24,4,4,No,4.0,No,135407,No,0.104,Low Risk,162334.36,26927.36
+494B-7047,Nicolina,Cordelle,Technology,Software Engineer,22,3,2,No,4.0,No,38358,No,0.0957,Low Risk,38443.44,85.44
+4969-9A35,Thekla,Flintuff,Technology,Software Engineer,39,10,10,Yes,4.0,No,137427,No,0.0738,Low Risk,80655.96,-56771.04
+4971-33F9,Fremont,Ackenson,Technology,Senior Software Engineer,41,5,5,No,2.0,No,184411,No,0.0724,Low Risk,197016.03,12605.03
+49B2-0364,Husain,Frizzell,Sales,Sales Representative,45,10,7,No,3.0,No,70487,No,0.0463,Low Risk,66557.94,-3929.06
+4A0E-3728,Nancy,Summerton,Human Resources,HR Executive,28,3,3,No,4.0,No,152909,No,0.1658,Low Risk,126468.71,-26440.29
+4A0E-9958,Axel,Aicheson,Technology,Machine Learning Engineer,26,1,0,Yes,5.0,Yes,89771,Yes,0.6265,Medium Risk,101911.79,12140.79
+4A39-E8E6,Hernando,Larkings,Technology,Engineering Manager,35,8,0,No,1.0,No,311475,No,0.1286,Low Risk,312151.1,676.1
+4A5B-6102,Gabby,Gartsyde,Technology,Senior Software Engineer,19,0,0,Yes,3.0,No,67873,No,0.3463,Low Risk,59713.62,-8159.38
+4B6E-3C21,Heidie,McCrone,Sales,Sales Executive,32,8,1,No,5.0,Yes,68043,Yes,0.5288,Medium Risk,127656.23,59613.23
+4B7E-9DE5,Tanner,Syplus,Technology,Software Engineer,21,1,1,No,3.0,No,25060,No,0.3372,Low Risk,36495.78,11435.78
+4BE1-4A7B,Alexander,Winstone,Technology,Software Engineer,23,1,0,Yes,2.0,Yes,44566,Yes,0.8771,High Risk,39111.23,-5454.77
+4BED-C7C2,Kahlil,Kelso,Technology,Software Engineer,24,3,3,No,5.0,No,29722,No,0.139,Low Risk,41613.4,11891.4
+4C06-7031,Jaine,Pashan,Technology,Engineering Manager,43,1,0,No,4.0,No,286660,No,0.2232,Low Risk,377512.39,90852.39
+4C41-7F73,Libby,Mustoe,Technology,Machine Learning Engineer,24,6,6,Yes,5.0,No,94318,No,0.0636,Low Risk,84878.84,-9439.16
+4C62-5BE8,Cristine,Lambdon,Technology,Software Engineer,39,9,8,Yes,2.0,No,87879,No,0.0925,Low Risk,72347.84,-15531.16
+4C66-6E16,Niki,Boseley,Technology,Engineering Manager,33,5,5,No,4.0,No,335261,No,0.0769,Low Risk,311630.26,-23630.74
+4C72-E72F,Sharlene,MacGuffog,Sales,Sales Executive,24,4,4,Yes,2.0,No,54841,No,0.2019,Low Risk,87647.98,32806.98
+4C88-27A1,Eleonora,Grosier,Technology,Senior Software Engineer,21,0,0,Yes,4.0,Yes,63049,Yes,0.7337,High Risk,57837.28,-5211.72
+4C99-E626,Friederike,Wandrey,Technology,Data Scientist,25,4,0,No,4.0,No,96779,No,0.2797,Low Risk,44725.02,-52053.98
+4CA1-F139,Rockwell,Draysay,Technology,Software Engineer,24,1,1,Yes,3.0,Yes,28484,Yes,0.8133,High Risk,39554.23,11070.23
+4CCA-B1E6,Dolf,Featenby,Sales,Sales Executive,43,10,7,No,2.0,No,176705,No,0.0315,Low Risk,137998.34,-38706.66
+4CD7-B91C,Jaime,Luca,Technology,Machine Learning Engineer,21,3,3,No,3.0,No,71698,No,0.1301,Low Risk,71858.19,160.19
+4D07-1452,Duke,Whittenbury,Sales,Sales Executive,21,2,0,No,2.0,No,46750,No,0.4762,Medium Risk,62842.09,16092.09
+4D59-B831,Nell,Teague,Human Resources,Recruiter,25,2,1,No,4.0,Yes,22150,Yes,0.5294,Medium Risk,45443.03,23293.03
+4D7E-BDA4,Asher,Esson,Sales,Sales Representative,34,8,6,No,2.0,No,46740,No,0.09,Low Risk,65625.91,18885.91
+4D95-ECAD,Daffy,Borlease,Technology,Data Scientist,23,3,2,No,2.0,No,47294,No,0.1895,Low Risk,39347.36,-7946.64
+4DA0-81D7,Cole,Vost,Human Resources,HR Executive,28,9,3,No,5.0,No,94534,No,0.113,Low Risk,95768.14,1234.14
+4DDB-A84D,Nevins,Quick,Sales,Sales Executive,46,4,4,No,4.0,No,325452,No,0.0675,Low Risk,275331.15,-50120.85
+4DE2-9EB3,Isacco,Origan,Technology,Software Engineer,22,1,1,No,3.0,No,27782,No,0.1982,Low Risk,39731.34,11949.34
+4E65-CCD0,Billie,Sanday,Technology,Senior Software Engineer,26,7,4,Yes,2.0,No,54746,No,0.1236,Low Risk,82069.21,27323.21
+4F1D-6F75,Corry,Redwall,Technology,Senior Software Engineer,19,1,1,No,3.0,No,49005,No,0.2026,Low Risk,55488.75,6483.75
+4F22-FF67,Care,Ireland,Technology,Software Engineer,24,6,6,Yes,2.0,No,28156,No,0.1625,Low Risk,38002.86,9846.86
+4F28-CFAF,Juditha,Burdell,Sales,Sales Executive,25,3,3,Yes,4.0,Yes,53930,Yes,0.7464,High Risk,85165.29,31235.29
+4F64-A0E2,Baird,Trays,Sales,Sales Executive,48,8,6,Yes,2.0,No,288450,No,0.138,Low Risk,209435.64,-79014.36
+4FA9-D343,Consolata,Risom,Sales,Sales Executive,21,1,1,No,4.0,No,60810,No,0.3139,Low Risk,58508.56,-2301.44
+4FAC-96CB,Dwayne,Sturror,Sales,Sales Executive,24,3,3,No,4.0,No,110542,No,0.1047,Low Risk,92304.66,-18237.34
+4FBA-4591,Sib,Coughan,Sales,Sales Executive,42,3,1,Yes,5.0,No,241646,No,0.2817,Low Risk,245303.99,3657.99
+4FC2-A40D,Gayle,Riseley,Technology,Engineering Manager,32,10,10,No,4.0,No,316725,No,0.0236,Low Risk,316803.13,78.13
+4FCD-7D65,Frannie,Dunrige,Technology,Senior Software Engineer,24,5,0,Yes,1.0,No,77358,No,0.1364,Low Risk,89449.45,12091.45
+4FD5-CC71,Sibley,Jeans,Technology,Software Engineer,22,3,2,Yes,3.0,Yes,75738,Yes,0.5832,Medium Risk,42626.48,-33111.52
+5000-8203,Otha,Lehrmann,Technology,Analytics Manager,38,2,1,Yes,5.0,No,445906,No,0.375,Medium Risk,401316.31,-44589.69
+5021-423E,Standford,Dodshun,Technology,Data Scientist,18,0,0,No,3.0,No,72639,No,0.2521,Low Risk,41118.61,-31520.39
+5021-95FC,Louie,Trowsdall,Sales,Manager,29,5,4,Yes,5.0,Yes,377203,Yes,0.6014,Medium Risk,279927.89,-97275.11
+503B-AACE,Cherilynn,Swafford,Technology,Data Scientist,25,4,3,No,3.0,No,23198,No,0.2939,Low Risk,36727.36,13529.36
+5060-A677,Zebulen,Rubrow,Technology,Machine Learning Engineer,26,1,0,No,3.0,Yes,108865,Yes,0.6929,High Risk,92444.02,-16420.98
+50FB-5702,Betty,Greetland,Sales,Sales Executive,31,1,1,No,5.0,No,186215,No,0.2312,Low Risk,174268.17,-11946.83
+5154-0F13,Hilary,Easlea,Sales,Sales Executive,19,0,0,No,3.0,No,37645,No,0.2647,Low Risk,55808.92,18163.92
+5160-53BD,Conrado,Tomaini,Technology,Software Engineer,29,0,0,No,4.0,Yes,41307,Yes,0.8178,High Risk,116368.1,75061.1
+51A4-EA6E,Jo,Medlar,Sales,Sales Executive,46,1,0,No,2.0,Yes,223874,Yes,0.5398,Medium Risk,245515.53,21641.53
+5222-EBE1,Saxe,Theodoris,Technology,Machine Learning Engineer,30,10,9,No,3.0,No,194823,No,0.0112,Low Risk,161340.92,-33482.08
+5237-1B85,Faydra,Losbie,Technology,Software Engineer,28,5,5,Yes,4.0,Yes,43578,No,0.3368,Low Risk,72064.57,28486.57
+528C-3E0D,Giffer,Raspin,Technology,Data Scientist,30,6,3,Yes,4.0,Yes,42045,Yes,0.7128,High Risk,71015.9,28970.9
+5293-AC5C,Sydney,Metham,Sales,Sales Executive,44,8,4,No,3.0,No,101906,No,0.0488,Low Risk,128160.84,26254.84
+52CC-3E9E,Ogdon,Madsen,Technology,Software Engineer,30,5,0,Yes,3.0,Yes,40321,Yes,0.7648,High Risk,96782.1,56461.1
+52DD-757F,Danielle,Viste,Technology,Machine Learning Engineer,48,10,9,No,3.0,No,92884,No,0.0112,Low Risk,137484.7,44600.7
+531D-788E,Durand,Boord,Technology,Data Scientist,21,0,0,No,2.0,Yes,42569,Yes,0.7116,High Risk,38056.49,-4512.51
+533B-938D,Morris,Bente,Sales,Sales Executive,28,7,0,No,3.0,No,157549,No,0.2443,Low Risk,135136.9,-22412.1
+5381-86E4,Walker,Tribble,Technology,Senior Software Engineer,24,4,4,No,3.0,No,57054,No,0.1593,Low Risk,84569.22,27515.22
+5395-75A1,Ludwig,Ferrara,Sales,Sales Executive,26,6,6,No,5.0,No,61238,No,0.0672,Low Risk,85651.77,24413.77
+5416-F925,John,Tempest,Technology,Data Scientist,43,8,4,No,5.0,No,76331,No,0.101,Low Risk,68932.69,-7398.31
+541F-3E19,Dot,Aherne,Technology,Data Scientist,27,1,0,Yes,2.0,Yes,49374,Yes,0.7665,High Risk,43064.78,-6309.22
+542E-321D,Spencer,Gabitis,Technology,Machine Learning Engineer,30,0,0,No,3.0,No,248259,No,0.2118,Low Risk,216101.29,-32157.71
+543B-0EE5,Theodore,Parrington,Technology,Software Engineer,20,0,0,No,3.0,No,20418,No,0.2776,Low Risk,37096.84,16678.84
+5468-EEE1,Forbes,Toretta,Technology,Senior Software Engineer,28,10,10,No,5.0,No,218406,No,0.0121,Low Risk,173104.27,-45301.73
+5476-CA0D,Kayley,Snoad,Technology,Data Scientist,31,6,5,No,4.0,Yes,69747,Yes,0.5765,Medium Risk,86274.98,16527.98
+549F-B3E7,Arlyne,Paylie,Sales,Sales Executive,41,9,9,No,3.0,No,109747,No,0.0094,Low Risk,141881.29,32134.29
+54D0-5A71,Dur,Lebarree,Technology,Software Engineer,24,3,3,Yes,3.0,No,33443,No,0.4152,Medium Risk,38089.84,4646.84
+5544-4583,Jennee,Proske,Sales,Sales Executive,41,8,8,No,4.0,No,142853,No,0.0109,Low Risk,165452.54,22599.54
+556B-374A,Ralf,Moulton,Sales,Sales Executive,30,1,1,No,3.0,No,135160,No,0.3233,Low Risk,183347.8,48187.8
+55A7-8D82,Allyn,Glyde,Human Resources,HR Executive,23,2,0,No,3.0,No,75948,No,0.3747,Medium Risk,68790.99,-7157.01
+55B1-3712,Katine,Fielder,Technology,Data Scientist,26,6,5,Yes,2.0,No,22162,No,0.1596,Low Risk,37556.33,15394.33
+55D6-1423,Benyamin,Wasielewicz,Technology,Machine Learning Engineer,43,10,9,No,2.0,No,76826,No,0.0109,Low Risk,132619.36,55793.36
+55DC-C0F0,Marysa,Stannislawski,Sales,Sales Executive,23,2,2,No,3.0,No,67718,No,0.2778,Low Risk,67828.32,110.32
+55FD-42E9,Johnna,Knotton,Technology,Machine Learning Engineer,42,1,0,No,2.0,No,293303,No,0.4503,Medium Risk,261692.98,-31610.02
+5605-237E,Linell,Lack,Technology,Data Scientist,26,7,4,Yes,2.0,No,34047,No,0.4038,Medium Risk,37455.71,3408.71
+5609-8585,Matthieu,Oulet,Sales,Sales Executive,24,5,4,No,3.0,No,64277,No,0.1082,Low Risk,91955.45,27678.45
+5634-9D10,Estelle,Chung,Technology,Software Engineer,25,4,4,No,3.0,No,42656,No,0.2418,Low Risk,40740.1,-1915.9
+5639-70C0,Trudi,Evens,Human Resources,HR Manager,36,4,4,No,3.0,No,509940,No,0.0527,Low Risk,449131.36,-60808.64
+5642-6F1E,Lisette,Govett,Sales,Sales Executive,26,5,4,No,5.0,No,65194,No,0.1539,Low Risk,83268.81,18074.81
+565B-C207,Seline,Ganny,Technology,Data Scientist,30,9,9,No,3.0,No,47338,No,0.1218,Low Risk,68402.12,21064.12
+566A-FC64,Loria,Pursey,Sales,Manager,27,6,5,No,4.0,No,255718,No,0.082,Low Risk,220639.38,-35078.62
+56A5-271B,Chadwick,Buist,Technology,Senior Software Engineer,33,9,9,Yes,4.0,No,108095,No,0.042,Low Risk,140489.69,32394.69
+56D1-790E,Richmound,Chisnall,Technology,Engineering Manager,39,0,0,Yes,3.0,No,273739,No,0.3399,Low Risk,399728.8,125989.8
+56FC-5C6E,Donovan,Sycamore,Sales,Sales Executive,28,1,1,No,4.0,No,128192,Yes,0.503,Medium Risk,190640.56,62448.56
+5731-90E6,Leonidas,Clarke-Williams,Technology,Analytics Manager,35,10,5,No,2.0,No,542695,No,0.0436,Low Risk,505743.37,-36951.63
+5741-0022,Rosene,Larmett,Technology,Engineering Manager,25,7,2,No,2.0,No,190198,No,0.0629,Low Risk,192055.03,1857.03
+576B-6628,Bing,O'Heyne,Sales,Sales Representative,22,2,2,No,2.0,No,22778,No,0.1578,Low Risk,32512.5,9734.5
+5795-08D3,Staffard,Ramard,Technology,Machine Learning Engineer,21,2,1,No,2.0,No,56541,No,0.2933,Low Risk,63458.17,6917.17
+5802-2A7E,Martyn,Watt,Technology,Analytics Manager,27,6,6,No,2.0,No,130012,No,0.075,Low Risk,156012.91,26000.91
+5818-560C,Donny,Tosh,Technology,Senior Software Engineer,30,9,4,No,4.0,No,159438,No,0.0348,Low Risk,156841.56,-2596.44
+5839-7AE2,Maxwell,Labrone,Technology,Senior Software Engineer,25,4,4,Yes,4.0,No,175342,No,0.1624,Low Risk,100535.08,-74806.92
+586E-5C14,Gunther,Keays,Technology,Software Engineer,40,10,7,No,3.0,No,58551,No,0.0578,Low Risk,69357.4,10806.4
+58C8-63FA,Pierce,Birkby,Technology,Senior Software Engineer,38,10,5,No,4.0,No,126505,No,0.0275,Low Risk,153221.41,26716.41
+58F5-C8FC,Julina,Coatsworth,Sales,Sales Executive,37,8,3,No,4.0,No,230381,No,0.0337,Low Risk,163481.55,-66899.45
+58FA-C451,Wayne,Beekmann,Technology,Software Engineer,48,8,7,No,2.0,No,42008,No,0.0547,Low Risk,72711.0,30703.0
+5919-4ADE,Lelah,Blackney,Technology,Senior Software Engineer,24,4,4,No,4.0,No,65486,No,0.0975,Low Risk,88305.97,22819.97
+596B-33F4,Shell,McPeck,Technology,Data Scientist,26,5,3,Yes,3.0,Yes,30207,Yes,0.6957,High Risk,37657.75,7450.75
+5982-CF7A,Haley,Macilhench,Technology,Machine Learning Engineer,21,0,0,No,3.0,No,69344,No,0.2644,Low Risk,65242.84,-4101.16
+5988-3855,Marthe,Mattisson,Technology,Software Engineer,43,8,8,No,3.0,No,98693,No,0.0256,Low Risk,69555.41,-29137.59
+598D-E3B4,Karlis,Brisard,Technology,Software Engineer,19,0,0,Yes,3.0,Yes,29798,Yes,0.8534,High Risk,37126.91,7328.91
+59DB-8465,Nancey,Luetkemeyers,Human Resources,HR Executive,47,9,9,No,5.0,No,85744,No,0.0732,Low Risk,94604.48,8860.48
+59F5-F57D,Lilly,Nancarrow,Technology,Senior Software Engineer,26,7,5,Yes,4.0,No,59981,No,0.1911,Low Risk,88086.05,28105.05
+5A04-0EB4,Debbie,Martinho,Sales,Sales Representative,27,7,1,Yes,5.0,Yes,24583,Yes,0.7752,High Risk,33528.25,8945.25
+5A0B-7F31,Nevil,Callaby,Sales,Sales Executive,26,5,1,No,5.0,Yes,85982,Yes,0.6348,Medium Risk,81820.87,-4161.13
+5A29-B9F4,Nicoli,Shavel,Human Resources,HR Executive,28,2,1,No,2.0,No,149734,No,0.4505,Medium Risk,137362.17,-12371.83
+5A65-768A,Felicity,Hayler,Sales,Sales Executive,43,8,3,No,2.0,No,86038,No,0.0552,Low Risk,133259.34,47221.34
+5A78-0F17,Wilfred,Jasik,Sales,Sales Executive,26,5,3,No,5.0,No,104176,No,0.1625,Low Risk,85629.87,-18546.13
+5A8A-1547,Nora,Gittoes,Technology,Software Engineer,19,0,0,No,3.0,No,77905,No,0.2052,Low Risk,45368.89,-32536.11
+5AA7-C7BA,Reggis,Greenset,Technology,Engineering Manager,26,5,2,No,3.0,No,292386,No,0.0907,Low Risk,265604.96,-26781.04
+5AC6-91D4,Terese,Burdess,Technology,Machine Learning Engineer,23,4,4,No,3.0,No,56946,No,0.0701,Low Risk,69879.07,12933.07
+5AD2-3B02,Bourke,Laird-Craig,Technology,Senior Software Engineer,25,2,2,No,4.0,No,67200,No,0.1191,Low Risk,84856.55,17656.55
+5B08-EF96,Karlen,Gulston,Technology,Data Scientist,36,10,10,No,2.0,No,77136,No,0.012,Low Risk,73621.15,-3514.85
+5B0B-B105,Richard,Titchen,Sales,Manager,35,2,2,No,3.0,No,360384,No,0.0722,Low Risk,358646.26,-1737.74
+5B0E-31FB,Hasheem,Mance,Technology,Software Engineer,37,9,6,No,4.0,No,45927,No,0.0772,Low Risk,69817.11,23890.11
+5B11-3DB3,Melicent,Papworth,Sales,Sales Executive,24,0,0,No,2.0,Yes,144335,Yes,0.7211,High Risk,97987.45,-46347.55
+5B38-57D2,Dennie,Morrel,Technology,Software Engineer,20,2,0,Yes,3.0,No,29835,Yes,0.6237,Medium Risk,36951.16,7116.16
+5BDE-7102,Rafaela,Smurfit,Technology,Engineering Manager,25,6,6,No,2.0,No,184441,No,0.0556,Low Risk,186586.99,2145.99
+5C03-1009,Willetta,Lurriman,Technology,Engineering Manager,42,10,8,No,4.0,No,316208,No,0.0136,Low Risk,333310.91,17102.91
+5C28-D944,Kaine,Izak,Technology,Software Engineer,18,0,0,No,3.0,No,42946,No,0.2223,Low Risk,37600.09,-5345.91
+5C48-9106,Darwin,Capelle,Technology,Data Scientist,37,8,7,No,3.0,No,53929,No,0.034,Low Risk,66844.0,12915.0
+5C56-DA86,Basilius,MacAlpin,Technology,Machine Learning Engineer,22,1,1,Yes,3.0,No,68302,No,0.3046,Low Risk,62931.0,-5371.0
+5C61-8F3A,Dyana,Gallie,Technology,Data Scientist,34,10,9,Yes,3.0,No,127432,No,0.0721,Low Risk,71111.3,-56320.7
+5C7B-86C0,Jeanie,Geater,Technology,Senior Software Engineer,32,8,6,No,4.0,No,186169,No,0.0528,Low Risk,154136.42,-32032.58
+5C87-D7BB,Malory,Dumbelton,Technology,Software Engineer,25,5,5,Yes,5.0,No,67151,No,0.1935,Low Risk,39244.94,-27906.06
+5D69-D350,Lyle,Waby,Technology,Data Scientist,24,4,4,No,2.0,Yes,104649,No,0.4952,Medium Risk,44679.92,-59969.08
+5D73-961A,Padraig,Pabel,Technology,Senior Software Engineer,27,6,4,No,3.0,No,90487,No,0.1051,Low Risk,88678.59,-1808.41
+5DBA-93C9,Allys,Bourdice,Technology,Data Scientist,21,0,0,No,3.0,No,21202,No,0.3296,Low Risk,38137.98,16935.98
+5E53-1897,Hamish,Carlsen,Technology,Software Engineer,23,5,2,Yes,3.0,No,87483,No,0.3395,Low Risk,39070.9,-48412.1
+5E73-CE19,Gus,Dyos,Technology,Software Engineer,29,0,0,Yes,3.0,No,314181,No,0.4667,Medium Risk,204424.67,-109756.33
+5E9A-FE30,Lindy,Carratt,Technology,Data Scientist,30,8,4,Yes,4.0,No,88609,No,0.2634,Low Risk,70521.88,-18087.12
+5EB3-47F6,Cthrine,Harg,Sales,Sales Executive,24,3,2,Yes,3.0,No,73498,No,0.3716,Medium Risk,87634.69,14136.69
+5EE9-CFCF,April,Brunicke,Technology,Engineering Manager,48,2,1,Yes,2.0,No,309371,No,0.2396,Low Risk,343753.6,34382.6
+5F06-D3F6,Calv,Pearcehouse,Technology,Machine Learning Engineer,28,4,4,Yes,2.0,No,193347,No,0.1219,Low Risk,177719.68,-15627.32
+5F2E-A68B,Evangelin,Desantis,Technology,Software Engineer,26,7,0,No,5.0,No,60834,No,0.2947,Low Risk,47908.21,-12925.79
+5F4E-EE5A,Mamie,Neagle,Technology,Machine Learning Engineer,28,7,7,No,3.0,No,87762,No,0.0407,Low Risk,130550.29,42788.29
+5F5B-83B1,Michelina,Chester,Technology,Engineering Manager,38,5,4,Yes,5.0,No,293425,No,0.1321,Low Risk,314370.98,20945.98
+5F95-70A3,Shalna,Ibotson,Technology,Software Engineer,22,1,1,No,3.0,No,60515,No,0.2736,Low Risk,38859.39,-21655.61
+5F99-4E0B,Marcos,Bowcher,Human Resources,HR Executive,21,1,0,Yes,3.0,No,70809,No,0.4264,Medium Risk,65202.74,-5606.26
+6010-A052,Florry,Pohlak,Technology,Software Engineer,20,1,0,No,3.0,Yes,37094,Yes,0.6559,High Risk,38436.55,1342.55
+6051-1F41,Selestina,Ferrarello,Sales,Sales Executive,32,0,0,Yes,3.0,No,161538,No,0.4738,Medium Risk,170138.75,8600.75
+6064-D1F0,Hatty,Noades,Technology,Software Engineer,21,1,1,Yes,3.0,No,65743,No,0.48,Medium Risk,37326.87,-28416.13
+606E-A262,Parke,Loxton,Technology,Analytics Manager,28,3,1,Yes,4.0,Yes,277344,Yes,0.6939,High Risk,311333.74,33989.74
+60A3-AFA2,Gracie,Horley,Technology,Software Engineer,23,3,3,No,1.0,No,85006,No,0.1097,Low Risk,42146.18,-42859.82
+60B5-48ED,Hayden,Jacox,Sales,Sales Executive,30,9,6,No,4.0,No,135919,No,0.1014,Low Risk,136505.54,586.54
+60E6-B1D9,Merill,Agg,Technology,Data Scientist,21,0,0,No,3.0,No,46521,No,0.2909,Low Risk,38317.84,-8203.16
+6112-8476,Kore,Munn,Technology,Software Engineer,43,8,8,No,5.0,No,49882,No,0.0491,Low Risk,69525.46,19643.46
+611A-F218,Kenna,Dougary,Technology,Data Scientist,20,0,0,No,3.0,No,24504,No,0.2342,Low Risk,38398.78,13894.78
+6125-FEC8,Myrtie,Corbie,Technology,Software Engineer,27,7,6,No,2.0,No,50046,No,0.0536,Low Risk,43376.95,-6669.05
+6135-885F,Edeline,Knevett,Technology,Software Engineer,18,0,0,Yes,3.0,Yes,31894,Yes,0.8642,High Risk,37514.9,5620.9
+6151-4A92,Milicent,Kiossel,Technology,Machine Learning Engineer,25,4,4,No,4.0,No,105411,No,0.0704,Low Risk,80164.77,-25246.23
+6163-2BE8,Tracey,Joynson,Sales,Sales Executive,32,0,0,No,3.0,No,181293,No,0.2478,Low Risk,170620.05,-10672.95
+6176-3BEE,Trumaine,Nevett,Sales,Sales Executive,29,2,2,Yes,1.0,Yes,149688,Yes,0.7771,High Risk,152509.43,2821.43
+617A-5092,Arnoldo,Lerer,Technology,Senior Software Engineer,39,1,1,No,4.0,No,152771,No,0.3257,Low Risk,224535.47,71764.47
+618D-7685,Maridel,O'Hederscoll,Technology,Data Scientist,30,9,9,No,2.0,No,96170,No,0.0767,Low Risk,70482.56,-25687.44
+619D-D78F,Leesa,Gauford,Technology,Data Scientist,20,2,2,No,5.0,No,38138,No,0.1919,Low Risk,37410.07,-727.93
+61CC-2C1D,Jayme,Desseine,Technology,Engineering Manager,25,6,6,No,5.0,No,217544,No,0.0516,Low Risk,239237.17,21693.17
+61E2-6540,Holmes,Disdel,Technology,Senior Software Engineer,24,4,4,No,2.0,No,44256,No,0.0629,Low Risk,89552.45,45296.45
+61E5-836E,Frederigo,Wichard,Technology,Software Engineer,24,4,0,No,5.0,No,35199,No,0.2728,Low Risk,40727.93,5528.93
+61F3-DE78,Dehlia,Fullerton,Technology,Data Scientist,23,2,2,No,4.0,No,23632,No,0.2827,Low Risk,38424.25,14792.25
+6227-9D9E,Malina,Chivrall,Human Resources,HR Manager,26,7,7,Yes,3.0,No,315071,No,0.127,Low Risk,58842.94,-256228.06
+626A-9377,Blaire,Dinneen,Technology,Senior Software Engineer,27,0,0,No,3.0,Yes,89785,No,0.4291,Medium Risk,105759.79,15974.79
+626D-4669,Gerardo,Geggus,Technology,Senior Software Engineer,23,2,1,No,3.0,No,51906,No,0.4001,Medium Risk,63274.35,11368.35
+6280-B47F,Durward,Buzek,Technology,Software Engineer,25,0,0,Yes,2.0,Yes,26545,Yes,0.9112,High Risk,40667.35,14122.35
+62A3-DEA7,Meade,Quinnelly,Technology,Software Engineer,25,1,0,Yes,4.0,Yes,30931,Yes,0.8818,High Risk,39912.83,8981.83
+6313-8E62,Addy,Shambrook,Sales,Sales Representative,23,1,0,Yes,5.0,Yes,26508,Yes,0.8956,High Risk,30488.63,3980.63
+6345-2F33,Ignacius,Streeter,Technology,Machine Learning Engineer,46,10,10,No,2.0,No,102964,No,0.0153,Low Risk,144812.66,41848.66
+6376-F58F,Ashil,Kenwrick,Technology,Senior Software Engineer,22,4,3,No,4.0,No,73653,No,0.144,Low Risk,67718.21,-5934.79
+637B-DBAD,Lovell,Larmor,Technology,Software Engineer,44,9,8,Yes,4.0,No,81297,No,0.0356,Low Risk,71504.61,-9792.39
+63B0-1036,Persis,Christon,Technology,Software Engineer,25,5,5,No,2.0,No,52957,No,0.0812,Low Risk,40307.87,-12649.13
+63B8-CCC0,Rafaela,Hadigate,Technology,Data Scientist,25,6,5,No,5.0,No,37053,No,0.1517,Low Risk,36761.69,-291.31
+63BF-A86A,Ava,Galland,Human Resources,HR Executive,39,0,0,Yes,4.0,Yes,201564,Yes,0.7219,High Risk,292382.55,90818.55
+63D2-F412,Bab,Antonelli,Sales,Sales Executive,25,5,4,Yes,3.0,No,58631,No,0.2821,Low Risk,88194.89,29563.89
+63DA-AA21,Diannne,Choules,Technology,Engineering Manager,43,10,9,No,3.0,No,436813,No,0.0211,Low Risk,344206.35,-92606.65
+63E0-439B,Kirbee,Pawelek,Technology,Software Engineer,22,2,2,No,4.0,No,31072,No,0.1899,Low Risk,39234.72,8162.72
+63E9-F74A,Amos,Simcox,Technology,Machine Learning Engineer,25,7,7,No,4.0,No,67708,No,0.0709,Low Risk,79790.88,12082.88
+6413-42F1,Gui,Olivello,Human Resources,HR Executive,27,6,3,No,2.0,No,55206,No,0.1824,Low Risk,67454.38,12248.38
+648E-FE5F,Tabb,McInnes,Sales,Sales Executive,25,4,1,No,5.0,No,58914,No,0.3787,Medium Risk,80800.96,21886.96
+64BA-99F0,Kristina,Chanson,Technology,Engineering Manager,43,9,6,No,4.0,No,309141,No,0.0098,Low Risk,329924.99,20783.99
+64C2-2806,Gareth,Oleksiak,Technology,Data Scientist,18,0,0,No,3.0,No,36353,No,0.2804,Low Risk,39835.49,3482.49
+64D6-0D5F,Sherwood,Furlow,Technology,Analytics Manager,37,10,9,Yes,4.0,No,368494,No,0.1115,Low Risk,411284.11,42790.11
+6542-3E93,Kelley,Yakovl,Technology,Machine Learning Engineer,25,4,3,No,4.0,No,57765,No,0.1044,Low Risk,84639.35,26874.35
+6543-091E,Balduin,Vonasek,Technology,Senior Software Engineer,24,3,2,No,5.0,No,58717,No,0.0912,Low Risk,86513.5,27796.5
+656C-09EA,Anna-maria,Diegan,Technology,Senior Software Engineer,24,3,3,No,5.0,No,52850,No,0.1437,Low Risk,84298.62,31448.62
+6576-8773,Ash,Slamaker,Technology,Machine Learning Engineer,33,0,0,No,3.0,No,283171,No,0.2131,Low Risk,235210.46,-47960.54
+65A0-5D04,Ginnifer,Grigoletti,Technology,Data Scientist,28,7,6,No,4.0,No,62016,No,0.1094,Low Risk,66380.2,4364.2
+65C9-0885,Kain,Libero,Technology,Senior Software Engineer,25,4,2,No,5.0,No,121373,No,0.1837,Low Risk,92055.72,-29317.28
+6614-06D8,Cullin,Uzzell,Sales,Sales Representative,20,0,0,No,3.0,No,29872,No,0.2562,Low Risk,32655.36,2783.36
+6653-BD41,Selle,Barrington,Technology,Engineering Manager,27,7,4,No,4.0,No,238435,No,0.0706,Low Risk,219526.38,-18908.62
+6661-FA04,Clive,Sherwen,Technology,Software Engineer,44,8,7,No,2.0,No,49447,No,0.0143,Low Risk,67783.35,18336.35
+666A-B076,Huberto,Coppins,Technology,Software Engineer,26,2,2,No,4.0,No,62828,No,0.2559,Low Risk,45152.57,-17675.43
+66BC-7AC0,Maynord,Trinke,Sales,Sales Representative,22,3,2,No,3.0,Yes,33657,No,0.2845,Low Risk,31587.68,-2069.32
+66D5-3142,Rivi,Salkild,Technology,Data Scientist,30,3,3,No,3.0,No,175692,No,0.2682,Low Risk,95956.61,-79735.39
+6725-A678,Gus,Redhouse,Sales,Sales Executive,19,0,0,No,3.0,No,61811,No,0.2528,Low Risk,56461.6,-5349.4
+6731-1425,Robyn,Takis,Technology,Machine Learning Engineer,43,1,1,Yes,4.0,No,262392,No,0.2624,Low Risk,259072.39,-3319.61
+676C-C884,Ettie,Watt,Technology,Software Engineer,24,3,2,No,5.0,No,26937,No,0.161,Low Risk,40195.9,13258.9
+67D7-9785,Corinne,Andreaccio,Technology,Senior Software Engineer,38,9,9,No,3.0,No,126515,No,0.0563,Low Risk,140230.61,13715.61
+67ED-A630,Adan,Fradgley,Sales,Sales Executive,29,9,9,No,4.0,No,102061,No,0.0333,Low Risk,129664.93,27603.93
+6819-65F3,Derward,Darco,Technology,Software Engineer,21,1,0,No,3.0,No,26137,No,0.4352,Medium Risk,37766.23,11629.23
+6828-1F30,Filide,Summerlie,Sales,Sales Executive,46,3,2,Yes,5.0,No,249505,No,0.2122,Low Risk,257530.11,8025.11
+682D-8FD8,Maridel,Valentin,Technology,Engineering Manager,25,4,3,No,3.0,No,188516,No,0.1311,Low Risk,197548.77,9032.77
+68C4-272C,Torey,Emanueli,Technology,Software Engineer,21,3,0,Yes,4.0,No,25208,Yes,0.5479,Medium Risk,36464.55,11256.55
+68D1-F434,Alick,Heasley,Technology,Engineering Manager,40,2,2,No,2.0,No,314668,No,0.1371,Low Risk,336721.77,22053.77
+68FB-06A7,Elle,Balcombe,Sales,Sales Executive,43,10,10,No,3.0,No,180996,No,0.0912,Low Risk,175364.25,-5631.75
+6925-864E,Lilith,Cargen,Technology,Senior Software Engineer,25,5,3,No,5.0,No,43644,No,0.0929,Low Risk,82018.57,38374.57
+692B-7152,Murry,Dominici,Sales,Sales Executive,47,10,4,No,5.0,No,249553,No,0.0257,Low Risk,136795.31,-112757.69
+6957-5180,Ania,Osboldstone,Sales,Sales Executive,28,2,2,Yes,5.0,No,113501,No,0.324,Low Risk,149442.92,35941.92
+6965-C170,Joya,Hefford,Sales,Manager,48,9,2,Yes,2.0,No,354336,No,0.0994,Low Risk,401228.72,46892.72
+6987-6124,Virgil,Lippini,Technology,Engineering Manager,25,6,5,No,3.0,No,182961,No,0.1796,Low Risk,207360.35,24399.35
+69EC-7B13,Mariska,Iashvili,Sales,Sales Representative,27,7,6,No,2.0,No,62496,No,0.0973,Low Risk,35647.12,-26848.88
+6A09-C910,Arri,Brooking,Technology,Software Engineer,24,6,5,No,2.0,No,35270,No,0.061,Low Risk,40756.02,5486.02
+6A0D-9C4D,Sarge,Dikels,Technology,Machine Learning Engineer,34,8,3,Yes,2.0,No,265922,No,0.0807,Low Risk,151327.18,-114594.82
+6A2B-42DB,Catrina,Cufflin,Technology,Software Engineer,21,0,0,Yes,3.0,Yes,23612,Yes,0.7893,High Risk,36366.35,12754.35
+6A3B-A838,Moss,Standeven,Technology,Data Scientist,19,1,1,No,3.0,No,41092,No,0.2638,Low Risk,41655.13,563.13
+6A67-EC2C,Fionnula,Charsley,Sales,Sales Executive,23,5,4,No,3.0,No,37626,No,0.1446,Low Risk,62239.35,24613.35
+6A8B-EC82,Averill,Dwyr,Sales,Sales Executive,26,7,7,Yes,3.0,No,82312,No,0.2158,Low Risk,90014.96,7702.96
+6AD1-5EE8,Donetta,Duberry,Technology,Data Scientist,24,6,6,No,2.0,No,47183,No,0.0746,Low Risk,50076.65,2893.65
+6B20-FFDF,Cloris,Orgee,Sales,Sales Executive,24,6,6,Yes,3.0,No,151986,No,0.1143,Low Risk,98484.93,-53501.07
+6B5B-8080,Maxie,Housego,Technology,Software Engineer,24,3,2,No,5.0,No,35885,No,0.1477,Low Risk,43587.48,7702.48
+6B7D-82DB,Niko,Purvess,Technology,Analytics Manager,40,2,2,No,5.0,No,465219,No,0.095,Low Risk,426130.89,-39088.11
+6BAB-8D77,Josh,Tomczykowski,Technology,Analytics Manager,35,3,2,No,2.0,No,405965,No,0.141,Low Risk,384739.92,-21225.08
+6BC3-7371,Gussi,Rodrig,Sales,Sales Executive,18,0,0,No,3.0,No,49100,No,0.1841,Low Risk,59121.28,10021.28
+6BE1-09FB,Dino,Bragge,Sales,Sales Executive,25,4,3,No,5.0,No,95643,No,0.1935,Low Risk,89504.41,-6138.59
+6C42-A719,Bird,Libbey,Technology,Data Scientist,22,0,0,Yes,3.0,Yes,30442,Yes,0.8978,High Risk,38422.04,7980.04
+6C7E-91CB,Jamie,Blazejewski,Sales,Sales Executive,28,2,2,No,3.0,No,95591,No,0.1484,Low Risk,157035.53,61444.53
+6C86-3DC0,Benton,Irdale,Technology,Senior Software Engineer,31,8,7,Yes,3.0,No,149482,No,0.103,Low Risk,157551.33,8069.33
+6CAD-47F0,Tommy,Cawthorn,Technology,Machine Learning Engineer,39,9,8,No,2.0,No,99602,No,0.0126,Low Risk,133456.85,33854.85
+6CC9-81FC,Anatollo,Dake,Technology,Data Scientist,25,4,4,No,2.0,No,33086,No,0.1682,Low Risk,36758.48,3672.48
+6D1C-BAF1,Hans,Yewman,Technology,Senior Software Engineer,19,0,0,Yes,3.0,No,54824,No,0.3447,Low Risk,57713.77,2889.77
+6D3B-AD28,Zsa zsa,Valentin,Sales,Sales Executive,25,5,0,No,2.0,No,94810,No,0.3138,Low Risk,86870.55,-7939.45
+6DEB-F440,Viviene,Vanezis,Technology,Data Scientist,21,3,0,Yes,3.0,Yes,29793,Yes,0.83,High Risk,39837.85,10044.85
+6E61-A2BA,Adelaide,Somner,Sales,Sales Executive,24,6,6,No,2.0,No,111750,No,0.0604,Low Risk,86368.45,-25381.55
+6E64-8D30,Libbey,McCreary,Sales,Sales Executive,32,8,6,No,2.0,No,108213,No,0.0268,Low Risk,155475.89,47262.89
+6E7B-D50D,Anet,Dublin,Technology,Senior Software Engineer,38,9,3,No,3.0,No,253077,No,0.0201,Low Risk,196516.86,-56560.14
+6EB1-8442,Mellie,Ivie,Technology,Senior Software Engineer,30,1,1,Yes,3.0,No,145589,No,0.3476,Low Risk,157339.44,11750.44
+6EDB-94B7,Earle,Willowby,Technology,Engineering Manager,25,7,3,No,2.0,No,195911,No,0.0596,Low Risk,214710.46,18799.46
+6EEF-5B17,Bo,Readitt,Technology,Engineering Manager,28,7,7,No,4.0,No,339731,No,0.0888,Low Risk,318432.52,-21298.48
+6F3E-2A75,Ruby,Gurrado,Sales,Sales Executive,28,9,8,No,4.0,No,110839,No,0.0507,Low Risk,129521.78,18682.78
+6F50-08B6,Mick,Tomaschke,Sales,Sales Executive,25,7,7,No,3.0,No,57030,No,0.0776,Low Risk,84774.96,27744.96
+6FA6-DBB9,Darya,Itzkovsky,Sales,Sales Executive,42,1,1,No,2.0,No,260021,No,0.1518,Low Risk,245540.41,-14480.59
+6FB9-A624,Marc,Calver,Technology,Senior Software Engineer,27,0,0,No,3.0,No,92995,No,0.2976,Low Risk,97430.5,4435.5
+6FE1-C8A8,Marchall,Burnes,Sales,Sales Executive,29,4,2,Yes,3.0,Yes,140962,Yes,0.5958,Medium Risk,141943.39,981.39
+6FE3-2270,Danita,Paal,Sales,Sales Executive,31,8,7,No,5.0,No,115982,No,0.0233,Low Risk,137107.02,21125.02
+7054-B62C,Kain,Scoates,Technology,Machine Learning Engineer,33,3,3,No,3.0,No,188180,No,0.1144,Low Risk,207363.65,19183.65
+70CB-4A9B,Rivkah,Hurdle,Technology,Data Scientist,24,3,2,Yes,5.0,No,28797,No,0.3771,Medium Risk,46221.3,17424.3
+71CC-7412,Issi,Early,Technology,Engineering Manager,25,7,6,No,3.0,No,179602,No,0.0417,Low Risk,182582.5,2980.5
+7269-88EC,Cristi,Belchem,Technology,Senior Software Engineer,28,2,1,Yes,3.0,Yes,176282,Yes,0.5043,Medium Risk,159839.1,-16442.9
+7279-6591,Bradan,Rozzier,Sales,Sales Executive,41,1,1,Yes,4.0,Yes,231843,Yes,0.628,Medium Risk,241972.96,10129.96
+72A2-1105,Mollee,Hartop,Sales,Sales Executive,22,4,3,No,5.0,No,60699,No,0.2099,Low Risk,60423.71,-275.29
+72D8-2284,Othelia,Tumber,Technology,Data Scientist,20,2,1,No,2.0,No,40701,No,0.3204,Low Risk,38493.94,-2207.06
+7335-4656,Cristy,Dumbarton,Technology,Machine Learning Engineer,45,9,3,No,4.0,No,223124,No,0.0381,Low Risk,156327.35,-66796.65
+7349-CCE0,Elisabeth,Pettyfar,Technology,Software Engineer,32,9,9,No,3.0,No,85568,No,0.0287,Low Risk,76320.04,-9247.96
+7378-5351,Alika,Karlik,Technology,Engineering Manager,35,8,6,Yes,4.0,No,243863,No,0.0581,Low Risk,291967.38,48104.38
+73CF-4956,Hannis,Waslin,Technology,Data Scientist,32,10,5,No,3.0,No,102022,No,0.0702,Low Risk,76274.58,-25747.42
+7486-A1B6,Ripley,Woodvine,Technology,Data Scientist,23,5,3,No,2.0,No,50570,No,0.1956,Low Risk,39274.51,-11295.49
+74B4-CB7A,Eddi,Holywell,Human Resources,HR Business Partner,26,5,5,Yes,2.0,No,240035,No,0.2338,Low Risk,172945.92,-67089.08
+74F2-5C55,Skipper,Sambles,Technology,Data Scientist,47,10,4,No,2.0,No,108798,No,0.0466,Low Risk,74338.35,-34459.65
+74F3-DF3D,Lian,Ouslem,Human Resources,HR Executive,25,7,6,No,4.0,No,49131,No,0.0734,Low Risk,66530.18,17399.18
+7563-AFCC,Charlot,Shoorbrooke,Technology,Machine Learning Engineer,23,0,0,No,3.0,No,96942,No,0.322,Low Risk,79300.42,-17641.58
+757F-78FE,Timotheus,Esland,Technology,Machine Learning Engineer,25,6,5,No,2.0,No,52614,No,0.0553,Low Risk,79937.2,27323.2
+7589-66E3,Rickey,Colafate,Sales,Sales Executive,47,8,7,No,5.0,No,232155,No,0.0344,Low Risk,145507.05,-86647.95
+75CF-67E0,Andra,Stickney,Technology,Data Scientist,25,4,3,Yes,4.0,No,28926,No,0.3738,Medium Risk,37022.68,8096.68
+7623-9AF1,Sosanna,Armstrong,Technology,Data Scientist,26,5,0,No,4.0,No,46809,No,0.4794,Medium Risk,43142.5,-3666.5
+763B-DE6E,Nat,Fettes,Technology,Software Engineer,23,5,5,Yes,4.0,No,23041,No,0.2473,Low Risk,37520.93,14479.93
+7696-E50D,Mignonne,Dalton,Technology,Software Engineer,21,2,2,Yes,4.0,No,34133,No,0.4481,Medium Risk,38852.65,4719.65
+76ED-1CF5,Spenser,Pyzer,Technology,Software Engineer,47,8,7,No,3.0,No,105126,No,0.0482,Low Risk,74663.48,-30462.52
+76FD-F574,Chucho,Herries,Technology,Machine Learning Engineer,35,1,1,No,5.0,No,286432,No,0.3063,Low Risk,275486.53,-10945.47
+7749-B277,Caryl,Roycroft,Human Resources,HR Executive,24,4,3,No,5.0,Yes,44634,Yes,0.5626,Medium Risk,72311.01,27677.01
+774E-685D,Joachim,Popplestone,Sales,Sales Executive,30,2,1,Yes,2.0,Yes,148862,Yes,0.8025,High Risk,146842.14,-2019.86
+776A-CDBC,Catharina,Sandle,Sales,Sales Executive,26,6,4,No,1.0,No,82147,No,0.0871,Low Risk,87804.48,5657.48
+7805-8A7C,Agna,Grinnov,Technology,Engineering Manager,28,4,4,No,3.0,No,337046,No,0.1154,Low Risk,308159.66,-28886.34
+7815-7CAF,Moore,Ingleson,Technology,Software Engineer,21,1,1,No,3.0,No,65642,No,0.2307,Low Risk,39188.37,-26453.63
+7816-BF57,Noak,Pointing,Sales,Sales Executive,37,8,5,Yes,5.0,No,92483,No,0.0837,Low Risk,132557.92,40074.92
+781E-4257,Pepi,Clift,Technology,Machine Learning Engineer,21,2,2,No,2.0,No,63201,No,0.1721,Low Risk,63514.73,313.73
+781F-6C21,Eugenio,Sempill,Sales,Manager,43,2,1,Yes,5.0,No,327587,No,0.2327,Low Risk,306718.32,-20868.68
+7823-0217,Germaine,Clubley,Sales,Sales Executive,25,0,0,Yes,2.0,Yes,81889,Yes,0.6992,High Risk,90237.24,8348.24
+7839-CA12,Orella,Chappelle,Sales,Sales Representative,23,1,0,No,2.0,Yes,23794,Yes,0.8126,High Risk,31266.08,7472.08
+7845-EF8F,Marshal,Goodbur,Technology,Engineering Manager,27,6,6,No,2.0,No,292500,No,0.0485,Low Risk,257351.48,-35148.52
+78C8-02B8,Josepha,Revey,Technology,Software Engineer,22,3,3,No,4.0,No,24208,No,0.1939,Low Risk,39931.86,15723.86
+7961-A93B,Jerome,Maden,Technology,Analytics Manager,29,6,4,Yes,2.0,No,393103,No,0.1971,Low Risk,397723.68,4620.68
+7985-EB3D,Mathew,O'Dougherty,Technology,Data Scientist,19,1,1,No,3.0,No,52260,No,0.2415,Low Risk,38750.43,-13509.57
+79C5-FE9D,Kerstin,Sponton,Technology,Machine Learning Engineer,28,7,7,Yes,3.0,No,140377,No,0.1717,Low Risk,150425.95,10048.95
+79D0-C935,Madelle,Robak,Technology,Software Engineer,27,6,4,Yes,4.0,No,37423,No,0.4052,Medium Risk,39487.43,2064.43
+79E4-6632,Tailor,Cansfield,Technology,Software Engineer,23,5,3,No,3.0,No,37322,No,0.0807,Low Risk,37850.8,528.8
+79F3-8AA5,Lacy,Domerc,Human Resources,HR Executive,47,10,10,No,3.0,No,98608,No,0.0155,Low Risk,94735.81,-3872.19
+79F7-78EC,Alessandra,Storrock,Sales,Sales Executive,27,5,5,Yes,3.0,Yes,141998,No,0.322,Low Risk,96722.58,-45275.42
+7A1F-F1A3,Dunstan,Whife,Sales,Sales Executive,23,3,3,No,5.0,No,84558,No,0.1777,Low Risk,74185.72,-10372.28
+7A23-F185,Ephraim,Biaggetti,Sales,Sales Executive,21,0,0,Yes,3.0,No,62828,No,0.4397,Medium Risk,56994.23,-5833.77
+7A2A-0600,Axel,McIlhatton,Technology,Software Engineer,24,4,4,No,2.0,No,30233,No,0.1437,Low Risk,38270.77,8037.77
+7A5A-CC91,Anabal,Parkhouse,Sales,Sales Executive,23,4,1,No,5.0,No,45024,No,0.3729,Medium Risk,62593.86,17569.86
+7A8C-2DD3,Harley,Dootson,Sales,Sales Executive,30,9,5,No,2.0,No,160352,No,0.1442,Low Risk,167979.46,7627.46
+7A98-768E,Ericha,Tomczykowski,Sales,Sales Executive,18,0,0,No,2.0,Yes,58523,No,0.4859,Medium Risk,60472.78,1949.78
+7AA0-5766,Devin,Bernhardsson,Technology,Data Scientist,22,0,0,No,4.0,Yes,63571,Yes,0.7797,High Risk,39618.49,-23952.51
+7B30-BAC8,Ferdy,Geggus,Technology,Machine Learning Engineer,50,1,0,No,5.0,No,366078,No,0.2007,Low Risk,318423.21,-47654.79
+7B47-C915,Grayce,Caesar,Sales,Sales Executive,36,8,3,No,4.0,No,195502,No,0.0923,Low Risk,134487.93,-61014.07
+7B84-8387,Richardo,Lowres,Technology,Data Scientist,20,0,0,No,3.0,No,34954,No,0.3086,Low Risk,38352.36,3398.36
+7B96-B655,Jonah,Chatwood,Technology,Data Scientist,24,3,0,No,5.0,No,104807,No,0.2226,Low Risk,54299.93,-50507.07
+7B98-EA6F,Gabriello,Clemente,Technology,Data Scientist,44,10,3,No,4.0,No,108623,No,0.091,Low Risk,75272.16,-33350.84
+7B9D-8612,Gizela,Pauncefoot,Sales,Sales Executive,32,9,3,Yes,2.0,No,133865,No,0.2365,Low Risk,145291.77,11426.77
+7BA2-EBDE,Borden,McGuiness,Sales,Manager,31,2,2,Yes,3.0,No,321244,No,0.2799,Low Risk,287155.27,-34088.73
+7BD4-7BFB,Kerr,Sporner,Technology,Software Engineer,27,7,7,No,5.0,No,25276,No,0.0588,Low Risk,39046.68,13770.68
+7C80-94E0,Celie,Jedrys,Technology,Machine Learning Engineer,33,9,8,No,3.0,No,88726,No,0.023,Low Risk,153419.36,64693.36
+7CDB-25C4,Isaac,Tomini,Technology,Senior Software Engineer,22,2,1,Yes,5.0,No,54114,No,0.3785,Medium Risk,65654.77,11540.77
+7CFC-C4DA,Brant,Damper,Technology,Data Scientist,21,0,0,Yes,4.0,Yes,32676,Yes,0.8791,High Risk,38114.54,5438.54
+7D2D-3831,Davon,Swetland,Technology,Data Scientist,25,5,3,No,2.0,No,37742,No,0.177,Low Risk,37206.71,-535.29
+7D95-B5B1,Glenna,Blackston,Technology,Senior Software Engineer,25,4,3,No,3.0,No,70737,No,0.0987,Low Risk,86131.34,15394.34
+7DA1-A202,Gene,Sends,Technology,Data Scientist,24,4,2,No,4.0,No,28539,No,0.1682,Low Risk,44307.23,15768.23
+7DD6-128C,Auguste,Windsor,Sales,Sales Executive,32,8,6,No,2.0,No,114246,No,0.0581,Low Risk,143100.36,28854.36
+7E76-154C,Lorrayne,Pinnington,Technology,Machine Learning Engineer,25,4,4,No,4.0,No,75250,No,0.1891,Low Risk,80355.9,5105.9
+7ED6-BEC8,Danika,Corbet,Technology,Software Engineer,20,0,0,No,3.0,No,38009,No,0.2278,Low Risk,37369.25,-639.75
+7EE7-2C43,Tobye,Dietmar,Technology,Data Scientist,29,7,3,Yes,4.0,Yes,48321,Yes,0.6936,High Risk,64593.3,16272.3
+7EEF-9A90,Sheryl,Bridell,Sales,Sales Executive,23,5,5,Yes,3.0,No,83677,No,0.1997,Low Risk,68818.08,-14858.92
+7EF0-2BF4,Ulrike,Seakes,Sales,Manager,40,3,3,No,5.0,No,267834,No,0.0814,Low Risk,302686.8,34852.8
+7F1C-20B8,Page,Sculpher,Technology,Data Scientist,39,9,9,No,3.0,No,65796,No,0.0549,Low Risk,67656.34,1860.34
+7F24-55A3,Boyce,Heditch,Technology,Machine Learning Engineer,23,2,2,No,2.0,No,80236,No,0.1951,Low Risk,77695.25,-2540.75
+7F5B-92AD,Urbano,Hinckes,Technology,Senior Software Engineer,27,3,3,No,4.0,No,105702,No,0.1063,Low Risk,90381.48,-15320.52
+7F61-2397,Felicdad,Seakin,Technology,Analytics Manager,41,4,3,Yes,5.0,Yes,283081,No,0.1768,Low Risk,320544.59,37463.59
+7F91-C628,Bertie,Suthren,Technology,Data Scientist,36,9,9,No,5.0,No,43358,No,0.1207,Low Risk,67433.38,24075.38
+7FA1-BC64,Curry,Bramah,Technology,Software Engineer,19,1,0,Yes,5.0,Yes,30896,Yes,0.8006,High Risk,36069.36,5173.36
+7FFD-C810,Claresta,Impy,Technology,Data Scientist,32,10,5,No,3.0,No,75821,No,0.1802,Low Risk,68523.63,-7297.37
+801C-89BF,Maren,Tizard,Technology,Data Scientist,24,6,6,No,3.0,No,46151,No,0.1768,Low Risk,45786.9,-364.1
+801E-9D0E,Shaw,McCaw,Technology,Software Engineer,32,1,1,No,4.0,No,439641,No,0.2343,Low Risk,290614.34,-149026.66
+8026-658D,Dana,Lobb,Technology,Machine Learning Engineer,36,9,9,Yes,5.0,No,174019,No,0.1376,Low Risk,155104.33,-18914.67
+806F-B986,Judie,Lowndsborough,Technology,Machine Learning Engineer,24,6,5,Yes,4.0,No,93490,No,0.0958,Low Risk,85503.85,-7986.15
+8078-6154,Hattie,Algeo,Sales,Manager,26,5,4,No,4.0,No,172070,No,0.0825,Low Risk,177633.42,5563.42
+80BE-E2B5,Jill,Hellewell,Technology,Senior Software Engineer,29,8,8,No,2.0,No,110744,No,0.0347,Low Risk,132132.0,21388.0
+812D-7475,Lucius,Plimmer,Technology,Data Scientist,20,0,0,No,3.0,No,20526,No,0.3078,Low Risk,38850.04,18324.04
+817D-28CE,Bert,Otton,Technology,Data Scientist,22,0,0,Yes,5.0,Yes,40614,Yes,0.8723,High Risk,38611.32,-2002.68
+8182-6AE6,Wandis,Needs,Sales,Sales Executive,25,2,2,Yes,5.0,No,82357,No,0.2949,Low Risk,83010.99,653.99
+819A-2C9C,Hillary,Atchly,Technology,Data Scientist,30,9,4,Yes,4.0,No,138989,No,0.1673,Low Risk,81464.63,-57524.37
+81BE-17CD,Frederick,Cheley,Technology,Data Scientist,30,9,5,Yes,3.0,No,35126,No,0.2502,Low Risk,66522.29,31396.29
+81C2-E188,Nada,Finlator,Human Resources,HR Executive,19,1,1,No,2.0,No,41958,No,0.3081,Low Risk,61723.57,19765.57
+81F1-950F,Sapphire,Prayer,Technology,Analytics Manager,25,4,2,No,2.0,No,174400,No,0.0731,Low Risk,191846.06,17446.06
+81FF-8D6C,Mireielle,Gabbitis,Sales,Sales Representative,24,2,2,No,3.0,Yes,24095,Yes,0.6386,Medium Risk,33718.29,9623.29
+8233-2483,Sheba,McCromley,Human Resources,Recruiter,35,10,6,Yes,3.0,No,47995,No,0.2241,Low Risk,79343.48,31348.48
+825E-0B3A,Kris,Barnes,Technology,Machine Learning Engineer,30,9,9,No,2.0,No,94791,No,0.0561,Low Risk,148152.57,53361.57
+8291-DE04,Ring,Miles,Technology,Data Scientist,23,3,3,No,5.0,No,31342,No,0.2592,Low Risk,39826.6,8484.6
+8292-6635,Hy,Goodin,Sales,Sales Executive,26,7,0,No,4.0,No,127450,No,0.3014,Low Risk,90974.65,-36475.35
+82B4-8569,Adrian,Swatman,Sales,Manager,44,4,4,No,3.0,No,313891,No,0.0853,Low Risk,311538.9,-2352.1
+8328-A764,Granger,Kenworthey,Technology,Software Engineer,24,5,5,No,5.0,No,30720,No,0.0846,Low Risk,38213.89,7493.89
+8365-EB74,Umberto,Wallentin,Technology,Data Scientist,40,9,9,No,4.0,No,43854,No,0.0792,Low Risk,65020.95,21166.95
+8369-ED26,Randie,Tolliday,Technology,Machine Learning Engineer,25,4,2,No,4.0,No,83894,No,0.0721,Low Risk,82437.18,-1456.82
+8373-07C6,Inge,Bullon,Technology,Engineering Manager,25,5,4,Yes,3.0,No,261970,No,0.0969,Low Risk,205568.36,-56401.64
+83FD-F920,Yorgo,Clappison,Technology,Data Scientist,25,4,3,Yes,4.0,Yes,28137,Yes,0.6527,High Risk,37200.81,9063.81
+8462-E88A,Renault,Dobbyn,Human Resources,HR Business Partner,25,5,2,No,2.0,No,190466,No,0.1432,Low Risk,169463.12,-21002.88
+84AD-D566,Ashien,Villa,Technology,Software Engineer,22,4,4,No,5.0,No,30838,No,0.173,Low Risk,39232.41,8394.41
+84D4-D4C3,Naoma,Hebbard,Technology,Data Scientist,20,0,0,No,3.0,No,38258,No,0.2266,Low Risk,38398.78,140.78
+84D8-1A04,Adara,Sleeford,Sales,Sales Executive,22,3,0,No,4.0,No,48432,No,0.3123,Low Risk,58679.42,10247.42
+84E7-02D4,Padraic,MacParlan,Technology,Machine Learning Engineer,26,5,2,No,3.0,Yes,161600,Yes,0.5643,Medium Risk,101898.76,-59701.24
+851C-E7E2,Sebastiano,Benes,Technology,Machine Learning Engineer,27,7,6,No,5.0,No,120049,No,0.0551,Low Risk,85244.04,-34804.96
+8533-B8FA,Ambur,Axton,Technology,Software Engineer,20,1,1,No,5.0,No,33488,No,0.2278,Low Risk,37258.9,3770.9
+8567-5B27,Shani,Deackes,Sales,Sales Representative,28,3,0,Yes,2.0,Yes,53439,Yes,0.7325,High Risk,89975.61,36536.61
+8583-9174,Mimi,Mawditt,Technology,Software Engineer,46,9,9,Yes,4.0,No,100717,No,0.134,Low Risk,73069.55,-27647.45
+85B2-41F5,Tessa,De Cristoforo,Technology,Data Scientist,19,0,0,No,3.0,No,39722,No,0.3011,Low Risk,38561.82,-1160.18
+860E-0FA9,Zonda,Lefeuvre,Technology,Software Engineer,18,0,0,Yes,3.0,No,54085,Yes,0.5405,Medium Risk,39501.45,-14583.55
+8640-414A,Rivkah,Siderfin,Technology,Engineering Manager,29,2,2,No,1.0,No,390142,No,0.2211,Low Risk,271972.36,-118169.64
+8663-3E02,Kleon,Monnery,Technology,Analytics Manager,37,9,9,No,4.0,No,276322,No,0.0644,Low Risk,312652.05,36330.05
+8695-09EC,Lyda,Everall,Technology,Machine Learning Engineer,33,0,0,No,3.0,No,249325,No,0.2322,Low Risk,240993.14,-8331.86
+86C5-8987,Cassaundra,Kenyam,Sales,Sales Executive,22,2,0,No,1.0,No,45220,No,0.4171,Medium Risk,53284.07,8064.07
+86E2-73D1,Purcell,Keig,Technology,Machine Learning Engineer,39,9,4,No,5.0,No,81115,No,0.0803,Low Risk,142257.64,61142.64
+86E9-319B,Kirby,Denison,Technology,Software Engineer,24,3,1,No,5.0,No,26451,No,0.3232,Low Risk,41771.34,15320.34
+86F7-CA91,Katlin,Callar,Sales,Sales Executive,21,1,1,No,3.0,No,37035,No,0.2207,Low Risk,49189.41,12154.41
+8700-828F,Marlo,McKim,Technology,Software Engineer,21,0,0,No,3.0,No,34257,No,0.2587,Low Risk,37580.37,3323.37
+8733-BC3C,Kerwinn,Fassum,Technology,Software Engineer,26,6,6,Yes,3.0,No,81726,No,0.3169,Low Risk,48924.35,-32801.65
+874D-5D4C,Clywd,Burril,Technology,Analytics Manager,40,2,2,No,3.0,No,456418,No,0.0388,Low Risk,393694.15,-62723.85
+8766-F1E7,Jonathon,Lovie,Technology,Machine Learning Engineer,25,0,0,Yes,2.0,Yes,130434,Yes,0.8229,High Risk,102978.82,-27455.18
+87D2-8B67,Joana,McDougal,Technology,Machine Learning Engineer,45,10,8,Yes,2.0,No,152278,No,0.0489,Low Risk,139386.91,-12891.09
+8822-B9C5,Amity,Kalisz,Technology,Machine Learning Engineer,41,10,10,Yes,4.0,No,197592,No,0.0992,Low Risk,150049.11,-47542.89
+8892-77D8,Rodrique,Rohlfing,Technology,Engineering Manager,35,3,3,Yes,4.0,No,519361,No,0.1349,Low Risk,444213.54,-75147.46
+88B8-EB84,Crystal,McLleese,Technology,Engineering Manager,34,10,9,No,5.0,No,357371,No,0.02,Low Risk,347656.57,-9714.43
+8941-0BAC,Tracee,Gaukroger,Sales,Sales Executive,30,1,1,No,4.0,No,145929,No,0.3955,Medium Risk,148811.75,2882.75
+89A6-7EF1,Johan,Rudinger,Human Resources,HR Executive,26,6,6,No,3.0,No,70395,No,0.099,Low Risk,77312.74,6917.74
+8A18-9075,Phyllys,Newham,Technology,Analytics Manager,31,1,0,No,4.0,No,362540,No,0.3809,Medium Risk,376332.68,13792.68
+8A34-59DF,Camellia,Shelmerdine,Technology,Software Engineer,19,0,0,No,3.0,No,35372,No,0.227,Low Risk,40274.52,4902.52
+8A40-C85A,Reggie,Matthewman,Technology,Software Engineer,44,10,8,Yes,4.0,No,53325,No,0.202,Low Risk,69125.81,15800.81
+8A5B-3D6E,Konstanze,Scrammage,Sales,Sales Executive,24,6,6,Yes,4.0,No,105383,No,0.0785,Low Risk,93024.95,-12358.05
+8A6B-AD5C,Ruby,O'Scollain,Technology,Data Scientist,24,1,1,No,4.0,Yes,61883,Yes,0.7362,High Risk,46901.04,-14981.96
+8AAD-FAFB,Alethea,Heeney,Sales,Sales Executive,24,4,3,Yes,5.0,Yes,130774,No,0.2438,Low Risk,94721.07,-36052.93
+8ACE-C5CE,Germana,Gulvin,Sales,Sales Executive,43,9,8,No,4.0,No,121510,No,0.0258,Low Risk,145312.56,23802.56
+8B55-CBEC,Symon,Raisher,Technology,Senior Software Engineer,40,0,0,No,3.0,No,291663,No,0.2503,Low Risk,261853.16,-29809.84
+8B79-18F1,Abra,MacGray,Technology,Software Engineer,20,0,0,Yes,3.0,Yes,37436,Yes,0.7478,High Risk,38229.3,793.3
+8BAB-B4A6,Torey,Abram,Sales,Manager,38,10,9,Yes,2.0,No,340229,No,0.1354,Low Risk,346944.49,6715.49
+8BCA-723F,Normy,De la Harpe,Technology,Data Scientist,46,8,8,No,4.0,No,43487,No,0.0413,Low Risk,68740.89,25253.89
+8C57-8F84,Lemmie,Antoniak,Technology,Software Engineer,20,1,0,Yes,3.0,Yes,22773,Yes,0.7341,High Risk,36830.37,14057.37
+8CC3-0C6A,Vin,Gricewood,Sales,Sales Executive,24,4,3,No,2.0,No,125759,No,0.1711,Low Risk,91757.82,-34001.18
+8CF5-DC74,Karoline,Obray,Sales,Sales Executive,21,1,0,No,3.0,No,38066,No,0.2824,Low Risk,52354.79,14288.79
+8CF6-3079,Jaquenetta,Corkel,Technology,Data Scientist,27,1,0,Yes,4.0,Yes,40050,Yes,0.8465,High Risk,44848.33,4798.33
+8D34-EBDF,Giles,Bilham,Human Resources,Recruiter,29,0,0,No,4.0,Yes,46703,Yes,0.8101,High Risk,104937.84,58234.84
+8DA7-0090,Farica,Fardell,Human Resources,HR Business Partner,41,7,5,Yes,2.0,No,445906,No,0.1177,Low Risk,357386.39,-88519.61
+8DB6-5FC6,Madalena,Leneham,Sales,Sales Executive,21,3,3,No,5.0,No,69078,No,0.0864,Low Risk,63094.27,-5983.73
+8E5B-CBBF,Creigh,Lissaman,Sales,Sales Executive,25,7,7,No,3.0,No,67814,No,0.0655,Low Risk,84854.08,17040.08
+8E8F-DDC8,Christoffer,Peaple,Sales,Sales Executive,19,1,0,Yes,3.0,No,38726,Yes,0.5722,Medium Risk,51896.67,13170.67
+8EA4-9179,Cristian,Dignum,Technology,Data Scientist,25,7,7,No,3.0,No,24626,No,0.0782,Low Risk,37096.01,12470.01
+8EAF-4F79,Marrilee,Brosio,Technology,Senior Software Engineer,27,6,6,Yes,3.0,No,167879,No,0.1396,Low Risk,120688.05,-47190.95
+8EBD-B3E8,Sutherland,Kick,Technology,Software Engineer,25,4,4,Yes,4.0,No,40079,No,0.4787,Medium Risk,39216.74,-862.26
+8ED3-4377,Giusto,Raynes,Technology,Software Engineer,30,9,7,No,3.0,No,78743,No,0.0398,Low Risk,70661.52,-8081.48
+8EE9-E86D,Conn,Mouser,Human Resources,Recruiter,46,10,9,Yes,1.0,Yes,48740,Yes,0.6087,Medium Risk,79273.76,30533.76
+8EF9-CECD,Mendy,Hounsom,Technology,Data Scientist,23,3,3,No,3.0,No,28704,No,0.1751,Low Risk,39793.59,11089.59
+8F38-A4DD,Rosemonde,Brimble,Technology,Software Engineer,27,6,6,No,4.0,No,27369,No,0.1218,Low Risk,40065.47,12696.47
+8F78-4A32,Sigismundo,Durtnel,Technology,Data Scientist,25,7,7,No,5.0,No,31962,No,0.0856,Low Risk,37639.33,5677.33
+8F7F-015D,Lion,Ewbanck,Technology,Engineering Manager,28,7,5,No,3.0,No,249071,No,0.0344,Low Risk,266754.91,17683.91
+8FB2-4CE0,Kurtis,Plane,Technology,Data Scientist,27,2,1,No,2.0,Yes,37545,Yes,0.7033,High Risk,39820.6,2275.6
+8FD9-AA59,Faina,Bewshaw,Sales,Sales Executive,26,7,2,No,3.0,Yes,71349,No,0.4972,Medium Risk,88204.45,16855.45
+8FF0-0F7A,Nanine,Barrie,Technology,Engineering Manager,26,7,5,Yes,3.0,No,153420,No,0.0524,Low Risk,189896.38,36476.38
+9071-14B2,Griffie,Bugge,Technology,Machine Learning Engineer,31,3,2,No,5.0,No,157676,No,0.2237,Low Risk,168090.42,10414.42
+9075-A294,Colby,Yakebowitch,Sales,Sales Executive,27,6,6,No,3.0,No,71832,No,0.0576,Low Risk,84079.41,12247.41
+9085-1FE8,Fan,Pizey,Technology,Data Scientist,35,10,7,Yes,2.0,No,119917,No,0.1208,Low Risk,67548.7,-52368.3
+90C4-1053,Diann,Brightie,Technology,Machine Learning Engineer,20,2,1,Yes,5.0,No,41342,No,0.3147,Low Risk,51753.6,10411.6
+90EB-28D4,Veronique,Tremelling,Sales,Sales Representative,24,5,3,No,2.0,No,26608,No,0.3478,Low Risk,31833.43,5225.43
+90EB-69E4,Devan,Ellice,Technology,Data Scientist,23,4,3,No,2.0,No,49543,No,0.1968,Low Risk,39782.04,-9760.96
+9112-D01B,Emmie,Lauchlan,Sales,Manager,50,2,2,Yes,2.0,No,266449,No,0.143,Low Risk,314647.21,48198.21
+9160-043F,Jemie,Tasseler,Technology,Machine Learning Engineer,29,0,0,No,3.0,No,220896,No,0.3051,Low Risk,211177.64,-9718.36
+9169-FC4B,Reinaldos,Baynes,Human Resources,HR Executive,28,1,0,No,5.0,Yes,179561,Yes,0.7193,High Risk,149508.06,-30052.94
+91C3-F892,Daryl,Whittlesea,Technology,Data Scientist,21,0,0,No,3.0,No,34024,No,0.3154,Low Risk,38161.98,4137.98
+91C6-564B,Thain,Pedri,Technology,Data Scientist,21,3,3,No,3.0,No,40561,No,0.1965,Low Risk,39853.16,-707.84
+920B-7B40,Berkly,Bellson,Technology,Software Engineer,26,7,5,Yes,2.0,No,52390,No,0.2978,Low Risk,39953.32,-12436.68
+921D-AE10,Greer,MacDearmaid,Sales,Sales Executive,46,0,0,No,3.0,No,236103,No,0.2025,Low Risk,235802.68,-300.32
+924E-1035,Scot,Gamlen,Sales,Sales Executive,23,5,4,Yes,3.0,No,58345,No,0.2299,Low Risk,68776.88,10431.88
+9283-E971,Meredith,Hansod,Sales,Sales Executive,40,4,4,Yes,4.0,No,250555,No,0.1388,Low Risk,254416.71,3861.71
+9360-3A68,Cathyleen,Hallin,Technology,Data Scientist,27,7,6,No,3.0,No,41524,No,0.0712,Low Risk,38148.72,-3375.28
+9385-321B,Marcille,Tweedy,Sales,Sales Executive,24,3,2,No,5.0,No,107634,No,0.1361,Low Risk,90311.8,-17322.2
+939F-2461,Grantham,Sandercock,Technology,Senior Software Engineer,28,2,2,No,2.0,No,101210,No,0.1977,Low Risk,137887.08,36677.08
+93B1-6510,Giraldo,Matyashev,Technology,Data Scientist,28,7,4,No,5.0,No,52930,No,0.1863,Low Risk,66562.31,13632.31
+93FF-A33D,Bart,Jebb,Technology,Machine Learning Engineer,23,0,0,No,3.0,No,83064,No,0.323,Low Risk,78430.03,-4633.97
+9404-5428,Duke,Mungham,Technology,Software Engineer,20,1,1,Yes,3.0,No,35355,Yes,0.5087,Medium Risk,37156.44,1801.44
+9412-7AA6,Edith,Middis,Technology,Data Scientist,27,7,5,No,3.0,No,45438,No,0.1524,Low Risk,40588.31,-4849.69
+9461-9439,Verne,Heads,Technology,Machine Learning Engineer,21,2,1,No,4.0,No,75816,No,0.2798,Low Risk,64175.51,-11640.49
+9528-AA17,Jaquelin,Kite,Technology,Software Engineer,48,10,5,No,5.0,No,72794,No,0.0305,Low Risk,69275.35,-3518.65
+9536-9492,Ingelbert,Kennerley,Technology,Software Engineer,23,2,2,Yes,2.0,No,42687,No,0.3891,Medium Risk,39506.86,-3180.14
+954A-3829,Karlene,Lockless,Technology,Software Engineer,20,1,1,Yes,3.0,No,31801,No,0.483,Medium Risk,37260.24,5459.24
+9591-C955,Kaine,Haukey,Technology,Software Engineer,24,4,2,Yes,3.0,No,65838,No,0.2136,Low Risk,44125.11,-21712.89
+95CB-4E31,Pavlov,Pretor,Technology,Software Engineer,28,7,3,No,2.0,No,57837,No,0.0975,Low Risk,70565.07,12728.07
+95D7-1CE9,Ahmed,Sykes,Human Resources,HR Business Partner,43,10,10,No,5.0,No,309964,No,0.0074,Low Risk,277866.25,-32097.75
+95D8-5DC7,Udall,Dowson,Technology,Engineering Manager,48,8,3,No,2.0,No,241907,No,0.0282,Low Risk,356679.02,114772.02
+95E0-CCA0,Berti,Laurand,Technology,Software Engineer,24,3,1,No,2.0,No,32313,No,0.2009,Low Risk,40158.57,7845.57
+9624-0464,Lura,Hedin,Technology,Engineering Manager,45,3,1,No,4.0,No,393420,No,0.1322,Low Risk,357657.1,-35762.9
+964B-0E97,Dayna,Hutchin,Technology,Senior Software Engineer,32,0,0,No,3.0,No,111619,No,0.2118,Low Risk,160818.35,49199.35
+9658-7750,Ray,Holbie,Technology,Data Scientist,37,8,8,No,5.0,No,49550,No,0.0476,Low Risk,65583.21,16033.21
+9671-222C,Akim,Garfit,Technology,Software Engineer,20,2,2,No,5.0,No,21344,No,0.1084,Low Risk,36004.27,14660.27
+96F4-896C,Kerwin,Wheadon,Technology,Analytics Manager,43,9,8,No,4.0,No,280756,No,0.0155,Low Risk,351382.29,70626.29
+9723-FED9,Charyl,Bartaletti,Technology,Data Scientist,24,4,4,No,4.0,No,41555,No,0.1674,Low Risk,46873.02,5318.02
+9727-BC84,Murdock,Spaduzza,Sales,Sales Executive,31,3,2,No,3.0,Yes,187930,No,0.207,Low Risk,178038.82,-9891.18
+9728-1A5B,Vernen,Rennie,Sales,Sales Executive,48,10,10,No,5.0,No,191771,No,0.0314,Low Risk,165896.28,-25874.72
+974D-9F8F,Tove,Arnao,Sales,Sales Executive,21,1,1,No,4.0,No,59519,No,0.4137,Medium Risk,59150.08,-368.92
+9756-3EAB,Haley,Veld,Technology,Software Engineer,22,3,3,No,3.0,No,27097,No,0.1719,Low Risk,37103.77,10006.77
+9758-DE2F,Modestine,Yeowell,Technology,Sales Executive,28,1,1,Yes,5.0,No,319619,Yes,0.5281,Medium Risk,237505.67,-82113.33
+97F4-0B14,Vernen,Powner,Technology,Senior Software Engineer,33,10,10,No,3.0,No,97126,No,0.0441,Low Risk,143301.63,46175.63
+97F7-5710,Jordan,Kuschke,Technology,Engineering Manager,25,4,4,Yes,5.0,No,199034,No,0.1315,Low Risk,198769.71,-264.29
+9811-F345,Wells,Mulholland,Technology,Data Scientist,42,9,9,No,2.0,No,142075,No,0.0314,Low Risk,66814.55,-75260.45
+9825-45EF,Godfrey,Reynoollds,Sales,Sales Representative,36,9,8,No,2.0,No,56937,No,0.0533,Low Risk,65334.17,8397.17
+9862-8904,Loella,Woodrough,Technology,Machine Learning Engineer,23,3,3,No,1.0,No,77798,No,0.0912,Low Risk,72514.6,-5283.4
+98EE-8547,Lock,Pierson,Technology,Analytics Manager,31,1,1,Yes,3.0,Yes,531629,Yes,0.6969,High Risk,435309.09,-96319.91
+9900-1159,Kristien,Vedikhov,Sales,Sales Executive,28,8,6,No,2.0,No,215327,No,0.0292,Low Risk,146858.12,-68468.88
+991F-BAF4,Leonelle,Frost,Technology,Analytics Manager,33,2,2,No,3.0,No,350024,No,0.147,Low Risk,328034.46,-21989.54
+9937-CDF7,Galvin,Sawley,Sales,Sales Representative,28,7,5,Yes,4.0,Yes,56122,Yes,0.6152,Medium Risk,68729.88,12607.88
+993B-186B,Lewiss,Janosevic,Sales,Sales Executive,27,7,4,No,3.0,No,73918,No,0.1287,Low Risk,87790.86,13872.86
+994A-5F84,Vance,Norsworthy,Sales,Sales Representative,25,4,4,No,3.0,No,37461,No,0.132,Low Risk,35372.36,-2088.64
+9A87-71F6,Kathye,Malia,Technology,Software Engineer,40,8,8,No,4.0,No,95808,No,0.0238,Low Risk,69523.73,-26284.27
+9A9B-630B,Nikolaus,Grimmer,Technology,Machine Learning Engineer,23,2,2,No,2.0,No,57285,No,0.1627,Low Risk,69707.21,12422.21
+9AAB-DCD0,Staci,Leith,Technology,Software Engineer,28,10,9,Yes,5.0,No,105984,No,0.0462,Low Risk,80591.86,-25392.14
+9AAD-D3C1,Annie,Jablonski,Sales,Sales Executive,45,10,7,Yes,5.0,No,106610,No,0.0974,Low Risk,152674.96,46064.96
+9BC9-1288,Adelheid,Battersby,Sales,Sales Executive,27,7,7,Yes,2.0,No,45046,No,0.2607,Low Risk,81500.17,36454.17
+9BD6-2C43,Wallas,Crinage,Sales,Sales Executive,27,7,7,No,5.0,No,92022,No,0.0596,Low Risk,84699.83,-7322.17
+9BE8-2C44,Bail,Elsworth,Sales,Sales Executive,25,4,3,No,2.0,No,72758,No,0.1739,Low Risk,87969.13,15211.13
+9C24-CD7A,Yoshiko,Abrahart,Technology,Analytics Manager,45,8,8,No,2.0,No,349793,No,0.037,Low Risk,346465.77,-3327.23
+9C27-3F5C,Kinna,Krzyzowski,Technology,Software Engineer,24,3,3,Yes,5.0,No,32930,No,0.2976,Low Risk,38087.41,5157.41
+9C57-828C,Stearn,Bever,Technology,Senior Software Engineer,31,9,3,No,3.0,No,242890,No,0.0352,Low Risk,194536.98,-48353.02
+9C6C-E5CE,Damon,Nice,Technology,Data Scientist,23,5,1,No,3.0,No,29890,No,0.4031,Medium Risk,39602.87,9712.87
+9C71-34AE,Yvor,Walaron,Technology,Software Engineer,40,10,10,No,2.0,No,69119,No,0.0187,Low Risk,75484.17,6365.17
+9C71-61AE,Lonnard,Wrathmell,Technology,Machine Learning Engineer,18,0,0,Yes,4.0,Yes,50660,Yes,0.6733,High Risk,56510.07,5850.07
+9C7D-E1B1,Morly,Gerin,Technology,Machine Learning Engineer,22,1,0,No,3.0,Yes,62509,Yes,0.8237,High Risk,66813.26,4304.26
+9C97-B634,Hyacinthie,Diperaus,Human Resources,Recruiter,19,0,0,No,3.0,No,21026,No,0.2368,Low Risk,32313.07,11287.07
+9CC0-FF43,Gussy,Gaber,Technology,Software Engineer,25,5,5,No,1.0,No,35586,No,0.0975,Low Risk,38899.59,3313.59
+9CE9-B0D5,Hilary,McPhee,Technology,Data Scientist,33,8,8,No,5.0,No,60754,No,0.0918,Low Risk,65662.35,4908.35
+9D01-8A02,Garrett,Forrester,Technology,Software Engineer,31,8,8,No,5.0,No,70682,No,0.0803,Low Risk,69762.71,-919.29
+9D3C-DA45,Broddy,Jardine,Technology,Data Scientist,32,9,5,No,3.0,No,41857,No,0.1491,Low Risk,69009.97,27152.97
+9D7B-9B37,Eleanor,Hillen,Sales,Sales Executive,28,10,2,Yes,2.0,No,194964,No,0.1286,Low Risk,185711.65,-9252.35
+9DB1-8C59,Thebault,Bitterton,Technology,Software Engineer,44,8,7,No,5.0,No,48994,No,0.065,Low Risk,67759.36,18765.36
+9DB2-76B3,Buck,Klawi,Sales,Sales Executive,41,10,10,No,5.0,No,116966,No,0.0193,Low Risk,143196.89,26230.89
+9DB8-F763,Marlin,Upcraft,Technology,Data Scientist,23,2,1,No,1.0,No,26406,No,0.458,Medium Risk,38597.35,12191.35
+9DFE-1FD5,Angel,Hazeup,Human Resources,HR Manager,42,10,10,No,5.0,No,463051,No,0.1052,Low Risk,321243.95,-141807.05
+9E22-6287,Gifford,Poynser,Technology,Machine Learning Engineer,48,10,10,No,2.0,No,145337,No,0.0145,Low Risk,143248.49,-2088.51
+9E7A-1F70,Carita,Strowther,Sales,Sales Executive,29,5,1,No,4.0,Yes,129356,Yes,0.5888,Medium Risk,144910.47,15554.47
+9E87-533E,Cindi,Dudgeon,Sales,Manager,27,1,1,No,2.0,No,225831,No,0.4761,Medium Risk,203830.62,-22000.38
+9E8E-F2FF,Dix,Presley,Sales,Sales Executive,24,3,2,No,1.0,No,65432,No,0.144,Low Risk,97232.33,31800.33
+9ED3-ED64,Horatio,Cristoferi,Technology,Software Engineer,21,2,2,No,4.0,No,31618,No,0.1238,Low Risk,37629.77,6011.77
+9F02-0D39,Bell,Di Biasi,Technology,Analytics Manager,27,7,6,No,4.0,No,252301,No,0.0408,Low Risk,222333.09,-29967.91
+9F17-01F4,Orton,Vanichkin,Technology,Software Engineer,21,0,0,No,3.0,No,38906,No,0.3358,Low Risk,37580.37,-1325.63
+9F65-F612,Patrice,Wearing,Technology,Data Scientist,28,3,3,No,2.0,Yes,54536,No,0.486,Medium Risk,86961.83,32425.83
+9FE1-0345,Eldridge,Artois,Technology,Data Scientist,28,10,10,No,1.0,No,87175,No,0.0632,Low Risk,74442.15,-12732.85
+A067-9F4F,Murray,Rooms,Sales,Sales Executive,34,2,0,No,2.0,No,215246,No,0.3985,Medium Risk,225695.47,10449.47
+A072-D80B,Corbett,Weippert,Sales,Sales Executive,27,2,2,No,5.0,No,81294,No,0.1522,Low Risk,89873.03,8579.03
+A08B-F4B1,Antone,Pinchback,Technology,Machine Learning Engineer,33,0,0,No,3.0,No,240197,No,0.2093,Low Risk,231549.28,-8647.72
+A0EC-C4AE,Eleanora,Issacoff,Sales,Sales Executive,24,3,3,No,5.0,No,106586,No,0.1079,Low Risk,84307.27,-22278.73
+A105-470B,Sancho,Mundle,Technology,Software Engineer,25,6,4,Yes,2.0,No,23993,No,0.1845,Low Risk,38023.77,14030.77
+A11D-324A,Yorgo,Ferrolli,Sales,Manager,27,6,6,No,5.0,No,152147,No,0.0517,Low Risk,183813.56,31666.56
+A12D-DAF8,Aurelie,Littlejohn,Sales,Sales Executive,18,0,0,No,3.0,No,41708,No,0.2257,Low Risk,51683.12,9975.12
+A161-29FC,Teriann,Clampett,Technology,Software Engineer,22,4,4,No,5.0,No,21649,No,0.1412,Low Risk,41078.48,19429.48
+A184-3B30,Ruperto,Ciccotto,Technology,Software Engineer,26,7,7,No,4.0,No,55778,No,0.0444,Low Risk,43042.0,-12736.0
+A1AB-EE7C,Neala,Spandley,Sales,Sales Executive,32,2,0,No,3.0,No,105091,No,0.4185,Medium Risk,147398.9,42307.9
+A1B4-5481,Zacharie,Manuaud,Sales,Sales Executive,25,1,1,No,4.0,Yes,79329,Yes,0.6345,Medium Risk,82793.84,3464.84
+A1DB-6C34,Catie,McCuish,Technology,Machine Learning Engineer,27,7,6,No,3.0,No,77039,No,0.0924,Low Risk,87293.1,10254.1
+A2AE-FD61,Conrado,Brearley,Technology,Data Scientist,32,1,1,No,5.0,No,89960,No,0.3409,Low Risk,134400.65,44440.65
+A2B5-823F,Adrian,Westhead,Technology,Machine Learning Engineer,44,9,4,Yes,4.0,No,257978,No,0.1571,Low Risk,175687.3,-82290.7
+A2D0-E2D2,Eryn,Crockley,Technology,Software Engineer,26,1,0,Yes,3.0,Yes,22089,Yes,0.8542,High Risk,36844.19,14755.19
+A2FB-2D5D,Lebbie,Poure,Technology,Analytics Manager,43,10,9,No,4.0,No,482510,No,0.0168,Low Risk,401482.61,-81027.39
+A31A-A90C,Aleksandr,Casetti,Technology,Data Scientist,36,8,8,Yes,2.0,No,46773,No,0.2398,Low Risk,64929.86,18156.86
+A366-C17A,Jodie,Le Breton De La Vieuville,Technology,Machine Learning Engineer,42,10,1,No,4.0,No,126463,No,0.1139,Low Risk,152775.02,26312.02
+A3AE-B510,Cameron,Spencook,Technology,Engineering Manager,31,0,0,Yes,3.0,No,353335,No,0.3988,Medium Risk,334100.98,-19234.02
+A409-0113,Aurthur,Attoe,Human Resources,HR Business Partner,27,0,0,Yes,3.0,No,219195,No,0.4237,Medium Risk,183549.05,-35645.95
+A409-26AC,Agretha,Shakelade,Technology,Engineering Manager,25,4,2,No,5.0,No,170803,No,0.1283,Low Risk,186883.63,16080.63
+A42A-4000,Rusty,Rishbrook,Sales,Sales Executive,23,3,3,No,4.0,No,94417,No,0.1597,Low Risk,74850.78,-19566.22
+A4A4-F49C,Nichols,Baty,Technology,Senior Software Engineer,34,10,10,No,3.0,No,97542,No,0.0138,Low Risk,165150.12,67608.12
+A4E5-CE62,Tandy,Curley,Technology,Machine Learning Engineer,23,3,3,No,3.0,No,62324,No,0.1191,Low Risk,73324.71,11000.71
+A4FE-424E,Domenic,Lorenc,Technology,Senior Software Engineer,34,0,0,Yes,3.0,No,311310,No,0.2551,Low Risk,265801.93,-45508.07
+A531-8159,Carlyn,Pavese,Technology,Data Scientist,37,10,7,No,2.0,No,82099,No,0.0299,Low Risk,68736.74,-13362.26
+A53B-DF3C,Sadye,Wiggin,Technology,Data Scientist,22,4,2,Yes,5.0,No,39732,No,0.3538,Medium Risk,38626.65,-1105.35
+A590-DF69,Cortney,Wann,Technology,Software Engineer,28,7,6,No,3.0,No,71553,No,0.0795,Low Risk,69585.98,-1967.02
+A5CD-8AB8,Hildagarde,Marks,Technology,Software Engineer,18,0,0,No,3.0,No,24906,No,0.2578,Low Risk,39565.57,14659.57
+A663-B3DF,Wynny,Pechell,Sales,Sales Executive,41,1,0,No,3.0,No,175032,No,0.2078,Low Risk,221539.38,46507.38
+A687-74F8,Say,Slyme,Technology,Software Engineer,19,0,0,No,3.0,No,29266,No,0.2455,Low Risk,39157.34,9891.34
+A690-3D5D,Lynea,Ashurst,Technology,Senior Software Engineer,35,9,9,Yes,3.0,No,253952,No,0.0418,Low Risk,173796.33,-80155.67
+A696-1216,Cynthy,Gainsford,Sales,Sales Executive,36,8,2,No,2.0,No,192475,No,0.08,Low Risk,159598.96,-32876.04
+A6AA-56AE,Corie,Rizzardo,Technology,Software Engineer,19,1,1,No,3.0,No,28346,No,0.3313,Low Risk,37478.84,9132.84
+A71E-A9DC,Greta,Turneux,Sales,Sales Executive,31,9,4,No,4.0,No,253719,No,0.1494,Low Risk,171407.41,-82311.59
+A76C-AEB3,Oren,Milella,Technology,Machine Learning Engineer,25,7,3,Yes,5.0,No,145905,No,0.1852,Low Risk,95377.99,-50527.01
+A7BB-F5A7,Anna-diana,Horbart,Sales,Manager,37,8,4,No,3.0,No,476151,No,0.0435,Low Risk,417019.54,-59131.46
+A7F8-24EA,Antonio,Nayer,Technology,Machine Learning Engineer,24,5,0,Yes,2.0,No,128126,No,0.3754,Medium Risk,102916.32,-25209.68
+A807-DE5D,Bobbye,Alexandrescu,Technology,Data Scientist,47,8,4,No,2.0,No,61915,No,0.0886,Low Risk,69406.43,7491.43
+A81C-AB62,Max,Aronstein,Technology,Senior Software Engineer,21,1,1,Yes,3.0,No,36012,No,0.3017,Low Risk,50914.01,14902.01
+A848-F98B,Scot,Yakebovich,Technology,Data Scientist,25,2,1,No,2.0,Yes,38038,No,0.4684,Medium Risk,40095.66,2057.66
+A859-9A84,Guthrie,Blunt,Technology,Data Scientist,23,3,2,No,2.0,No,31426,No,0.1544,Low Risk,37482.43,6056.43
+A862-3880,Ludvig,Gadman,Technology,Senior Software Engineer,22,4,2,Yes,3.0,No,66552,No,0.2512,Low Risk,68169.28,1617.28
+A885-BF42,Donavon,Hallet,Technology,Data Scientist,24,4,4,No,1.0,No,32173,No,0.302,Low Risk,46405.5,14232.5
+A896-CDE2,Wrennie,Quinton,Technology,Software Engineer,25,7,6,Yes,4.0,No,28317,No,0.2072,Low Risk,38601.37,10284.37
+A89C-9A1E,Seline,Hanlin,Technology,Data Scientist,21,2,2,No,5.0,No,56422,No,0.1454,Low Risk,38695.75,-17726.25
+A91B-7DC5,Stephanie,Harradence,Technology,Machine Learning Engineer,42,9,8,No,2.0,No,110069,No,0.0179,Low Risk,134457.68,24388.68
+A923-9EF6,Alaine,Hinrichsen,Technology,Machine Learning Engineer,41,10,10,No,2.0,No,107008,No,0.0172,Low Risk,149177.8,42169.8
+A954-6310,Rosaline,Griffe,Technology,Machine Learning Engineer,29,9,9,Yes,5.0,No,207952,No,0.1209,Low Risk,146157.34,-61794.66
+A9EB-9E41,Jacki,Mitro,Technology,Machine Learning Engineer,30,10,9,No,5.0,No,228438,No,0.012,Low Risk,169207.62,-59230.38
+AA19-95BD,Avrom,Low,Sales,Sales Executive,33,1,0,Yes,5.0,Yes,165988,Yes,0.6574,High Risk,195330.28,29342.28
+AA3A-EC19,Townsend,Dunrige,Technology,Engineering Manager,38,1,1,Yes,5.0,No,439935,No,0.3007,Low Risk,387813.64,-52121.36
+AA67-CB22,Obadias,Izhaky,Technology,Senior Software Engineer,26,7,6,No,5.0,No,167509,No,0.0496,Low Risk,118424.61,-49084.39
+AA6C-B0D6,Benedick,Lovekin,Sales,Sales Executive,25,0,0,No,3.0,No,118961,No,0.3759,Medium Risk,90479.07,-28481.93
+AA87-13D8,Rita,Chrismas,Technology,Data Scientist,32,9,9,No,3.0,No,44388,No,0.0614,Low Risk,70016.85,25628.85
+AACC-8B93,Kaleena,Ellsbury,Technology,Analytics Manager,36,2,2,No,1.0,No,462687,No,0.0985,Low Risk,445592.99,-17094.01
+AAD3-BCC1,Nikita,Pettis,Sales,Sales Executive,18,0,0,No,3.0,No,74515,No,0.1979,Low Risk,62543.49,-11971.51
+AAD7-8DDC,Simeon,Cosslett,Technology,Engineering Manager,50,2,2,No,5.0,No,337946,No,0.0603,Low Risk,339255.36,1309.36
+AB03-8820,Daryle,Boarder,Sales,Manager,43,9,9,No,4.0,No,313198,No,0.0412,Low Risk,373961.03,60763.03
+AB3B-98D9,Franky,Dorie,Technology,Software Engineer,22,3,3,No,3.0,No,34823,No,0.0672,Low Risk,39541.53,4718.53
+AB4A-E71A,Theodor,Smaleman,Sales,Manager,43,9,3,Yes,2.0,No,429939,No,0.0935,Low Risk,412732.99,-17206.01
+AB5F-244C,Horst,Mynett,Technology,Data Scientist,36,10,7,No,1.0,No,73643,No,0.0805,Low Risk,71637.46,-2005.54
+AB61-2A7E,Mala,Van Castele,Sales,Sales Representative,22,2,2,No,2.0,No,20802,No,0.2425,Low Risk,31411.96,10609.96
+AB81-A3A0,Jerrome,Furney,Sales,Sales Executive,29,9,4,No,5.0,No,96319,No,0.0558,Low Risk,129249.23,32930.23
+ABB0-9B03,Josi,Ogilvy,Technology,Software Engineer,21,3,3,No,4.0,No,46366,No,0.1358,Low Risk,40739.74,-5626.26
+ABB5-0B95,Thomasine,Odell,Technology,Data Scientist,28,7,3,No,3.0,No,112175,No,0.0942,Low Risk,68343.8,-43831.2
+ABC2-0036,Gerta,Littlewood,Technology,Data Scientist,24,4,2,No,3.0,No,101408,No,0.242,Low Risk,53432.49,-47975.51
+ABDA-F749,Emmit,Le Provost,Technology,Machine Learning Engineer,27,6,3,No,1.0,No,49343,No,0.1186,Low Risk,83458.31,34115.31
+AC19-7EE7,Aube,Bassill,Sales,Sales Executive,25,7,6,Yes,2.0,No,86485,No,0.2066,Low Risk,84954.26,-1530.74
+ACA5-348E,Theodoric,Mateo,Technology,Software Engineer,22,3,3,No,5.0,No,26158,No,0.2048,Low Risk,36616.96,10458.96
+ACA9-5DC2,Mireielle,Chstney,Sales,Sales Executive,46,10,9,No,3.0,No,205159,No,0.0434,Low Risk,147686.68,-57472.32
+ACB2-6640,Julee,Corfield,Sales,Sales Executive,24,4,0,No,2.0,No,75250,No,0.3238,Low Risk,99988.69,24738.69
+ACD5-5FA2,Judye,Offield,Sales,Sales Representative,28,7,5,Yes,5.0,No,70787,No,0.2455,Low Risk,67185.56,-3601.44
+ACF7-5B99,Janeczka,Osmond,Sales,Sales Executive,26,7,6,Yes,2.0,No,97811,No,0.1634,Low Risk,98722.23,911.23
+AD0D-E79F,Cleve,Braben,Sales,Sales Executive,22,0,0,Yes,4.0,Yes,53220,Yes,0.7367,High Risk,56354.76,3134.76
+AD1C-2AC5,Phylys,Twede,Technology,Data Scientist,22,4,4,No,4.0,No,38169,No,0.1186,Low Risk,38889.77,720.77
+AD81-458F,Robbert,Molson,Technology,Machine Learning Engineer,43,1,1,No,3.0,No,254834,No,0.1906,Low Risk,259243.3,4409.3
+AD8F-7539,Leta,Possel,Sales,Sales Executive,28,7,7,Yes,5.0,No,304858,No,0.231,Low Risk,209401.56,-95456.44
+ADA1-966E,Christian,Tinson,Technology,Engineering Manager,40,4,4,Yes,2.0,No,304343,No,0.1295,Low Risk,385735.35,81392.35
+ADB8-7B07,Oona,Offer,Technology,Senior Software Engineer,47,1,0,No,3.0,No,221827,No,0.4469,Medium Risk,263072.35,41245.35
+ADF8-AD57,Trip,Bennell,Technology,Data Scientist,27,0,0,No,3.0,Yes,20387,Yes,0.6728,High Risk,39062.82,18675.82
+AE33-DDE7,Pablo,Kerin,Technology,Senior Software Engineer,25,6,5,No,3.0,No,85412,No,0.0913,Low Risk,88068.27,2656.27
+AE51-5502,Randy,Luxford,Technology,Data Scientist,23,5,4,No,3.0,No,25986,No,0.1052,Low Risk,39307.75,13321.75
+AE73-B863,Jeffry,Wastling,Sales,Sales Executive,32,3,2,No,4.0,No,208435,No,0.189,Low Risk,174759.32,-33675.68
+AE9F-5268,Ev,Bravington,Technology,Software Engineer,22,2,2,Yes,5.0,No,43072,No,0.3933,Medium Risk,38384.52,-4687.48
+AEDB-BB62,Munmro,Ledamun,Technology,Machine Learning Engineer,39,10,10,No,2.0,No,264285,No,0.0393,Low Risk,174076.03,-90208.97
+AEEC-804D,Vannie,Kissell,Technology,Senior Software Engineer,23,4,4,No,4.0,No,69325,No,0.0396,Low Risk,68607.64,-717.36
+AF04-23EA,Obadiah,Van Schafflaer,Technology,Analytics Manager,32,1,0,No,3.0,No,253019,No,0.2268,Low Risk,306464.35,53445.35
+AF11-04C3,Joni,Byre,Sales,Manager,27,6,1,No,4.0,No,149813,No,0.3119,Low Risk,176385.36,26572.36
+AF58-5D1B,Jeri,MacDiarmid,Technology,Software Engineer,36,9,7,No,2.0,No,60585,No,0.0445,Low Risk,70436.32,9851.32
+AF5D-A8C8,Jedidiah,Orrick,Sales,Sales Executive,24,0,0,Yes,1.0,Yes,86102,Yes,0.7922,High Risk,91272.52,5170.52
+AF77-0F6B,Germana,Ludlom,Technology,Software Engineer,36,8,8,No,2.0,No,57327,No,0.0376,Low Risk,70237.34,12910.34
+AFA8-5058,Dame,Andrzejewski,Human Resources,Recruiter,20,2,0,Yes,1.0,Yes,26186,Yes,0.6948,High Risk,31957.88,5771.88
+AFC3-E23F,Julissa,Fosbraey,Technology,Data Scientist,35,1,1,No,4.0,No,423941,No,0.2513,Low Risk,406731.19,-17209.81
+AFDF-3DA8,Mikkel,Fosdyke,Sales,Manager,41,0,0,No,3.0,Yes,314961,Yes,0.537,Medium Risk,321095.14,6134.14
+AFE1-76D3,Keelby,Pariss,Technology,Software Engineer,21,3,3,No,2.0,No,31624,No,0.1201,Low Risk,37160.92,5536.92
+B005-602F,Layney,Ratie,Technology,Software Engineer,19,0,0,Yes,3.0,Yes,27760,Yes,0.8287,High Risk,38912.75,11152.75
+B013-7D0C,Carline,Mort,Technology,Data Scientist,28,1,1,Yes,3.0,Yes,46313,Yes,0.722,High Risk,80106.34,33793.34
+B063-A2B5,Forester,Bentjens,Sales,Sales Executive,41,8,4,No,3.0,No,81654,No,0.036,Low Risk,120981.67,39327.67
+B09D-DFEC,Eustace,Skune,Technology,Data Scientist,47,9,3,No,2.0,No,62999,No,0.096,Low Risk,68939.04,5940.04
+B0B9-19C6,Lorna,Kuzma,Sales,Sales Executive,22,1,1,No,5.0,No,48716,No,0.4665,Medium Risk,56180.25,7464.25
+B0C2-0E3D,Cindy,Mordanti,Sales,Sales Executive,22,1,1,Yes,2.0,No,48698,Yes,0.5453,Medium Risk,59369.33,10671.33
+B0C3-E578,Shela,Toseland,Technology,Machine Learning Engineer,32,8,0,No,2.0,No,97595,No,0.1557,Low Risk,146888.2,49293.2
+B0C8-E3DF,Eleanor,Escalero,Human Resources,Recruiter,19,1,0,No,2.0,No,25838,No,0.4311,Medium Risk,31474.82,5636.82
+B102-5713,Adlai,Pettit,Sales,Manager,27,7,5,No,5.0,No,205622,No,0.0742,Low Risk,194525.93,-11096.07
+B122-D3D2,Gigi,Wrack,Technology,Data Scientist,26,5,5,No,4.0,No,89366,No,0.317,Low Risk,37089.13,-52276.87
+B140-AF36,Marjy,Matveyev,Human Resources,Recruiter,18,0,0,No,3.0,No,31024,No,0.2502,Low Risk,32618.05,1594.05
+B148-55FB,Marius,Champkin,Technology,Machine Learning Engineer,38,1,0,No,2.0,Yes,231699,Yes,0.6917,High Risk,250449.11,18750.11
+B1BC-0011,Rea,Legister,Technology,Data Scientist,23,4,3,No,4.0,No,36098,No,0.1509,Low Risk,39270.23,3172.23
+B1EC-849B,Paule,Mapplebeck,Sales,Sales Executive,28,10,5,No,4.0,No,87039,No,0.0575,Low Risk,126378.56,39339.56
+B24C-18BF,Timothy,Plewright,Sales,Sales Executive,26,6,6,No,5.0,No,93170,No,0.0932,Low Risk,84319.57,-8850.43
+B268-1642,Katerine,Maffione,Sales,Sales Executive,26,5,0,Yes,3.0,No,61686,Yes,0.5197,Medium Risk,81813.9,20127.9
+B2D6-A355,Dennis,Whopples,Technology,Analytics Manager,38,8,6,Yes,2.0,No,361616,No,0.0822,Low Risk,358728.14,-2887.86
+B303-8962,Lynne,Boomes,Sales,Sales Executive,39,9,8,No,4.0,No,136970,No,0.0247,Low Risk,168815.34,31845.34
+B312-7192,Carolynn,Gilby,Sales,Sales Executive,39,8,2,No,3.0,No,89351,No,0.1039,Low Risk,129546.73,40195.73
+B324-A703,Cherri,Lugg,Technology,Software Engineer,19,0,0,No,3.0,No,36554,No,0.2709,Low Risk,37490.52,936.52
+B340-5AD2,Denys,Agastina,Sales,Sales Executive,37,8,5,Yes,3.0,No,61117,No,0.2155,Low Risk,136361.14,75244.14
+B341-8D6A,Clotilda,Lacrouts,Technology,Software Engineer,40,8,8,No,4.0,No,48125,No,0.0284,Low Risk,68750.65,20625.65
+B347-DA2D,Linus,Darragh,Technology,Analytics Manager,31,1,1,No,4.0,No,376853,No,0.3703,Medium Risk,368311.89,-8541.11
+B34E-95FF,Samuele,Creek,Sales,Sales Executive,25,2,1,Yes,5.0,Yes,87347,Yes,0.6894,High Risk,86020.81,-1326.19
+B375-26A9,Teressa,Attewell,Human Resources,HR Executive,24,4,4,No,4.0,No,41745,No,0.1479,Low Risk,69114.2,27369.2
+B3A4-91F0,Dud,Durdan,Technology,Senior Software Engineer,23,2,2,No,3.0,No,68820,No,0.1394,Low Risk,70646.18,1826.18
+B3AF-7E58,Elvira,Ianelli,Human Resources,Recruiter,45,10,10,Yes,2.0,No,54132,No,0.0832,Low Risk,81895.43,27763.43
+B3FE-D332,Josephine,Stickley,Technology,Software Engineer,30,9,9,No,2.0,No,93181,No,0.0203,Low Risk,71715.69,-21465.31
+B407-ABCA,Obie,Huke,Sales,Sales Executive,26,4,0,Yes,3.0,Yes,60087,Yes,0.7728,High Risk,87041.93,26954.93
+B437-FCF8,Nettie,Liley,Technology,Analytics Manager,26,5,3,No,2.0,No,221954,No,0.166,Low Risk,214647.63,-7306.37
+B44E-8AEE,Carlynn,Bartolic,Sales,Sales Executive,28,7,6,No,5.0,No,181164,No,0.0676,Low Risk,153271.58,-27892.42
+B48C-47D0,Norman,Longmuir,Sales,Sales Representative,28,6,4,No,3.0,Yes,43939,No,0.2846,Low Risk,72255.77,28316.77
+B492-D447,Aurthur,Rittelmeyer,Sales,Sales Executive,28,7,3,No,4.0,No,128719,No,0.1929,Low Risk,126418.48,-2300.52
+B49A-7D79,Freedman,Kensington,Technology,Software Engineer,27,7,7,Yes,3.0,No,22986,No,0.3415,Low Risk,36013.21,13027.21
+B4E1-4A3E,Beckie,Tawn,Technology,Data Scientist,28,4,3,No,3.0,Yes,115895,Yes,0.5151,Medium Risk,98671.69,-17223.31
+B50B-5A18,Paulina,Senecaut,Technology,Software Engineer,40,10,5,No,2.0,No,42333,No,0.0441,Low Risk,71921.87,29588.87
+B529-2745,Randall,Worswick,Sales,Sales Representative,22,3,1,No,2.0,No,27961,No,0.2922,Low Risk,31762.03,3801.03
+B52E-BF41,Salomi,Finlry,Technology,Data Scientist,30,9,9,No,5.0,No,36280,No,0.0291,Low Risk,73398.86,37118.86
+B56D-46CE,Caria,Ingerman,Sales,Sales Executive,36,3,1,No,4.0,No,220472,No,0.2289,Low Risk,229391.38,8919.38
+B57F-B5CE,Adriano,Blackshaw,Technology,Machine Learning Engineer,26,5,2,No,2.0,No,78934,No,0.1329,Low Risk,90494.52,11560.52
+B59D-CA4C,Ichabod,Mabbot,Sales,Sales Executive,28,7,5,No,4.0,No,110057,No,0.1039,Low Risk,124951.21,14894.21
+B5C6-A760,Brigitta,Larkins,Technology,Machine Learning Engineer,21,3,2,No,3.0,No,76518,No,0.3304,Low Risk,69349.53,-7168.47
+B5C6-F8D5,Rafaelita,Lere,Technology,Analytics Manager,40,8,5,No,4.0,No,295688,No,0.0592,Low Risk,329512.77,33824.77
+B61E-0F26,Care,Heintze,Technology,Software Engineer,28,7,7,Yes,4.0,Yes,58993,Yes,0.6543,High Risk,69857.48,10864.48
+B670-21B2,Ellery,Hartopp,Sales,Sales Executive,24,3,2,Yes,4.0,No,70546,Yes,0.5067,Medium Risk,89970.77,19424.77
+B679-F7C9,Hillard,Ell,Technology,Software Engineer,29,7,4,Yes,2.0,No,113448,No,0.2551,Low Risk,78109.53,-35338.47
+B684-6C98,Kane,Skillicorn,Sales,Sales Executive,31,0,0,Yes,3.0,No,96806,Yes,0.58,Medium Risk,197968.24,101162.24
+B6B9-E5BE,Land,Brigge,Technology,Data Scientist,21,0,0,No,3.0,No,21454,No,0.3341,Low Risk,38317.84,16863.84
+B6EC-313E,Corbin,Gooddy,Human Resources,Recruiter,26,0,0,No,3.0,Yes,30502,Yes,0.5973,Medium Risk,46675.37,16173.37
+B70F-B17D,Ragnar,Grandisson,Technology,Senior Software Engineer,37,1,1,No,3.0,No,211375,No,0.1797,Low Risk,243334.59,31959.59
+B727-FCF9,Evy,Bichener,Technology,Engineering Manager,27,0,0,No,3.0,No,227477,No,0.2747,Low Risk,175567.69,-51909.31
+B76C-D9CE,Mada,Moss,Human Resources,Recruiter,22,1,0,Yes,2.0,Yes,29322,Yes,0.8883,High Risk,31770.79,2448.79
+B77D-2FBD,Diannne,Real,Sales,Sales Executive,24,0,0,No,3.0,No,58923,No,0.3941,Medium Risk,88813.18,29890.18
+B785-D8F8,Ruprecht,Blatchford,Technology,Software Engineer,32,10,9,No,2.0,No,78672,No,0.0213,Low Risk,71407.24,-7264.76
+B8A5-07A1,Ainsley,Norheny,Technology,Data Scientist,24,6,2,No,3.0,No,33554,No,0.1133,Low Risk,50143.68,16589.68
+B8C3-5E0A,Joyous,Muggleston,Technology,Data Scientist,26,5,5,No,3.0,No,26414,No,0.1275,Low Risk,36583.1,10169.1
+B90D-4BEF,Nancey,Noades,Technology,Engineering Manager,29,5,5,Yes,3.0,No,388605,No,0.2017,Low Risk,309927.54,-78677.46
+B967-D6D3,Kimmy,O'Logan,Technology,Data Scientist,26,6,5,No,4.0,No,26919,No,0.123,Low Risk,36714.5,9795.5
+B975-943A,Winthrop,McCahill,Technology,Software Engineer,40,8,8,No,2.0,No,46285,No,0.023,Low Risk,68427.48,22142.48
+B97B-73D7,Chelsie,Isakovitch,Sales,Sales Executive,29,6,5,No,5.0,Yes,177402,Yes,0.5073,Medium Risk,166983.93,-10418.07
+B98B-4689,Mordecai,Tetlow,Sales,Sales Executive,22,1,0,No,3.0,Yes,39845,Yes,0.6796,High Risk,50009.8,10164.8
+B990-35DA,Appolonia,Francis,Technology,Data Scientist,47,9,7,No,5.0,No,116165,No,0.0454,Low Risk,70956.9,-45208.1
+B995-E5CE,Anitra,Korfmann,Technology,Data Scientist,27,7,7,No,5.0,No,39198,No,0.0576,Low Risk,40151.55,953.55
+BAA6-30C4,Tawnya,Saywood,Sales,Manager,32,1,1,No,3.0,No,202322,No,0.2084,Low Risk,240624.21,38302.21
+BAB4-3AC8,Trudey,Doulton,Technology,Software Engineer,25,6,1,No,4.0,No,44146,No,0.1862,Low Risk,42003.47,-2142.53
+BAE6-B5DE,Pammi,Biernat,Technology,Data Scientist,22,2,2,No,4.0,No,33354,No,0.3152,Low Risk,38052.63,4698.63
+BAF9-933D,Pauly,Gero,Human Resources,HR Executive,41,8,4,No,3.0,No,131047,No,0.025,Low Risk,94743.49,-36303.51
+BAFA-86DF,Rolfe,Ketchaside,Technology,Software Engineer,26,4,3,Yes,4.0,Yes,35373,Yes,0.6379,Medium Risk,39611.12,4238.12
+BB09-BF7F,Susanne,Kelso,Sales,Sales Executive,27,7,6,No,4.0,No,57102,No,0.0702,Low Risk,83815.79,26713.79
+BBB4-89C7,Ilene,Moffat,Technology,Senior Software Engineer,25,4,4,Yes,4.0,No,90418,No,0.1011,Low Risk,84310.01,-6107.99
+BBD0-FB7D,Edin,Savill,Sales,Sales Executive,23,4,4,No,3.0,No,87629,No,0.0852,Low Risk,65663.58,-21965.42
+BBE1-D4A5,Fransisco,Minerdo,Technology,Software Engineer,24,5,5,No,3.0,No,33202,No,0.1322,Low Risk,38398.66,5196.66
+BBEF-AC35,Ros,Dines,Sales,Sales Executive,21,1,1,No,3.0,No,60769,No,0.1943,Low Risk,56359.2,-4409.8
+BC20-368E,Flem,Simenon,Sales,Manager,39,1,0,Yes,3.0,No,265712,No,0.3352,Low Risk,298088.78,32376.78
+BC21-2167,Aldin,Barens,Technology,Senior Software Engineer,28,1,1,No,2.0,No,187698,No,0.3351,Low Risk,141748.26,-45949.74
+BC43-E62B,Bria,Hendrickx,Technology,Software Engineer,23,2,1,No,3.0,No,29956,No,0.3376,Low Risk,37600.01,7644.01
+BC5E-3B7B,Farra,Boffey,Sales,Sales Representative,24,3,2,No,3.0,No,24174,No,0.1723,Low Risk,33007.45,8833.45
+BD1B-53A3,Wendall,Dryden,Sales,Sales Executive,43,10,10,Yes,4.0,No,128885,No,0.2138,Low Risk,164605.2,35720.2
+BD33-DB2F,Hashim,Stolze,Technology,Machine Learning Engineer,24,2,1,No,2.0,No,63747,No,0.2254,Low Risk,85021.52,21274.52
+BD70-7DAE,Kalil,Gauntley,Technology,Software Engineer,22,1,1,Yes,3.0,Yes,37014,Yes,0.7583,High Risk,37607.18,593.18
+BD94-98E0,Darrin,Roo,Technology,Software Engineer,21,3,3,No,5.0,No,32679,No,0.1175,Low Risk,39117.38,6438.38
+BD97-F94D,Cletus,Heintsch,Technology,Software Engineer,26,7,7,No,4.0,No,50614,No,0.0469,Low Risk,40411.66,-10202.34
+BDC5-51CF,Wanids,Mace,Sales,Sales Executive,25,0,0,Yes,2.0,Yes,56163,Yes,0.8498,High Risk,92650.61,36487.61
+BDE5-385A,Morten,Keig,Technology,Software Engineer,26,7,7,Yes,4.0,No,60494,No,0.1344,Low Risk,45074.1,-15419.9
+BE07-BE80,Clemmie,Heckner,Technology,Software Engineer,23,2,2,Yes,4.0,No,28824,Yes,0.5595,Medium Risk,39376.38,10552.38
+BE54-8537,Krista,Eustace,Technology,Software Engineer,26,5,4,No,5.0,Yes,36794,Yes,0.5186,Medium Risk,40175.23,3381.23
+BE54-B2AF,Nelia,Abramowitz,Technology,Machine Learning Engineer,20,0,0,No,3.0,No,46714,No,0.2568,Low Risk,53644.75,6930.75
+BE93-0736,Lucas,Oran,Technology,Senior Software Engineer,35,10,7,No,2.0,No,117151,No,0.0379,Low Risk,151453.65,34302.65
+BEBB-3E92,Flinn,Redferne,Human Resources,HR Executive,24,0,0,Yes,3.0,No,93008,No,0.4427,Medium Risk,75649.77,-17358.23
+BEE2-8052,Letta,Mattea,Technology,Software Engineer,26,5,5,No,3.0,No,74096,No,0.1221,Low Risk,47442.34,-26653.66
+BFAF-1ED1,Georges,Hinstridge,Technology,Data Scientist,24,4,4,No,4.0,No,67538,No,0.1927,Low Risk,46930.35,-20607.65
+BFE7-5EA8,Siobhan,Antognelli,Sales,Sales Executive,41,9,9,No,3.0,No,248987,No,0.0729,Low Risk,144082.86,-104904.14
+BFF3-AADC,Collen,Sedman,Human Resources,Recruiter,31,10,2,No,5.0,No,55682,No,0.1266,Low Risk,80193.29,24511.29
+C016-FA12,Sofie,Dumphries,Sales,Sales Representative,25,2,2,No,2.0,Yes,32894,Yes,0.641,Medium Risk,33007.11,113.11
+C025-B8B6,Valentine,Beddin,Sales,Sales Executive,44,8,2,No,5.0,No,126073,No,0.0924,Low Risk,131422.16,5349.16
+C026-3E38,Garv,Tockell,Technology,Machine Learning Engineer,28,7,7,Yes,4.0,No,220234,No,0.2082,Low Risk,167432.56,-52801.44
+C08F-94F9,Nikos,Karpenko,Technology,Software Engineer,26,0,0,Yes,4.0,Yes,40100,Yes,0.9257,High Risk,39452.66,-647.34
+C0A1-EB7D,Leona,McKnish,Technology,Senior Software Engineer,36,10,8,No,5.0,No,111294,No,0.0089,Low Risk,163139.42,51845.42
+C0B9-E4C1,Illa,MacPherson,Technology,Machine Learning Engineer,25,5,4,Yes,4.0,No,80779,No,0.1089,Low Risk,84710.85,3931.85
+C0BE-FED0,Bertram,Doleman,Sales,Sales Representative,40,10,8,Yes,2.0,No,63455,No,0.0979,Low Risk,66092.1,2637.1
+C0C7-A3EF,Hagen,Worge,Sales,Sales Executive,48,10,10,No,2.0,No,125587,No,0.0227,Low Risk,167764.56,42177.56
+C14B-814C,Roby,Wintringham,Sales,Sales Executive,50,1,1,No,3.0,No,214707,No,0.192,Low Risk,266307.61,51600.61
+C1B4-46B2,Hoebart,Bennen,Technology,Senior Software Engineer,27,7,5,No,4.0,No,73326,No,0.0831,Low Risk,89768.32,16442.32
+C1BA-AB7C,Gorden,Ferriby,Technology,Engineering Manager,27,0,0,No,3.0,No,118176,No,0.343,Low Risk,171454.92,53278.92
+C1C6-F683,Ignacius,Kelberman,Technology,Software Engineer,45,9,6,Yes,3.0,No,92613,No,0.1098,Low Risk,73414.96,-19198.04
+C1E8-5AAB,Pierce,Abadam,Sales,Sales Executive,25,6,4,No,3.0,No,69539,No,0.0949,Low Risk,87258.44,17719.44
+C219-6C2E,Clerkclaude,Hinkins,Sales,Sales Executive,34,10,7,No,2.0,No,133468,No,0.0415,Low Risk,133067.55,-400.45
+C22D-CE5F,Dorry,Tiddy,Sales,Sales Executive,42,8,2,No,3.0,No,189256,No,0.1079,Low Risk,148669.64,-40586.36
+C250-AF15,Ron,Hordle,Technology,Engineering Manager,25,7,7,No,2.0,No,178337,No,0.0765,Low Risk,188070.14,9733.14
+C251-2A18,Honor,Jesson,Technology,Data Scientist,26,7,7,No,5.0,No,29791,No,0.0788,Low Risk,39928.58,10137.58
+C25C-C434,Jillayne,Goshawke,Technology,Software Engineer,35,10,6,No,4.0,No,71257,No,0.0669,Low Risk,71658.81,401.81
+C27A-1115,Alasteir,Muge,Technology,Machine Learning Engineer,25,4,4,No,4.0,No,96514,No,0.1128,Low Risk,79902.22,-16611.78
+C28E-0CC3,Urbano,Akett,Technology,Software Engineer,19,0,0,No,3.0,No,41539,No,0.2213,Low Risk,37301.09,-4237.91
+C292-EC0C,Rosamond,Mattaser,Technology,Software Engineer,26,6,5,No,2.0,No,27219,No,0.0814,Low Risk,38155.42,10936.42
+C2BF-D441,Helen-elizabeth,Randall,Technology,Analytics Manager,47,3,1,No,2.0,No,350101,No,0.1485,Low Risk,357734.0,7633.0
+C2DD-9D37,Ring,Genge,Sales,Sales Executive,42,10,5,No,4.0,No,106277,No,0.0406,Low Risk,122584.55,16307.55
+C330-DAF4,Lonni,Lelievre,Sales,Sales Executive,34,10,10,Yes,2.0,No,100710,No,0.1051,Low Risk,151802.87,51092.87
+C385-CDBE,Filide,Dinnies,Technology,Machine Learning Engineer,36,10,8,Yes,4.0,No,218940,No,0.0609,Low Risk,154053.1,-64886.9
+C389-FC34,Lin,Lauga,Technology,Software Engineer,27,6,6,No,3.0,No,28828,No,0.0571,Low Risk,42935.04,14107.04
+C395-8C36,Curcio,Franek,Human Resources,Recruiter,33,10,3,Yes,2.0,No,53616,No,0.1204,Low Risk,79856.09,26240.09
+C3C0-349E,Isac,Dreus,Sales,Sales Executive,45,0,0,No,3.0,Yes,270302,Yes,0.6543,High Risk,236195.6,-34106.4
+C472-DAAD,Raf,Laraway,Sales,Sales Executive,18,0,0,Yes,3.0,No,59962,Yes,0.5509,Medium Risk,56413.47,-3548.53
+C4F0-F933,Vassily,Bazoge,Technology,Senior Software Engineer,37,1,1,Yes,5.0,No,193287,No,0.2765,Low Risk,267397.78,74110.78
+C4F7-E118,Brit,Seine,Technology,Data Scientist,21,0,0,No,3.0,No,72355,No,0.2649,Low Risk,39078.11,-33276.89
+C509-6E46,Ulrica,Butterworth,Technology,Senior Software Engineer,19,1,1,Yes,3.0,No,51802,No,0.2734,Low Risk,53730.41,1928.41
+C520-6F2B,Jena,Danzig,Technology,Data Scientist,25,6,3,Yes,4.0,No,45286,No,0.4919,Medium Risk,37957.92,-7328.08
+C525-8BB9,Briggs,Pettet,Technology,Data Scientist,29,9,7,No,4.0,No,70872,No,0.0672,Low Risk,72138.26,1266.26
+C54B-DBC5,Lilyan,Martinet,Sales,Sales Executive,33,9,9,No,3.0,No,115114,No,0.0153,Low Risk,143246.39,28132.39
+C560-23D6,Chiquita,Le Marchant,Technology,Software Engineer,23,3,1,No,3.0,No,45995,No,0.248,Low Risk,40759.96,-5235.04
+C579-11D1,Benjie,Grosvenor,Technology,Data Scientist,23,2,2,No,5.0,No,22488,No,0.1931,Low Risk,37506.48,15018.48
+C57E-6E4F,Tremain,Drakes,Technology,Data Scientist,24,1,1,Yes,3.0,Yes,32502,Yes,0.728,High Risk,46058.01,13556.01
+C5C2-985F,Gaspar,O' Concannon,Sales,Sales Representative,29,4,3,Yes,3.0,Yes,46465,Yes,0.7604,High Risk,78247.81,31782.81
+C62F-44EF,Valeda,Napier,Human Resources,HR Business Partner,39,3,2,No,2.0,No,349233,No,0.1837,Low Risk,316619.78,-32613.22
+C661-6A1C,Joeann,Batrop,Technology,Software Engineer,25,3,3,No,2.0,Yes,40314,Yes,0.5172,Medium Risk,41147.36,833.36
+C6A8-4E8A,Clayton,Hinemoor,Technology,Machine Learning Engineer,29,8,6,No,4.0,No,119083,No,0.0965,Low Risk,142752.85,23669.85
+C6D7-A568,Eve,Takkos,Sales,Sales Representative,42,10,9,No,2.0,No,48922,No,0.0388,Low Risk,66171.36,17249.36
+C6EC-FEB5,Charlena,Severwright,Sales,Sales Executive,38,10,6,No,3.0,No,151141,No,0.0708,Low Risk,143909.33,-7231.67
+C6F6-CDFE,Faythe,Ephson,Sales,Sales Representative,24,4,4,No,4.0,No,50513,No,0.1746,Low Risk,33171.64,-17341.36
+C730-6B13,Ariadne,Isakov,Technology,Data Scientist,32,9,9,No,5.0,No,85884,No,0.0437,Low Risk,70229.47,-15654.53
+C768-BBF8,Carine,Molfino,Technology,Senior Software Engineer,30,1,1,No,1.0,No,125751,No,0.3444,Low Risk,132415.97,6664.97
+C77A-2348,Mortimer,Planks,Technology,Software Engineer,26,5,4,No,5.0,No,45085,No,0.146,Low Risk,40996.98,-4088.02
+C79A-E5E1,Alvera,Kulver,Technology,Data Scientist,32,8,7,Yes,3.0,Yes,48835,Yes,0.6186,Medium Risk,66683.26,17848.26
+C7C8-43D9,Rebecka,Leat,Technology,Data Scientist,27,6,5,No,2.0,No,24571,No,0.1257,Low Risk,37322.28,12751.28
+C8BC-3B77,Anna-diane,Allpress,Sales,Sales Executive,27,6,6,No,2.0,No,66488,No,0.085,Low Risk,84923.23,18435.23
+C8FA-B6FE,Galen,Kabos,Technology,Senior Software Engineer,23,3,3,Yes,4.0,No,54171,No,0.2436,Low Risk,64326.64,10155.64
+C900-9EF9,Josiah,Sloam,Sales,Sales Executive,30,8,8,No,3.0,No,127014,No,0.0431,Low Risk,133058.44,6044.44
+C95B-FE97,Ira,Rivelon,Technology,Data Scientist,21,3,3,No,4.0,No,58274,No,0.1714,Low Risk,39194.74,-19079.26
+C95C-CE06,Stillman,Castiello,Sales,Sales Representative,44,8,6,No,1.0,No,75667,No,0.0344,Low Risk,66698.38,-8968.62
+C96B-43C7,Kristo,Casaro,Technology,Software Engineer,21,2,1,No,2.0,No,73075,No,0.2409,Low Risk,39939.46,-33135.54
+C96F-0F3B,Jessa,Glasscoo,Sales,Sales Representative,41,10,10,No,2.0,No,48147,No,0.0351,Low Risk,65912.1,17765.1
+C973-E8E5,Bertie,Murrells,Technology,Software Engineer,26,5,4,Yes,2.0,No,57722,No,0.3746,Medium Risk,37935.08,-19786.92
+C9F5-9B2C,Duane,Colhoun,Sales,Sales Representative,22,1,0,No,3.0,No,34432,No,0.4131,Medium Risk,31516.11,-2915.89
+C9FF-3A25,West,Shalloo,Technology,Software Engineer,28,3,3,Yes,4.0,Yes,54324,Yes,0.7306,High Risk,101962.31,47638.31
+CA1B-0302,Hestia,Pickin,Human Resources,Recruiter,22,2,2,No,3.0,No,26880,No,0.2223,Low Risk,31731.65,4851.65
+CA75-94D1,Avery,Larimer,Technology,Data Scientist,41,8,8,No,4.0,No,45989,No,0.0753,Low Risk,64726.07,18737.07
+CA98-86ED,Paulette,Albertson,Technology,Machine Learning Engineer,34,0,0,Yes,3.0,No,178472,No,0.342,Low Risk,240012.7,61540.7
+CAA0-3971,Ives,Cranston,Sales,Sales Executive,22,0,0,No,3.0,No,51582,No,0.3828,Medium Risk,56950.09,5368.09
+CABE-0B62,Laura,Janiak,Sales,Sales Executive,23,0,0,No,3.0,No,121414,No,0.279,Low Risk,91100.18,-30313.82
+CACA-0D62,Zarla,Farrans,Technology,Data Scientist,32,8,8,No,4.0,No,121881,No,0.0358,Low Risk,73519.79,-48361.21
+CAD7-01BE,Marlin,Egdell,Sales,Sales Executive,47,4,3,Yes,3.0,No,244765,No,0.1392,Low Risk,283390.98,38625.98
+CB16-C876,April,Beckwith,Technology,Data Scientist,19,0,0,No,3.0,No,26973,No,0.2529,Low Risk,39050.8,12077.8
+CBB3-0D7E,Archaimbaud,Hawkshaw,Sales,Sales Representative,26,2,0,Yes,4.0,Yes,40638,Yes,0.8768,High Risk,34330.84,-6307.16
+CBCB-9C9D,Leonerd,Aland,Sales,Sales Executive,38,10,10,Yes,4.0,No,157718,No,0.1901,Low Risk,145057.85,-12660.15
+CC1D-5D73,Tillie,Cregin,Sales,Manager,40,2,2,No,4.0,No,254535,No,0.1151,Low Risk,312643.86,58108.86
+CC2F-670E,Blake,Louys,Technology,Data Scientist,29,6,5,Yes,3.0,Yes,78541,Yes,0.6818,High Risk,68899.29,-9641.71
+CC7A-EE97,Ryan,Gaffey,Technology,Senior Software Engineer,31,8,7,No,5.0,No,168087,No,0.0233,Low Risk,156620.8,-11466.2
+CC88-AE14,Barbi,Wilsher,Technology,Machine Learning Engineer,25,6,5,Yes,2.0,No,84770,No,0.2031,Low Risk,88845.31,4075.31
+CC8A-0B1F,Letta,Van der Kruys,Technology,Data Scientist,28,5,4,No,4.0,Yes,65328,Yes,0.5045,Medium Risk,78862.55,13534.55
+CCAB-4B80,Monty,Demead,Technology,Analytics Manager,44,8,2,Yes,4.0,No,304520,No,0.0771,Low Risk,354142.67,49622.67
+CCE7-36ED,Dwain,Nias,Technology,Machine Learning Engineer,36,4,4,No,3.0,No,236739,No,0.0651,Low Risk,256627.59,19888.59
+CD0F-DE05,Prudence,Cockrell,Technology,Software Engineer,28,9,9,No,3.0,No,50175,No,0.0389,Low Risk,70339.19,20164.19
+CD4D-7BBA,Cristian,Massy,Technology,Software Engineer,43,9,7,Yes,1.0,No,155786,No,0.1103,Low Risk,72486.99,-83299.01
+CD59-7F94,Mathe,Burrows,Sales,Sales Executive,30,8,4,No,5.0,No,341039,No,0.0835,Low Risk,126433.29,-214605.71
+CD7F-377F,Kendricks,Tribe,Sales,Sales Executive,25,6,6,No,2.0,No,46283,No,0.1133,Low Risk,82361.26,36078.26
+CDAC-40FE,Gwenora,Fourcade,Technology,Machine Learning Engineer,22,4,4,No,4.0,No,75810,No,0.1029,Low Risk,69429.04,-6380.96
+CDC1-C7CA,Jobyna,Keeler,Sales,Sales Executive,25,7,2,No,3.0,No,102569,No,0.1375,Low Risk,89113.66,-13455.34
+CDFB-6A08,Huey,Paoletti,Technology,Software Engineer,26,0,0,Yes,3.0,Yes,22918,Yes,0.8674,High Risk,38786.92,15868.92
+CE3C-15A7,Flori,Ballham,Technology,Data Scientist,18,0,0,No,3.0,No,58262,No,0.2652,Low Risk,41223.85,-17038.15
+CE47-9991,Layton,Ord,Sales,Sales Executive,40,0,0,No,3.0,No,194967,No,0.2259,Low Risk,228980.1,34013.1
+CE90-763C,Carly,Mushawe,Technology,Data Scientist,27,7,3,No,3.0,No,31672,No,0.1471,Low Risk,37966.71,6294.71
+CECC-60FF,Elissa,Seide,Technology,Software Engineer,27,6,2,No,4.0,No,54379,No,0.2148,Low Risk,41836.58,-12542.42
+CED0-8D31,Dulci,Berthot,Technology,Analytics Manager,36,8,4,No,3.0,No,454993,No,0.0469,Low Risk,457930.16,2937.16
+CEE0-94C3,Olvan,Pilgram,Sales,Sales Representative,42,9,8,No,1.0,No,70535,No,0.0405,Low Risk,65265.35,-5269.65
+CEE1-DA0F,Fayth,Sowden,Technology,Software Engineer,23,4,0,Yes,3.0,No,40438,Yes,0.7459,High Risk,38541.69,-1896.31
+CF2F-8CA3,Lindy,Rawstorne,Sales,Sales Executive,45,10,9,No,5.0,No,76693,No,0.0395,Low Risk,129940.31,53247.31
+CF4C-5525,Charleen,Wigsell,Technology,Software Engineer,20,0,0,No,3.0,No,32077,No,0.2041,Low Risk,38269.09,6192.09
+CF5D-0E32,Fairfax,Leyre,Technology,Software Engineer,21,3,2,Yes,4.0,No,22462,No,0.2703,Low Risk,37836.85,15374.85
+CF8D-7379,Tim,Spinley,Technology,Engineering Manager,43,9,7,Yes,5.0,No,365504,No,0.0744,Low Risk,360053.04,-5450.96
+CFE3-312D,Jess,Hoyte,Sales,Sales Executive,21,1,1,Yes,2.0,Yes,46452,Yes,0.8187,High Risk,55777.56,9325.56
+D014-7DB2,Dolli,Dodgson,Sales,Sales Representative,20,0,0,No,2.0,Yes,35754,Yes,0.7784,High Risk,31669.89,-4084.11
+D045-B6CA,Petrina,Inkpin,Technology,Software Engineer,26,5,0,No,4.0,Yes,71198,Yes,0.6157,Medium Risk,46411.59,-24786.41
+D051-2C2D,Welby,Chansonnau,Sales,Sales Executive,20,0,0,No,3.0,No,39145,No,0.2504,Low Risk,56418.69,17273.69
+D061-5CAD,Bengt,Smythin,Technology,Software Engineer,22,3,2,No,3.0,No,31386,No,0.1674,Low Risk,38612.19,7226.19
+D077-169C,Gustavo,Chatel,Sales,Sales Executive,46,10,9,No,3.0,No,150731,No,0.0283,Low Risk,140554.16,-10176.84
+D106-E487,Dori,Bevens,Sales,Sales Executive,40,8,7,No,4.0,No,204005,No,0.0238,Low Risk,144432.07,-59572.93
+D13E-E661,Benson,Van De Cappelle,Sales,Sales Executive,36,9,4,Yes,3.0,No,298558,No,0.0983,Low Risk,139697.48,-158860.52
+D186-CBF5,Ibby,Witcomb,Sales,Sales Representative,19,0,0,Yes,1.0,Yes,33454,Yes,0.8547,High Risk,31656.88,-1797.12
+D18F-8C48,Feliza,Jeschner,Technology,Engineering Manager,27,6,5,No,5.0,No,152322,No,0.057,Low Risk,175892.9,23570.9
+D199-1896,Lin,Dibbs,Sales,Sales Executive,42,10,10,No,2.0,No,206277,No,0.032,Low Risk,170620.86,-35656.14
+D1C6-25BE,Shadow,O'Curneen,Technology,Software Engineer,19,1,1,No,2.0,No,43961,No,0.4776,Medium Risk,36332.79,-7628.21
+D210-D451,Titos,Ruston,Technology,Machine Learning Engineer,21,0,0,Yes,3.0,No,59158,No,0.4993,Medium Risk,64778.77,5620.77
+D245-5D80,Bank,MacEveley,Technology,Senior Software Engineer,26,7,7,Yes,2.0,No,148080,No,0.1089,Low Risk,118594.12,-29485.88
+D24B-5AC8,Horatio,Chaffen,Technology,Data Scientist,24,5,5,No,3.0,No,38022,No,0.1194,Low Risk,44815.42,6793.42
+D29C-A21F,Ebenezer,Bontein,Technology,Software Engineer,25,5,4,No,1.0,No,22525,No,0.1462,Low Risk,38299.29,15774.29
+D2BE-E6F6,Maud,Guerrier,Sales,Sales Executive,31,8,6,No,2.0,No,183189,No,0.0585,Low Risk,149761.11,-33427.89
+D31B-BEF8,Bent,Plumridege,Sales,Sales Representative,25,0,0,No,4.0,Yes,28090,Yes,0.8454,High Risk,33474.59,5384.59
+D351-C7E4,Doralin,Whiley,Technology,Data Scientist,42,9,9,No,4.0,No,73577,No,0.0593,Low Risk,67579.89,-5997.11
+D380-A175,Fritz,St. Quintin,Sales,Sales Representative,18,0,0,No,3.0,No,22889,No,0.254,Low Risk,34883.08,11994.08
+D383-714B,Lindsey,Hedley,Technology,Data Scientist,26,5,3,No,4.0,No,29449,No,0.2564,Low Risk,37332.55,7883.55
+D39D-4015,Joan,Camings,Technology,Software Engineer,30,8,6,No,2.0,No,46388,No,0.0617,Low Risk,68238.59,21850.59
+D3EB-610D,Bo,Cullabine,Technology,Data Scientist,24,6,6,Yes,2.0,No,67447,No,0.2446,Low Risk,46668.64,-20778.36
+D3F6-A313,Alister,Gianullo,Technology,Software Engineer,27,7,7,No,2.0,No,50949,No,0.0315,Low Risk,40717.26,-10231.74
+D457-AB87,Geoffrey,Bambery,Sales,Sales Executive,24,5,5,No,4.0,No,105859,No,0.0735,Low Risk,87062.93,-18796.07
+D471-4BFF,Dew,Jinkinson,Sales,Sales Executive,24,3,3,No,4.0,No,45410,No,0.2881,Low Risk,83111.04,37701.04
+D49C-096C,George,Keddie,Sales,Sales Executive,26,4,1,No,3.0,Yes,55537,No,0.3856,Medium Risk,80934.12,25397.12
+D4BE-786C,Hurleigh,Pashenkov,Sales,Sales Executive,24,4,4,No,2.0,No,128634,No,0.1863,Low Risk,90830.69,-37803.31
+D4D5-27FB,Bengt,Keaves,Technology,Data Scientist,29,6,5,No,2.0,Yes,86428,No,0.4743,Medium Risk,71449.64,-14978.36
+D4D7-3C3F,Annaliese,Hedingham,Technology,Machine Learning Engineer,28,8,8,No,3.0,No,117918,No,0.0337,Low Risk,135389.67,17471.67
+D4DF-162F,Perla,Vivyan,Technology,Engineering Manager,36,2,2,Yes,3.0,No,247730,No,0.1179,Low Risk,309479.7,61749.7
+D4FD-785B,Corina,Bellwood,Technology,Machine Learning Engineer,19,1,0,Yes,3.0,No,64882,No,0.3738,Medium Risk,55323.18,-9558.82
+D529-0BC2,Katharina,Nehlsen,Technology,Data Scientist,24,5,5,Yes,3.0,No,38775,No,0.2478,Low Risk,41617.89,2842.89
+D565-284D,Bessie,Bellson,Sales,Sales Executive,47,10,5,No,5.0,No,65626,No,0.1032,Low Risk,168232.83,102606.83
+D584-4E31,Patrica,Lamyman,Human Resources,Recruiter,35,10,8,No,4.0,No,67264,No,0.0467,Low Risk,78784.06,11520.06
+D5B3-425C,Lenard,Bouts,Sales,Sales Representative,26,6,6,No,5.0,No,36101,No,0.0943,Low Risk,34779.78,-1321.22
+D5BA-1C8B,Keefe,Teacy,Technology,Machine Learning Engineer,21,1,1,Yes,3.0,No,50502,No,0.348,Low Risk,58783.55,8281.55
+D5DA-363A,Rickey,Shere,Sales,Sales Executive,33,10,10,No,4.0,No,71201,No,0.0256,Low Risk,136066.03,64865.03
+D676-2084,Shannon,Kuhnel,Human Resources,Recruiter,21,2,1,No,4.0,No,20583,Yes,0.5488,Medium Risk,31286.54,10703.54
+D676-4ECC,Florenza,Nesbit,Technology,Software Engineer,44,8,7,No,3.0,No,57296,No,0.0627,Low Risk,67878.47,10582.47
+D696-9D82,Eberto,Flaherty,Technology,Data Scientist,38,10,10,No,5.0,No,65416,No,0.0237,Low Risk,69857.05,4441.05
+D69C-8F84,Sada,Torrent,Technology,Data Scientist,40,8,3,No,2.0,No,59899,No,0.1285,Low Risk,67100.53,7201.53
+D6A7-EF72,Kalie,Swancott,Human Resources,Recruiter,40,9,9,No,2.0,No,70703,No,0.0497,Low Risk,80166.76,9463.76
+D6AB-ED90,Pen,Glanister,Technology,Software Engineer,20,0,0,No,3.0,No,29329,No,0.243,Low Risk,37229.93,7900.93
+D6BA-10A1,Leandra,Keepin,Technology,Data Scientist,21,1,1,No,5.0,No,43030,No,0.4687,Medium Risk,39830.4,-3199.6
+D6BB-FEDF,Galen,Rocca,Technology,Data Scientist,28,7,3,Yes,4.0,No,109172,No,0.2576,Low Risk,68681.63,-40490.37
+D6D2-184B,Valenka,Kayley,Technology,Senior Software Engineer,24,5,5,No,3.0,No,115399,No,0.1157,Low Risk,96457.35,-18941.65
+D6F0-006B,Mathilde,Spieck,Technology,Data Scientist,22,1,0,Yes,3.0,No,31161,Yes,0.6806,High Risk,39225.41,8064.41
+D712-9E1C,Audi,Pibworth,Sales,Sales Executive,24,5,4,No,3.0,No,85238,No,0.2009,Low Risk,82433.3,-2804.7
+D754-4CDF,Brien,Erett,Technology,Senior Software Engineer,25,5,5,No,2.0,No,55541,No,0.0517,Low Risk,81215.44,25674.44
+D75C-3E43,Clint,Widdicombe,Technology,Engineering Manager,25,5,3,Yes,5.0,No,204154,No,0.1333,Low Risk,222524.96,18370.96
+D7C2-EAA5,Camila,Lergan,Technology,Machine Learning Engineer,23,4,1,No,3.0,No,67558,No,0.3018,Low Risk,70631.37,3073.37
+D7EE-56FC,Zsa zsa,Evered,Sales,Sales Executive,39,8,8,Yes,3.0,Yes,107863,No,0.2423,Low Risk,148535.01,40672.01
+D7F8-1775,Benyamin,Jane,Sales,Sales Executive,36,8,3,No,2.0,No,121303,No,0.0799,Low Risk,131816.65,10513.65
+D825-CC31,Debera,Extence,Technology,Machine Learning Engineer,25,7,4,No,3.0,No,44082,No,0.0762,Low Risk,79620.74,35538.74
+D836-B375,Ellette,McKean,Technology,Software Engineer,44,9,9,No,4.0,No,91563,No,0.0363,Low Risk,72455.32,-19107.68
+D86B-2E5E,Michele,Deane,Sales,Sales Executive,27,7,7,Yes,4.0,No,91202,No,0.2394,Low Risk,87137.96,-4064.04
+D871-1F74,Beitris,Davers,Technology,Data Scientist,32,8,6,No,4.0,No,60759,No,0.0979,Low Risk,67782.17,7023.17
+D8B3-30D2,Madeleine,Hazelby,Technology,Data Scientist,22,2,1,Yes,4.0,Yes,53080,Yes,0.7821,High Risk,39488.29,-13591.71
+D8E6-5593,Pammy,Glenny,Sales,Sales Representative,19,0,0,Yes,3.0,No,51132,No,0.4738,Medium Risk,35788.84,-15343.16
+D8F6-DED3,Myrvyn,Edsell,Technology,Software Engineer,20,2,1,Yes,2.0,No,26752,Yes,0.5702,Medium Risk,36148.88,9396.88
+D8FC-E2F7,Gigi,Monkhouse,Sales,Sales Representative,22,0,0,Yes,2.0,Yes,36980,Yes,0.8529,High Risk,31908.9,-5071.1
+D906-B674,Uta,Melmar,Technology,Engineering Manager,42,10,6,No,5.0,No,259284,No,0.0322,Low Risk,282455.46,23171.46
+D91C-815B,Lucille,Balser,Sales,Sales Representative,22,4,3,Yes,2.0,Yes,42250,Yes,0.652,High Risk,31098.57,-11151.43
+D921-AC35,Jeniece,Mac,Technology,Senior Software Engineer,45,8,7,No,3.0,No,104720,No,0.0267,Low Risk,139307.11,34587.11
+D926-DED9,Sancho,Rawlingson,Technology,Analytics Manager,40,8,6,No,4.0,No,409998,No,0.0423,Low Risk,414189.68,4191.68
+D92F-63AD,Gabey,Whitloe,Technology,Data Scientist,19,1,1,No,3.0,No,32322,No,0.431,Medium Risk,39592.72,7270.72
+D933-AAC4,Tann,Learmouth,Technology,Engineering Manager,42,3,1,No,5.0,No,213191,No,0.2118,Low Risk,334533.7,121342.7
+D93A-CC98,Arabella,Mont,Sales,Sales Executive,24,2,0,Yes,3.0,Yes,208684,Yes,0.825,High Risk,115332.9,-93351.1
+D954-6402,Ara,Daulton,Sales,Sales Executive,25,7,3,Yes,3.0,Yes,123307,Yes,0.6861,High Risk,87442.65,-35864.35
+D962-9E69,Esteban,Guiraud,Technology,Data Scientist,23,2,1,No,3.0,No,29490,No,0.2803,Low Risk,37952.77,8462.77
+D970-9F5E,Lilla,Ledamun,Technology,Data Scientist,29,6,1,No,3.0,Yes,46813,Yes,0.5992,Medium Risk,65651.52,18838.52
+D9AE-B32C,Leelah,Ludvigsen,Technology,Software Engineer,22,2,2,No,2.0,No,28359,No,0.2767,Low Risk,38066.27,9707.27
+DA17-A31F,Gleda,Verzey,Technology,Machine Learning Engineer,23,3,3,No,1.0,No,78275,No,0.1019,Low Risk,78410.3,135.3
+DA4C-7F2E,Carmita,Kenion,Technology,Analytics Manager,26,6,5,No,2.0,No,178836,No,0.0915,Low Risk,176951.55,-1884.45
+DA8E-9496,Tobias,Polkinghorne,Technology,Data Scientist,27,3,1,Yes,2.0,Yes,56449,Yes,0.691,High Risk,39810.52,-16638.48
+DAE0-B44F,Karlotta,Hackwell,Sales,Sales Executive,24,6,3,No,4.0,No,133274,No,0.136,Low Risk,87682.2,-45591.8
+DB54-E47D,Violet,Pearsall,Technology,Data Scientist,22,4,3,No,2.0,No,45850,No,0.2943,Low Risk,40125.26,-5724.74
+DB6B-88DA,Lindie,Oliver-Paull,Technology,Software Engineer,25,4,4,Yes,5.0,No,48570,No,0.3319,Low Risk,40362.71,-8207.29
+DB6C-3B2F,Yelena,Paskerful,Technology,Data Scientist,19,0,0,No,3.0,Yes,49006,Yes,0.7332,High Risk,39147.15,-9858.85
+DBF0-2EA3,Kaitlyn,Ernshaw,Technology,Senior Software Engineer,27,6,5,Yes,1.0,No,56302,No,0.122,Low Risk,85076.53,28774.53
+DBF5-E57D,Freeland,Chalcot,Technology,Analytics Manager,25,4,3,No,5.0,No,303446,No,0.1218,Low Risk,252977.89,-50468.11
+DC3D-9231,Annabell,Pasticznyk,Technology,Machine Learning Engineer,18,0,0,No,3.0,No,44770,No,0.2286,Low Risk,53164.21,8394.21
+DC50-0336,Krystyna,Bartozzi,Technology,Machine Learning Engineer,31,0,0,No,3.0,No,272255,No,0.2068,Low Risk,236125.79,-36129.21
+DC67-3B66,Tammie,Kingh,Technology,Software Engineer,25,6,6,No,3.0,No,24417,No,0.0489,Low Risk,42183.73,17766.73
+DCA7-D382,Tynan,Penhall,Technology,Data Scientist,22,4,4,No,5.0,No,54371,No,0.1734,Low Risk,40263.64,-14107.36
+DCD4-C785,Ilysa,Cattroll,Sales,Sales Representative,30,8,8,Yes,4.0,No,38382,No,0.1939,Low Risk,64510.78,26128.78
+DCFE-F601,Bertram,Abrahami,Technology,Senior Software Engineer,48,9,8,No,4.0,No,180561,No,0.0272,Low Risk,159534.91,-21026.09
+DD00-92BB,Clementia,Beswick,Sales,Sales Executive,19,1,0,No,3.0,No,46813,No,0.2715,Low Risk,48762.0,1949.0
+DD04-BDF8,Kile,Notton,Human Resources,HR Executive,25,5,5,No,4.0,No,132102,No,0.116,Low Risk,81974.1,-50127.9
+DD1E-583D,Ashton,Lauga,Human Resources,Recruiter,24,5,5,No,2.0,No,29428,No,0.1352,Low Risk,46144.79,16716.79
+DD78-E811,Addy,Slimings,Technology,Data Scientist,38,9,6,No,4.0,No,60549,No,0.1455,Low Risk,67055.29,6506.29
+DDAC-D5FD,Ricoriki,Swiers,Technology,Data Scientist,22,0,0,No,5.0,Yes,21854,Yes,0.5648,Medium Risk,37598.56,15744.56
+DDBF-9C79,Yelena,Stamp,Sales,Sales Executive,26,1,0,Yes,2.0,Yes,93246,Yes,0.9027,High Risk,101770.9,8524.9
+DE22-FB63,Audrey,Campbell,Technology,Software Engineer,22,1,0,No,4.0,Yes,24422,Yes,0.6133,Medium Risk,36215.15,11793.15
+DE6C-86FC,Beitris,McIlwraith,Technology,Software Engineer,43,9,9,No,4.0,No,130665,No,0.0086,Low Risk,75320.53,-55344.47
+DE7D-7757,Linea,Clifft,Technology,Data Scientist,23,3,3,No,2.0,No,25425,No,0.1492,Low Risk,37939.22,12514.22
+DE9A-5E67,Mirabel,Scotter,Technology,Engineering Manager,33,2,2,No,2.0,No,307688,No,0.1077,Low Risk,304672.82,-3015.18
+DEB9-1BBF,Edna,Petrello,Technology,Software Engineer,30,8,5,No,3.0,No,155259,No,0.0366,Low Risk,78982.89,-76276.11
+DEBE-1622,Bartolemo,Balma,Technology,Machine Learning Engineer,28,4,2,No,4.0,Yes,205433,Yes,0.5487,Medium Risk,176400.77,-29032.23
+DEC5-9319,Gasparo,Strewthers,Technology,Software Engineer,23,1,0,No,3.0,Yes,63709,Yes,0.6956,High Risk,39171.4,-24537.6
+DF11-9C46,Dulci,Sheryn,Technology,Software Engineer,32,9,6,Yes,5.0,No,152314,No,0.2209,Low Risk,79267.05,-73046.95
+DF5F-5ED9,Marilee,Moreton,Technology,Analytics Manager,46,8,2,Yes,3.0,No,281175,No,0.1268,Low Risk,314237.98,33062.98
+DF63-0D3C,Roda,Costin,Technology,Analytics Manager,28,8,8,No,2.0,No,546549,No,0.0378,Low Risk,462724.44,-83824.56
+DF71-97FB,Carlyle,Tinghill,Technology,Data Scientist,29,8,5,No,5.0,No,62756,No,0.0731,Low Risk,72711.52,9955.52
+DF7E-3233,Basil,Gother,Sales,Sales Representative,47,8,5,No,4.0,No,44646,No,0.0434,Low Risk,64580.16,19934.16
+DF94-FD29,Shaughn,Wehden,Sales,Sales Executive,22,1,0,No,4.0,Yes,75816,Yes,0.6422,Medium Risk,59442.51,-16373.49
+DFA2-1B8F,Haily,Jordi,Sales,Sales Executive,28,7,7,No,4.0,No,83864,No,0.0475,Low Risk,126303.92,42439.92
+DFA9-990E,Cale,Holston,Sales,Sales Executive,43,10,10,No,3.0,No,108315,No,0.0115,Low Risk,134479.98,26164.98
+DFDC-286C,Cate,Moggach,Technology,Machine Learning Engineer,22,0,0,No,2.0,Yes,64364,Yes,0.5024,Medium Risk,65465.53,1101.53
+DFE3-6FA7,Eulalie,Critch,Sales,Sales Executive,43,9,9,Yes,3.0,Yes,350525,Yes,0.6649,High Risk,219087.74,-131437.26
+E071-137E,Isacco,Halden,Sales,Sales Representative,24,2,2,No,2.0,No,63234,No,0.264,Low Risk,34426.03,-28807.97
+E099-3FCC,Haywood,Ruprich,Technology,Data Scientist,28,7,6,No,4.0,No,83951,No,0.1221,Low Risk,68393.11,-15557.89
+E151-8C7D,Frederica,Crosthwaite,Technology,Software Engineer,25,4,4,Yes,3.0,No,41243,No,0.2042,Low Risk,40254.11,-988.89
+E164-4C29,Venita,Rottery,Sales,Sales Executive,21,1,1,No,3.0,No,76482,No,0.1782,Low Risk,50097.6,-26384.4
+E1B4-9AA1,Ashli,Hales,Sales,Sales Executive,46,9,9,Yes,5.0,Yes,96188,Yes,0.5256,Medium Risk,214811.97,118623.97
+E1FE-67B5,Lothaire,Darlow,Technology,Senior Software Engineer,25,4,4,No,4.0,No,126055,No,0.1493,Low Risk,88546.17,-37508.83
+E210-F193,Karia,Bartunek,Technology,Machine Learning Engineer,28,2,0,No,5.0,No,151229,No,0.2614,Low Risk,168407.0,17178.0
+E267-D788,Tristan,Albro,Technology,Senior Software Engineer,22,2,2,No,3.0,No,73389,No,0.1247,Low Risk,65305.32,-8083.68
+E268-61EB,Dorise,Rossant,Technology,Software Engineer,21,2,1,Yes,2.0,Yes,54130,Yes,0.6846,High Risk,40896.22,-13233.78
+E28D-424B,Buddie,Ainger,Sales,Sales Executive,22,1,1,No,4.0,Yes,64689,Yes,0.6552,High Risk,57612.62,-7076.38
+E2A0-930A,Federica,Killiner,Sales,Sales Executive,21,2,2,No,2.0,No,49374,No,0.2207,Low Risk,50107.38,733.38
+E324-1C33,Sybyl,Stevings,Sales,Sales Executive,38,9,0,No,5.0,No,114713,No,0.1682,Low Risk,128625.07,13912.07
+E348-E12B,Burnaby,Guillet,Technology,Software Engineer,36,10,9,Yes,3.0,No,61298,No,0.0857,Low Risk,70996.91,9698.91
+E368-3CF3,Reinaldos,LAbbet,Sales,Sales Representative,18,0,0,No,3.0,No,61582,No,0.18,Low Risk,34883.08,-26698.92
+E399-E4F6,Edan,Fechnie,Sales,Sales Executive,24,5,5,No,3.0,No,105502,No,0.0976,Low Risk,90869.35,-14632.65
+E3B6-49F8,Ker,Rao,Technology,Software Engineer,20,0,0,No,2.0,Yes,33632,Yes,0.8165,High Risk,37062.73,3430.73
+E430-E462,Marvin,Switland,Technology,Senior Software Engineer,28,7,7,No,2.0,No,194982,No,0.0584,Low Risk,133525.6,-61456.4
+E442-1FEE,Nicoline,Rippon,Technology,Data Scientist,25,5,5,No,5.0,No,31698,No,0.231,Low Risk,36701.06,5003.06
+E442-5985,Bear,Bertolin,Technology,Data Scientist,32,0,0,No,3.0,No,124429,No,0.1884,Low Risk,158625.39,34196.39
+E46A-3676,Kele,Halsworth,Sales,Sales Executive,28,7,7,No,2.0,No,128222,No,0.0532,Low Risk,142561.09,14339.09
+E47D-E3C5,Kerry,Orrell,Technology,Software Engineer,26,7,7,Yes,4.0,No,33180,No,0.2886,Low Risk,39750.14,6570.14
+E480-FF03,Rod,Durston,Technology,Senior Software Engineer,22,3,1,No,2.0,No,68629,No,0.1653,Low Risk,63328.91,-5300.09
+E496-0D9E,Waldon,Heyball,Sales,Sales Executive,26,0,0,No,3.0,No,63478,No,0.3964,Medium Risk,88233.6,24755.6
+E4F4-11B9,Susanne,Wisam,Sales,Sales Executive,29,2,1,Yes,4.0,Yes,122811,Yes,0.8358,High Risk,156272.95,33461.95
+E503-C500,Alexandro,De Pietri,Technology,Software Engineer,28,7,4,No,3.0,No,81906,No,0.1138,Low Risk,72521.64,-9384.36
+E523-D168,Sheffield,Feldon,Sales,Sales Executive,27,7,7,Yes,3.0,No,68638,No,0.2021,Low Risk,83727.07,15089.07
+E529-A8FA,Julius,Smorfit,Technology,Software Engineer,22,1,1,No,3.0,No,22382,No,0.3688,Medium Risk,38263.61,15881.61
+E55D-FCA0,Emlynne,Spight,Sales,Sales Representative,21,3,3,No,4.0,No,42066,No,0.1353,Low Risk,33108.4,-8957.6
+E55E-9436,Wayland,McGlade,Sales,Sales Executive,41,2,1,Yes,3.0,Yes,326896,Yes,0.7098,High Risk,285086.23,-41809.77
+E5C1-B122,Camila,Hernik,Sales,Sales Executive,36,10,10,No,4.0,No,116057,No,0.0243,Low Risk,140848.9,24791.9
+E616-CAD8,Iseabal,Sabey,Technology,Engineering Manager,27,7,6,No,5.0,No,200409,No,0.0678,Low Risk,204594.76,4185.76
+E62F-4FF7,Port,Lording,Technology,Machine Learning Engineer,27,7,5,No,3.0,No,92522,No,0.0405,Low Risk,85025.18,-7496.82
+E676-215C,Fiorenze,Arcase,Sales,Sales Executive,21,3,3,No,3.0,No,69402,No,0.1438,Low Risk,60306.05,-9095.95
+E681-7B57,Durant,Ratley,Technology,Data Scientist,18,0,0,No,5.0,Yes,31532,Yes,0.8548,High Risk,39686.24,8154.24
+E6C8-D659,Orazio,Alejandri,Sales,Sales Executive,31,2,2,No,2.0,No,155386,No,0.2443,Low Risk,162660.36,7274.36
+E6D9-ADEE,Jenifer,Jarvis,Technology,Software Engineer,20,1,0,No,2.0,Yes,28262,Yes,0.6988,High Risk,36403.09,8141.09
+E6F7-EF68,Joaquin,Bockmann,Sales,Sales Executive,22,4,4,No,5.0,No,52318,No,0.1247,Low Risk,57472.06,5154.06
+E72B-64FA,Elnar,Elsby,Technology,Engineering Manager,41,4,4,No,2.0,No,273211,No,0.0439,Low Risk,306422.83,33211.83
+E73A-F20A,Antonino,Woodhams,Technology,Machine Learning Engineer,33,5,5,No,4.0,No,200350,No,0.1136,Low Risk,191670.26,-8679.74
+E7A6-33A3,Amye,Townes,Technology,Data Scientist,38,10,3,No,2.0,No,83590,No,0.0629,Low Risk,74730.27,-8859.73
+E7D3-03C9,Whitman,Schruyers,Sales,Sales Executive,42,10,9,No,2.0,No,91179,No,0.0145,Low Risk,138738.06,47559.06
+E7F5-0AD1,Walden,Skuce,Technology,Machine Learning Engineer,24,5,4,No,5.0,No,55814,No,0.1372,Low Risk,83160.49,27346.49
+E81C-A653,Letta,Leyban,Sales,Sales Executive,27,6,5,No,5.0,No,129366,No,0.1416,Low Risk,87304.61,-42061.39
+E861-52CB,Whitney,Latore,Technology,Analytics Manager,26,0,0,No,3.0,No,192073,No,0.2869,Low Risk,203637.78,11564.78
+E899-A860,Freedman,Meehan,Sales,Sales Executive,31,8,8,Yes,4.0,No,110076,No,0.3524,Medium Risk,142387.58,32311.58
+E8B6-8BAE,Stevie,Kinglesyd,Sales,Sales Executive,29,0,0,No,5.0,Yes,225330,Yes,0.6522,High Risk,206014.18,-19315.82
+E8D3-CABA,Georg,Nunnery,Technology,Data Scientist,20,2,2,No,4.0,No,35654,No,0.162,Low Risk,38983.59,3329.59
+E8EF-FA89,Melvin,Bansal,Technology,Machine Learning Engineer,24,3,1,No,2.0,No,81974,No,0.3951,Medium Risk,82989.54,1015.54
+E8F5-C47D,Jayne,Mickleburgh,Human Resources,HR Executive,30,10,6,No,2.0,No,97153,No,0.0282,Low Risk,97587.02,434.02
+E911-EAF3,Bell,Paolacci,Technology,Data Scientist,24,0,0,No,3.0,No,26973,No,0.3197,Low Risk,56062.41,29089.41
+E927-46D7,Shandeigh,Lindores,Technology,Data Scientist,22,3,2,No,5.0,No,28989,No,0.1698,Low Risk,37610.81,8621.81
+E9AB-3F99,Babb,Rosas,Technology,Machine Learning Engineer,45,1,1,No,3.0,No,241664,No,0.2502,Low Risk,246073.34,4409.34
+E9B9-3944,Tobit,Lowry,Technology,Data Scientist,42,10,7,No,2.0,No,47461,No,0.0807,Low Risk,64399.41,16938.41
+E9D9-787A,Lyn,Walczynski,Technology,Senior Software Engineer,26,5,5,Yes,3.0,No,207687,No,0.1167,Low Risk,89668.19,-118018.81
+EA37-AE5E,Freda,Bartolijn,Sales,Sales Executive,23,4,0,No,3.0,No,69678,No,0.3737,Medium Risk,70605.43,927.43
+EA3A-E005,Reinhold,Bradane,Technology,Software Engineer,24,6,6,No,4.0,No,26363,No,0.0871,Low Risk,36761.68,10398.68
+EAB1-2EB2,Giacinta,Keasey,Technology,Data Scientist,21,0,0,No,5.0,Yes,36534,Yes,0.7599,High Risk,38765.0,2231.0
+EACC-D1F6,Garth,Gove,Technology,Data Scientist,25,3,3,Yes,3.0,Yes,27673,Yes,0.5412,Medium Risk,36449.12,8776.12
+EB4F-4D97,Lynnelle,Peizer,Technology,Software Engineer,25,7,7,Yes,3.0,No,43438,No,0.185,Low Risk,40494.58,-2943.42
+EB66-D679,Pryce,Bode,Sales,Sales Representative,20,0,0,Yes,4.0,Yes,27060,Yes,0.8671,High Risk,31465.57,4405.57
+EB81-3E51,Laetitia,Muccino,Technology,Senior Software Engineer,41,3,1,No,3.0,Yes,268964,Yes,0.5634,Medium Risk,257925.55,-11038.45
+EB8F-204D,Ingram,Franciskiewicz,Technology,Data Scientist,26,1,0,No,3.0,Yes,49045,Yes,0.7558,High Risk,42864.43,-6180.57
+EBBD-37D4,Bonni,Coal,Sales,Sales Executive,35,10,9,No,4.0,No,98435,No,0.0161,Low Risk,132062.13,33627.13
+EBF4-5928,Rudolph,MacDearmont,Sales,Sales Executive,21,0,0,No,3.0,No,63375,No,0.3135,Low Risk,55921.56,-7453.44
+EC4D-D0F3,Camilla,Caistor,Human Resources,HR Executive,28,2,2,No,2.0,No,96807,No,0.2803,Low Risk,131549.74,34742.74
+EC6A-DD76,Meade,Malthouse,Technology,Data Scientist,20,0,0,No,2.0,Yes,37361,Yes,0.8771,High Risk,38541.97,1180.97
+EC6E-7F42,Art,Brisseau,Technology,Senior Software Engineer,42,1,0,No,1.0,Yes,264513,Yes,0.6638,High Risk,257687.41,-6825.59
+ECC7-B638,Patrice,Boorman,Sales,Sales Executive,24,4,1,No,4.0,No,41741,No,0.3239,Low Risk,80719.3,38978.3
+ECD4-3FF7,Kenyon,Fawltey,Technology,Data Scientist,19,0,0,Yes,3.0,No,58408,Yes,0.5069,Medium Risk,39087.85,-19320.15
+ECDA-E9F0,Conway,Huntall,Technology,Machine Learning Engineer,21,0,0,No,3.0,No,55170,No,0.2452,Low Risk,63238.02,8068.02
+ED49-73D3,Carita,Frazier,Sales,Sales Executive,28,9,9,Yes,5.0,No,134427,No,0.1772,Low Risk,146000.15,11573.15
+ED5D-E9D8,Leigh,Parker,Sales,Sales Representative,28,8,4,No,3.0,No,52528,No,0.0838,Low Risk,67510.31,14982.31
+ED6C-4287,Bette,Veevers,Technology,Senior Software Engineer,27,1,1,No,3.0,No,88122,No,0.2396,Low Risk,93503.74,5381.74
+ED73-F078,Ernaline,Napolione,Technology,Software Engineer,45,10,6,No,5.0,No,136521,No,0.0476,Low Risk,75418.68,-61102.32
+EDC5-6FB7,Sibelle,Hanse,Sales,Manager,35,3,3,No,4.0,No,396470,No,0.0846,Low Risk,364824.06,-31645.94
+EDF2-2659,Robena,Oris,Technology,Senior Software Engineer,25,5,3,No,4.0,No,64398,No,0.0909,Low Risk,84417.81,20019.81
+EE04-1533,Doralynne,Giacoboni,Sales,Sales Representative,47,9,9,No,3.0,No,46684,No,0.0413,Low Risk,64956.45,18272.45
+EE12-1C73,Phyllis,Wiles,Technology,Senior Software Engineer,21,3,3,No,4.0,No,44940,No,0.1426,Low Risk,54499.65,9559.65
+EE39-C8F2,Jaclin,Chadburn,Technology,Software Engineer,47,10,9,No,4.0,No,46514,No,0.0575,Low Risk,72209.2,25695.2
+EE63-4E57,Margalo,Pettwood,Technology,Senior Software Engineer,24,6,6,No,4.0,No,133949,No,0.0848,Low Risk,89018.98,-44930.02
+EE7E-F5AC,Nonna,Bagnold,Sales,Sales Representative,23,4,4,No,5.0,No,27185,No,0.2485,Low Risk,31377.12,4192.12
+EE91-1A9C,Harley,Dalliwater,Technology,Data Scientist,25,5,3,Yes,4.0,Yes,21350,Yes,0.6854,High Risk,35779.97,14429.97
+EEA0-C109,Silvan,Bratcher,Sales,Sales Executive,26,7,3,No,4.0,No,56892,No,0.1381,Low Risk,88448.57,31556.57
+EEFC-DEC7,Ezri,Cours,Technology,Data Scientist,44,8,4,Yes,2.0,Yes,85523,Yes,0.5623,Medium Risk,70102.65,-15420.35
+EF95-30A5,Gregoire,Bilbrook,Technology,Senior Software Engineer,23,3,1,No,4.0,No,57603,No,0.3677,Medium Risk,64585.02,6982.02
+EFA2-B2D0,Liz,Durnford,Technology,Data Scientist,21,3,1,No,4.0,No,31254,No,0.33,Low Risk,37439.59,6185.59
+EFB8-ED99,Jilli,Allsupp,Sales,Sales Executive,24,5,5,Yes,5.0,No,43158,No,0.3135,Low Risk,81791.06,38633.06
+EFF6-9543,Arvin,Brody,Technology,Software Engineer,21,0,0,No,3.0,No,36431,No,0.3379,Low Risk,37732.73,1301.73
+F062-0B8F,Caty,Avarne,Technology,Analytics Manager,29,0,0,No,3.0,No,374977,No,0.3016,Low Risk,364375.21,-10601.79
+F0C3-4859,Lenka,Ciotti,Technology,Software Engineer,21,0,0,Yes,5.0,Yes,41476,Yes,0.8157,High Risk,40384.93,-1091.07
+F126-8059,Wally,Dowse,Sales,Sales Executive,23,2,2,No,4.0,No,53590,No,0.1931,Low Risk,65227.02,11637.02
+F1A4-58F5,Blake,Duffrie,Technology,Senior Software Engineer,19,0,0,Yes,3.0,No,71551,No,0.3944,Medium Risk,61420.18,-10130.82
+F1A8-7140,Robinet,Nation,Technology,Machine Learning Engineer,24,3,2,No,5.0,No,121470,No,0.1787,Low Risk,86302.59,-35167.41
+F1B6-31B7,Idette,Connett,Human Resources,HR Executive,25,4,4,No,4.0,No,48797,No,0.2349,Low Risk,67468.35,18671.35
+F1BD-033D,Robb,McGeechan,Technology,Software Engineer,25,6,4,Yes,4.0,No,46362,No,0.1965,Low Risk,41668.43,-4693.57
+F20A-F424,Basia,Goodswen,Technology,Data Scientist,27,6,6,No,5.0,No,27550,No,0.1572,Low Risk,37025.96,9475.96
+F220-AAA6,Caspar,Edgley,Technology,Software Engineer,22,1,0,Yes,2.0,No,51272,Yes,0.5798,Medium Risk,38410.62,-12861.38
+F245-F338,Jamie,Lavery,Sales,Sales Executive,18,0,0,No,3.0,No,62054,No,0.2418,Low Risk,59121.28,-2932.72
+F265-79B0,Glenda,Peacock,Technology,Machine Learning Engineer,37,10,10,No,5.0,No,99936,No,0.0284,Low Risk,143083.28,43147.28
+F2BA-F63A,Delbert,Holby,Sales,Sales Representative,21,3,3,No,2.0,No,33641,No,0.127,Low Risk,31617.24,-2023.76
+F33A-9C7F,Paloma,Thornton,Technology,Analytics Manager,42,1,1,No,3.0,No,392379,No,0.1711,Low Risk,375557.78,-16821.22
+F346-3882,Algernon,Crudginton,Sales,Sales Executive,35,1,1,No,3.0,No,200802,No,0.1536,Low Risk,243439.86,42637.86
+F3A3-10CE,Jesus,Marde,Sales,Sales Executive,40,2,1,Yes,5.0,Yes,226512,Yes,0.7235,High Risk,238167.93,11655.93
+F3AE-DEF2,Vern,Foord,Technology,Machine Learning Engineer,20,1,1,No,3.0,No,42308,No,0.209,Low Risk,57707.15,15399.15
+F3CD-9B5B,Timothee,MacFadyen,Sales,Sales Representative,29,2,1,No,4.0,Yes,97794,Yes,0.7169,High Risk,110716.23,12922.23
+F3D0-41D1,Raddie,Broodes,Technology,Software Engineer,20,1,0,Yes,3.0,Yes,22925,Yes,0.8672,High Risk,36998.24,14073.24
+F401-1B75,Nevins,Forst,Technology,Software Engineer,27,7,7,No,2.0,No,26542,No,0.0622,Low Risk,39884.27,13342.27
+F430-0404,Randie,Mouth,Sales,Sales Executive,32,9,6,No,4.0,No,237749,No,0.0585,Low Risk,149660.34,-88088.66
+F45B-1442,Eddy,Dallaway,Human Resources,HR Executive,29,0,0,Yes,3.0,No,142773,No,0.4668,Medium Risk,165945.87,23172.87
+F469-0427,Krissie,Albery,Human Resources,Recruiter,19,0,0,Yes,4.0,Yes,36832,Yes,0.8577,High Risk,32654.02,-4177.98
+F4A3-2126,Dunn,Barthrop,Sales,Sales Representative,24,0,0,Yes,1.0,Yes,29128,Yes,0.88,High Risk,32892.63,3764.63
+F4D2-F6F2,Vi,Khadir,Technology,Engineering Manager,47,8,8,No,2.0,No,287710,No,0.0207,Low Risk,347355.78,59645.78
+F523-1135,Derrik,Seage,Technology,Machine Learning Engineer,29,9,6,No,4.0,No,129703,No,0.0546,Low Risk,144103.53,14400.53
+F532-0DAF,Byrle,Fright,Technology,Software Engineer,22,2,1,No,2.0,No,44076,No,0.3895,Medium Risk,39312.35,-4763.65
+F546-D965,Candice,Libreros,Sales,Sales Executive,23,3,3,No,4.0,No,88382,No,0.1809,Low Risk,71339.67,-17042.33
+F573-D043,Alice,Brabon,Sales,Sales Executive,22,1,0,No,3.0,No,70202,Yes,0.6228,Medium Risk,58439.76,-11762.24
+F578-F0C8,Domeniga,Killock,Technology,Software Engineer,21,1,1,No,2.0,Yes,25149,No,0.3347,Low Risk,37304.79,12155.79
+F58A-302D,Travers,Outhwaite,Sales,Manager,26,6,5,No,4.0,No,290774,No,0.0934,Low Risk,247082.67,-43691.33
+F5B1-A266,Arly,Fleetham,Technology,Software Engineer,22,1,1,No,3.0,No,36677,No,0.3052,Low Risk,37737.37,1060.37
+F5C3-07B0,Vitia,Southall,Technology,Software Engineer,26,7,5,No,3.0,No,25110,No,0.0975,Low Risk,37494.59,12384.59
+F5CC-33FA,Ilario,Stearne,Sales,Sales Executive,25,6,5,No,1.0,No,106738,No,0.0826,Low Risk,92992.75,-13745.25
+F5E3-48BB,Zenia,Rattery,Human Resources,Recruiter,25,3,2,No,5.0,Yes,23547,Yes,0.5808,Medium Risk,45491.5,21944.5
+F60C-4888,Erin,Pickavance,Technology,Data Scientist,36,8,7,Yes,3.0,No,51050,No,0.285,Low Risk,66739.56,15689.56
+F662-DEA5,Morley,Dmitriev,Technology,Data Scientist,38,9,9,No,5.0,No,89362,No,0.0691,Low Risk,68888.36,-20473.64
+F72A-48DD,Ryley,Piche,Technology,Data Scientist,23,3,3,No,3.0,No,27360,No,0.217,Low Risk,39617.36,12257.36
+F72B-49FF,Gerianne,Tidbold,Technology,Machine Learning Engineer,36,4,3,No,3.0,No,251681,No,0.1027,Low Risk,254983.73,3302.73
+F72D-261D,Giustino,Boyan,Technology,Data Scientist,28,1,1,Yes,5.0,Yes,76133,Yes,0.8432,High Risk,71930.21,-4202.79
+F749-A0E8,Marie,Klehn,Technology,Software Engineer,19,0,0,No,3.0,No,66119,No,0.2319,Low Risk,39459.71,-26659.29
+F7B0-E6B2,Tarrance,Reidshaw,Technology,Data Scientist,24,5,5,No,3.0,No,63078,No,0.178,Low Risk,44634.38,-18443.62
+F80F-29CB,Dalton,Liddicoat,Technology,Machine Learning Engineer,23,4,4,No,4.0,No,77420,No,0.1164,Low Risk,72086.66,-5333.34
+F838-C681,Shay,Casburn,Technology,Software Engineer,32,9,3,No,3.0,No,72688,No,0.0238,Low Risk,72397.6,-290.4
+F83C-CA1D,Durante,Heap,Technology,Software Engineer,21,1,0,Yes,4.0,Yes,22515,Yes,0.8772,High Risk,36823.92,14308.92
+F852-C94D,Arni,Maciunas,Sales,Sales Executive,21,1,1,No,3.0,No,47553,No,0.2666,Low Risk,55829.25,8276.25
+F877-3BF9,Cozmo,Duncklee,Technology,Software Engineer,21,1,0,No,3.0,Yes,61345,Yes,0.8126,High Risk,44086.23,-17258.77
+F890-975A,Hynda,Stonehouse,Technology,Engineering Manager,48,9,8,No,2.0,No,314656,No,0.0093,Low Risk,344268.47,29612.47
+F8D4-3CAB,Lynda,Robken,Human Resources,HR Executive,23,4,4,No,4.0,No,99052,No,0.1343,Low Risk,73346.98,-25705.02
+F93D-CB5A,Zondra,Duigenan,Technology,Senior Software Engineer,40,10,9,No,2.0,No,120858,No,0.0202,Low Risk,146949.2,26091.2
+F93E-BDEF,Rodolfo,Askem,Technology,Machine Learning Engineer,43,8,8,Yes,4.0,No,130848,No,0.034,Low Risk,149258.75,18410.75
+F961-5A03,Alejandrina,Pea,Technology,Machine Learning Engineer,27,7,7,No,4.0,No,105398,No,0.0583,Low Risk,85813.13,-19584.87
+F968-671C,Eugene,Benstead,Sales,Sales Executive,27,6,5,No,3.0,Yes,50559,No,0.1897,Low Risk,84413.49,33854.49
+F98B-61B3,Candis,Defew,Technology,Data Scientist,36,8,7,No,3.0,No,72118,No,0.0395,Low Risk,68969.56,-3148.44
+F991-17F5,Kalila,Bengochea,Technology,Software Engineer,28,1,1,Yes,3.0,No,89527,Yes,0.586,Medium Risk,119858.98,30331.98
+F997-FE6C,Meryl,Slucock,Technology,Software Engineer,40,9,9,No,5.0,No,41601,No,0.015,Low Risk,70374.35,28773.35
+F9B6-C80B,Veronica,Farlham,Technology,Software Engineer,43,10,6,No,4.0,No,43211,No,0.0347,Low Risk,69316.75,26105.75
+F9BA-C7C8,Celina,Pawlata,Technology,Data Scientist,23,2,0,No,4.0,No,27347,Yes,0.5128,Medium Risk,38556.43,11209.43
+F9C6-39E2,Cassandra,Udden,Sales,Sales Representative,48,8,6,No,3.0,No,55880,No,0.0394,Low Risk,65472.9,9592.9
+F9D2-5579,Nancie,Storck,Technology,Senior Software Engineer,21,1,1,No,3.0,No,49516,No,0.2092,Low Risk,50135.02,619.02
+F9E1-87E9,Briana,Bubeer,Sales,Sales Executive,33,8,3,Yes,5.0,No,193190,No,0.191,Low Risk,148652.68,-44537.32
+FA48-B743,Jorie,Ockland,Technology,Data Scientist,21,3,3,No,3.0,No,64887,No,0.1585,Low Risk,42894.16,-21992.84
+FAB0-2FF2,Lola,Gatecliffe,Technology,Senior Software Engineer,22,4,4,No,1.0,No,80975,No,0.1158,Low Risk,73461.56,-7513.44
+FAC0-942B,Darbee,Larmor,Technology,Software Engineer,32,8,5,Yes,2.0,No,48377,No,0.2091,Low Risk,70402.25,22025.25
+FAD6-EAA3,Cyrill,Cowle,Technology,Machine Learning Engineer,23,3,2,Yes,3.0,No,47046,No,0.2624,Low Risk,68919.77,21873.77
+FADC-21F2,Barbra,Lanceter,Technology,Data Scientist,24,3,3,Yes,3.0,No,40342,No,0.3056,Low Risk,41479.94,1137.94
+FADE-8191,Venita,MacCague,Technology,Data Scientist,28,2,1,No,2.0,No,85987,Yes,0.5733,Medium Risk,90054.11,4067.11
+FB1D-5A51,Allys,Ruberry,Technology,Software Engineer,23,5,5,No,2.0,No,25500,No,0.0908,Low Risk,36976.86,11476.86
+FB1F-9947,Gerianne,Redhouse,Technology,Machine Learning Engineer,23,4,3,Yes,2.0,No,106418,No,0.2925,Low Risk,85642.05,-20775.95
+FB4B-067E,Adan,Sunderland,Technology,Engineering Manager,31,5,2,Yes,2.0,No,442820,No,0.2047,Low Risk,312769.18,-130050.82
+FB5B-C127,Ameline,Hawton,Technology,Software Engineer,25,7,6,No,3.0,No,70068,No,0.026,Low Risk,46442.33,-23625.67
+FB6A-3F11,Ophelia,Cosby,Technology,Data Scientist,22,4,4,No,3.0,No,34193,No,0.1819,Low Risk,39678.56,5485.56
+FBAF-649F,Mathilda,Franchi,Technology,Machine Learning Engineer,19,0,0,Yes,3.0,No,53571,No,0.3318,Low Risk,58009.28,4438.28
+FBC2-C5FA,Hillel,Quenby,Technology,Data Scientist,44,9,9,No,5.0,No,74172,No,0.048,Low Risk,71052.41,-3119.59
+FBED-F86B,Karylin,Aphale,Technology,Software Engineer,29,8,8,No,3.0,No,72057,No,0.0966,Low Risk,69049.33,-3007.67
+FC24-43F6,Stevana,Djorvic,Technology,Data Scientist,26,5,5,No,2.0,No,34805,No,0.1778,Low Risk,36932.55,2127.55
+FC2A-4F21,Torre,Blazynski,Sales,Sales Executive,32,0,0,No,3.0,No,173656,No,0.264,Low Risk,183824.52,10168.52
+FC47-1953,Barby,Plaid,Technology,Data Scientist,25,6,1,No,4.0,No,31931,No,0.2409,Low Risk,39766.64,7835.64
+FD0B-7B0A,Melessa,Eyres,Sales,Sales Representative,27,1,0,Yes,5.0,Yes,22648,Yes,0.8471,High Risk,33544.9,10896.9
+FD1A-92C2,Belvia,Dockrell,Sales,Sales Executive,35,0,0,No,3.0,No,225565,No,0.2603,Low Risk,230606.57,5041.57
+FD3F-5255,Quintilla,Wyllt,Technology,Data Scientist,45,10,8,Yes,3.0,No,64795,No,0.0797,Low Risk,70284.07,5489.07
+FD95-9EEB,Sasha,Incogna,Technology,Data Scientist,30,0,0,Yes,1.0,Yes,96187,Yes,0.8757,High Risk,114398.14,18211.14
+FE0F-498F,Jerrie,Juares,Technology,Data Scientist,22,4,4,No,5.0,No,57686,No,0.1446,Low Risk,40998.99,-16687.01
+FE2B-3DC7,Mattie,Wippermann,Technology,Data Scientist,28,5,4,Yes,4.0,Yes,35606,Yes,0.6672,High Risk,62268.09,26662.09
+FEEC-A663,Cher,Molian,Technology,Software Engineer,27,7,4,No,4.0,No,48442,No,0.0985,Low Risk,40149.47,-8292.53
+FF14-A43E,Koenraad,Nannizzi,Technology,Data Scientist,47,10,5,No,4.0,No,40786,No,0.1092,Low Risk,64637.91,23851.91
+FF42-EA28,Madella,Worham,Technology,Data Scientist,18,0,0,No,3.0,No,28246,No,0.2881,Low Risk,40720.08,12474.08
+FFCF-0BD5,Sky,Mattioni,Human Resources,Recruiter,23,5,5,No,2.0,No,30683,No,0.1874,Low Risk,35360.56,4677.56
